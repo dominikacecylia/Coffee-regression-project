@@ -1,386 +1,385 @@
 idx,price(GBP),weight,process,destination,roast,blend,arabica_robusta,origin,weight(g),price_per_kg
-1,18.8,6 x 60g,,Drip (Metody alternatywne),light,beans,100% Arabica,,360,52.22
-2,7.98,250 g,Natural,Drip (Metody alternatywne),medium,beans,100% Arabica,Brazylia,250,31.92
-3,9.8,250 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Etiopia,250,39.2
-4,9.8,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Etiopia,250,39.2
-5,8.8,250 g,Natural,Drip (Metody alternatywne),dark,beans,100% Arabica,Indonezja,250,35.2
-6,5.19,250 g,Natural,Drip (Metody alternatywne),medium,beans,100% Arabica,Brazylia,250,20.76
-7,9,200 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Kenia,200,45
-8,35,125 g,Carbonic Maceration,Drip (Metody alternatywne),light,beans,100% Arabica,Panama,125,280
-9,1.1,11 g,,Drip (Metody alternatywne),light,ground,100% Arabica,Kolumbia,11,100
-10,11.4,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Salwador,250,45.6
-11,15.8,252 g,Honey,Drip (Metody alternatywne),light,beans,100% Arabica,Boliwia,252,62.7
-12,13.2,252 g,Honey,Drip (Metody alternatywne),light,beans,100% Arabica,Honduras,252,52.38
-13,12.8,8 x 11g,Natural,Drip (Metody alternatywne),medium,ground,100% Arabica,Brazylia,88,145.45
-14,15,250 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Burundi,250,60
-15,12.6,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Burundi,250,50.4
-16,12.8,8 x 11g,Natural,Drip (Metody alternatywne),light,ground,100% Arabica,Etiopia,88,145.45
-17,12.8,8 x 11g,Washed,Drip (Metody alternatywne),light,ground,100% Arabica,Gwatemala,88,145.45
-18,10.4,200 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Honduras,200,52
-19,17.8,200 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Kolumbia,200,89
-20,22,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Kolumbia,250,88
-21,8.4,250 g,Washed,Drip (Metody alternatywne),medium,beans,100% Arabica,Etiopia,250,33.6
-22,9.4,250 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,,250,37.6
-23,21,5 x 100g,,Drip (Metody alternatywne),light,beans,100% Arabica,,400,52.5
-24,12.2,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Kolumbia,250,48.8
-25,12.6,250 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Kolumbia,250,50.4
-26,23.8,1 kg,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,"Brazylia, inne",1000,23.8
-27,11.6,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Etiopia,250,46.4
-28,12.6,250 g,Washed Anaerobic,Drip (Metody alternatywne),light,beans,100% Arabica,Honduras,250,50.4
-29,11.2,250 g,Red Honey,Drip (Metody alternatywne),light,beans,100% Arabica,Indie,250,44.8
-30,11.2,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Peru,250,44.8
-31,11.2,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Rwanda,250,44.8
-32,11.2,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Rwanda,250,44.8
-33,12.6,250 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Etiopia,250,50.4
-34,11,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Gwatemala,250,44
-35,11.8,250 g,Anaerobic,Drip (Metody alternatywne),light,beans,100% Arabica,Honduras,250,47.2
-36,9.8,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Kolumbia,250,39.2
-37,12,125 g,Carbonic Maceration,Drip (Metody alternatywne),light,beans,100% Arabica,Gwatemala,125,96
-38,12.8,125 g,Carbonic Maceration,Drip (Metody alternatywne),light,beans,100% Arabica,Gwatemala,125,102.4
-39,6.6,250 g,,Drip (Metody alternatywne),light,beans,100% Arabica,,250,26.4
-40,9.6,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Rwanda,250,38.4
-41,0.9,11 g,,Drip (Metody alternatywne),light,ground,100% Arabica,Brazylia,11,81.82
-42,6.3,8 x 11g,,Drip (Metody alternatywne),light,ground,100% Arabica,Brazylia,88,71.59
-43,1,11 g,Washed,Drip (Metody alternatywne),light,ground,100% Arabica,Etiopia,11,90.91
-44,7,8 x 11g,Washed,Drip (Metody alternatywne),light,ground,100% Arabica,Etiopia,88,79.55
-45,0.9,11 g,,Drip (Metody alternatywne),light,ground,100% Arabica,Honduras,11,81.82
-46,6.3,8 x 11g,,Drip (Metody alternatywne),light,ground,100% Arabica,Honduras,88,71.59
-47,1.1,11 g,Washed,Drip (Metody alternatywne),light,ground,100% Arabica,Kenia,11,100
-48,7.7,8 x 11g,Washed,Drip (Metody alternatywne),light,ground,100% Arabica,Kenia,88,87.5
-49,7,8 x 11g,,Drip (Metody alternatywne),light,ground,100% Arabica,Kolumbia,88,79.55
-50,6.5,8 x 11g,,Drip (Metody alternatywne),light,ground,100% Arabica,,88,73.86
-51,10.4,250 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Kolumbia,250,41.6
-52,7.3,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Kolumbia,250,29.2
-53,11,250 g,Macerated Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Peru,250,44
-54,9,200 g,,Drip (Metody alternatywne),light,beans,100% Arabica,Kolumbia,200,45
-55,9.6,200 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Kolumbia,200,48
-56,9,200 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Indonezja,200,45
-57,8.4,200 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Peru,200,42
-58,9,200 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Rwanda,200,45
-59,11.6,250 g,Natural,Drip (Metody alternatywne),light,capsules,100% Arabica,Kostaryka,250,46.4
-60,11.6,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Etiopia,250,46.4
-61,11.8,250 g,Black Honey,Drip (Metody alternatywne),light,beans,100% Arabica,Etiopia,250,47.2
-62,10.6,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Etiopia,250,42.4
-63,11,250 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Kolumbia,250,44
-64,11,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Kolumbia,250,44
-65,5.4,250 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Brazylia,250,21.6
-66,10.8,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Chiny,250,43.2
-67,10,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Etiopia,250,40
-68,10,250 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Etiopia,250,40
-69,10,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Gwatemala,250,40
-70,10,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Indonezja,250,40
-71,10.8,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Kenia,250,43.2
-72,10.8,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Mjanma,250,43.2
-73,7,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Gwatemala,250,28
-74,8,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Kolumbia,250,32
-75,11,250 g,Red Honey,Drip (Metody alternatywne),light,beans,100% Arabica,Kostaryka,250,44
-76,10.2,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Rwanda,250,40.8
-77,14,250 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Rwanda,250,56
-78,6,250 g,Honey,Drip (Metody alternatywne),light,beans,100% Arabica,Brazylia,250,24
-79,6,250 g,Pulped natural,Drip (Metody alternatywne),light,beans,100% Arabica,Brazylia,250,24
-80,8.4,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Burundi,250,33.6
-81,8.8,250 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Kostaryka,250,35.2
-82,6,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Gwatemala,250,24
-83,14.4,250 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Gwatemala,250,57.6
-84,7.8,250 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Gwatemala,250,31.2
-85,8.4,250 g,Honey,Drip (Metody alternatywne),light,beans,100% Arabica,Honduras,250,33.6
-86,8.6,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Indonezja,250,34.4
-87,8,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Peru,250,32
-88,13,300 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Etiopia,300,43.33
-89,10.4,300 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Peru,300,34.67
-90,14,300 g,Macerated Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Peru,300,46.67
-91,13.4,300 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Peru,300,44.67
-92,11.8,300 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Rwanda,300,39.33
-93,6.8,250 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Brazylia,250,27.2
-94,10.2,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Etiopia,250,40.8
-95,10.6,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Gwatemala,250,42.4
-96,13.4,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Kenia,250,53.6
-97,10,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Kolumbia,250,40
-98,11,250 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Rwanda,250,44
-99,11,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Rwanda,250,44
-100,11.6,250 g,Yellow Bourbon,Drip (Metody alternatywne),light,beans,100% Arabica,Brazylia,250,46.4
-101,14,250 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Salwador,250,56
-102,31.8,1 kg,,Drip (Metody alternatywne),light,beans,100% Arabica,"Brazylia, Kenia",1000,31.8
-103,12.8,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Kenia,250,51.2
-104,9.8,250 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Brazylia,250,39.2
-105,11.6,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Kolumbia,250,46.4
-106,9.6,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Brazylia,250,38.4
-107,10,250 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Rwanda,250,40
-108,10,250 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Rwanda,250,40
-109,11,250 g,Aerobic Fermentation in Piles,Drip (Metody alternatywne),light,beans,100% Arabica,Brazylia,250,44
-110,11.8,250 g,Yeast Process,Drip (Metody alternatywne),light,beans,100% Arabica,Salwador,250,47.2
-111,12,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Etiopia,250,48
-112,12.8,250 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Etiopia,250,51.2
-113,12.8,250 g,Yellow Honey,Drip (Metody alternatywne),light,beans,100% Arabica,Etiopia,250,51.2
-114,12.8,250 g,Washed Anaerobic,Drip (Metody alternatywne),light,beans,100% Arabica,Honduras,250,51.2
-115,13.6,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Honduras,250,54.4
-116,13.6,250 g,Carbonic Maceration,Drip (Metody alternatywne),light,beans,100% Arabica,Kolumbia,250,54.4
-117,13.6,250 g,Yellow Honey,Drip (Metody alternatywne),light,beans,100% Arabica,Kostaryka,250,54.4
-118,14,250 g,Honey,Drip (Metody alternatywne),light,beans,100% Arabica,Kostaryka,250,56
-119,12,250 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Meksyk,250,48
-120,12,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Peru,250,48
-121,10,250 g,,Drip (Metody alternatywne),light,beans,100% Arabica,Peru,250,40
-122,21,1 kg,,Drip (Metody alternatywne),light,beans,100% Arabica,"Brazylia, inne",1000,21
-123,5.8,250 g,,Drip (Metody alternatywne),light,beans,100% Arabica,"Brazylia, inne",250,23.2
-124,29,1 kg,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Etiopia,1000,29
-125,8,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Etiopia,250,32
-126,15.4,500 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Etiopia,500,30.8
-127,30,1 kg,,Drip (Metody alternatywne),light,beans,100% Arabica,Rwanda,1000,30
-128,8.2,250 g,,Drip (Metody alternatywne),light,beans,100% Arabica,Rwanda,250,32.8
-129,15.8,500 g,,Drip (Metody alternatywne),light,beans,100% Arabica,Rwanda,500,31.6
-130,5,250 g,,Drip (Metody alternatywne),light,ground,100% Arabica,,250,20
-131,9.52,250 g,Yellow Honey,Drip (Metody alternatywne),light,beans,100% Arabica,Kostaryka,250,38.08
-132,10.4,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Gwatemala,250,41.6
-133,8.4,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Honduras,250,33.6
-134,8.4,250 g,Honey,Drip (Metody alternatywne),light,beans,100% Arabica,Meksyk,250,33.6
-135,15.8,250 g,Anaerobic,Drip (Metody alternatywne),light,beans,100% Arabica,Kolumbia,250,63.2
-136,15.6,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Etiopia,250,62.4
-137,15,250 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Etiopia,250,60
-138,11,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Burundi,250,44
-139,5.8,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Gwatemala,250,23.2
-140,9.8,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Etiopia,250,39.2
-141,11,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Kenia,250,44
-142,11,250 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Kostaryka,250,44
-143,15.8,200 g,Honey,Drip (Metody alternatywne),light,beans,100% Arabica,Kostaryka,200,79
-144,11,250 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Nikaragua,250,44
-145,13.8,250 g,Anaerobic natural,Drip (Metody alternatywne),light,beans,100% Arabica,Salwador,250,55.2
-146,11,250 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Uganda,250,44
-147,8.03,250 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Uganda,250,32.12
-148,11.4,250 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Brazylia,250,45.6
-149,11,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Burundi,250,44
-150,12,250 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Burundi,250,48
-151,11.2,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Etiopia,250,44.8
-152,10,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Kenia,250,40
-153,15,250 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Kolumbia,250,60
-154,10,250 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Salwador,250,40
-155,10,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Gwatemala,250,40
-156,10.6,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Honduras,250,42.4
-157,13.4,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Kenia,250,53.6
-158,8.6,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Kolumbia,250,34.4
-159,9,200 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Brazylia,200,45
-160,9.4,200 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Kolumbia,200,47
-161,7.6,200 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Etiopia,200,38
-162,15.68,200 g,Anaerobic,Drip (Metody alternatywne),light,beans,100% Arabica,Kolumbia,200,78.4
-163,13.86,200 g,Rum Aged,Drip (Metody alternatywne),light,beans,100% Arabica,Kolumbia,200,69.3
-164,6.6,125 g,Macerated Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Honduras,125,52.8
-165,6.6,125 g,Macerated Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Honduras,125,52.8
-166,22,250 g,Anaerobic,Drip (Metody alternatywne),light,beans,100% Arabica,Salwador,250,88
-167,14.6,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Boliwia,250,58.4
-168,15,200 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Panama,200,75
-169,17.8,200 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Kolumbia,200,89
-170,16.4,200 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Kolumbia,200,82
-171,14.6,200 g,CRYO,Drip (Metody alternatywne),light,beans,100% Arabica,Brazylia,200,73
-172,12,250 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Burundi,250,48
-173,11.6,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Kolumbia,250,46.4
-174,13,250 g,Yeast Process,Drip (Metody alternatywne),light,beans,100% Arabica,Salwador,250,52
-175,12,250 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Rwanda,250,48
-176,6.6,250 g,Pulped natural,Drip (Metody alternatywne),medium,beans,100% Arabica,Brazylia,250,26.4
-177,11.8,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Kostaryka,250,47.2
-178,9.8,250 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Etiopia,250,39.2
-179,10,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Peru,250,40
-180,11.8,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Etiopia,250,47.2
-181,8.26,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Etiopia,250,33.04
-182,13.6,250 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Indonezja,250,54.4
-183,11.8,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Etiopia,250,47.2
-184,11.6,250 g,Anaerobic,Drip (Metody alternatywne),light,beans,100% Arabica,Honduras,250,46.4
-185,12,250 g,Washed i natural,Drip (Metody alternatywne),light,beans,100% Arabica,Kolumbia,250,48
-186,11.6,250 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Rwanda,250,46.4
-187,9,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Etiopia,250,36
-188,9,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Gwatemala,250,36
-189,8.2,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Honduras,250,32.8
-190,9.8,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Kenia,250,39.2
-191,9,250 g,Honey,Drip (Metody alternatywne),light,beans,100% Arabica,Kostaryka,250,36
-192,9,250 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Nikaragua,250,36
-193,13.6,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Kolumbia,250,54.4
-194,8.4,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Etiopia,250,33.6
-195,11,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Gwatemala,250,44
-196,6.6,250 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Brazylia,250,26.4
-197,12.8,250 g,"Washed, Barrel Aged",Drip (Metody alternatywne),light,beans,100% Arabica,Kolumbia,250,51.2
-198,8.4,250 g,Washed,Drip (Metody alternatywne),medium,beans,100% Arabica,Salwador,250,33.6
-199,15.8,500 g,Natural,Drip (Metody alternatywne),medium,beans,100% Arabica,Sumatra,500,31.6
-200,8.4,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Gwatemala,250,33.6
-201,9.75,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Kenia,250,39
-202,10,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Rwanda,250,40
-203,11.8,250 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Rwanda,250,47.2
-204,1.2,10g,,Drip (Metody alternatywne),light,ground,100% Arabica,Etiopia,10,120
-205,7.2,7 x 10g,,Drip (Metody alternatywne),light,ground,100% Arabica,Etiopia,70,102.86
-206,1.2,10g,,Drip (Metody alternatywne),light,ground,100% Arabica,Etiopia,10,120
-207,7.2,7 x 10g,,Drip (Metody alternatywne),light,ground,100% Arabica,Etiopia,70,102.86
-208,1.2,10g,,Drip (Metody alternatywne),light,ground,100% Arabica,Kolumbia,10,120
-209,7.2,7 x 10g,,Drip (Metody alternatywne),light,ground,100% Arabica,Kolumbia,70,102.86
-210,5.76,7 x 10g,,Drip (Metody alternatywne),light,ground,100% Arabica,Kolumbia,70,82.29
-211,13.2,252 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Brazylia,252,52.38
-212,13,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Burundi,250,52
-213,12.4,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Gwatemala,250,49.6
-214,13.2,250 g,Honey,Drip (Metody alternatywne),light,beans,100% Arabica,Nikaragua,250,52.8
-215,11.52,8 x 11g,Natural,Drip (Metody alternatywne),light,ground,100% Arabica,Etiopia,88,130.91
-216,15,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Kenia,250,60
-217,15,250 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Nikaragua,250,60
-218,14.4,125 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Panama,125,115.2
-219,21.8,250 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Etiopia,250,87.2
-220,14.4,100 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Etiopia,100,144
-221,11.6,250 g,Semi-Carbonic Maceration,Drip (Metody alternatywne),light,beans,100% Arabica,Brazylia,250,46.4
-222,9.4,250 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Brazylia,250,37.6
-223,11.6,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Etiopia,250,46.4
-224,9.2,250 g,Monsooning,Drip (Metody alternatywne),medium,beans,100% Arabica,Indie,250,36.8
-225,10.8,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Peru,250,43.2
-226,10.6,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Rwanda,250,42.4
-227,23,2 x 200g,,Drip (Metody alternatywne),light,beans,100% Arabica,Brazylia,400,57.5
-228,15,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Kenia,250,60
-229,13.2,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Honduras,250,52.8
-230,13.8,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Kenia,250,55.2
-231,15.8,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Kenia,250,63.2
-232,10.2,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Peru,250,40.8
-233,12.6,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Kenia,250,50.4
-234,12.6,250 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Kolumbia,250,50.4
-235,27,1 kg,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,"Rwanda, inne",1000,27
-236,11.6,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Kenia,250,46.4
-237,10.8,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Rwanda,250,43.2
-238,8.68,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Kolumbia,250,34.72
-239,8.68,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Kolumbia,250,34.72
-240,8.96,250 g,Red Honey,Drip (Metody alternatywne),light,beans,100% Arabica,Indie,250,35.84
-241,7.84,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Rwanda,250,31.36
-242,11,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Gwatemala,250,44
-243,10.8,250 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Nikaragua,250,43.2
-244,12,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Rwanda,250,48
-245,8.25,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Gwatemala,250,33
-246,6.4,125 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Kolumbia,125,51.2
-247,8.64,250 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Nikaragua,250,34.56
-248,5.04,8 x 11g,,Drip (Metody alternatywne),light,ground,100% Arabica,Honduras,88,57.27
-249,13.2,250 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Rwanda,250,52.8
-250,11.4,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Rwanda,250,45.6
-251,12,250 g,Anaerobic,Drip (Metody alternatywne),light,beans,100% Arabica,Brazylia,250,48
-252,9.6,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Honduras,250,38.4
-253,10,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Kenia,250,40
-254,10.4,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Kenia,250,41.6
-255,11.4,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Kenia,250,45.6
-256,10,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Kenia,250,40
-257,8.8,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Peru,250,35.2
-258,8.32,250 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Kolumbia,250,33.28
-259,7.2,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,"Papua Nowa Gwinea, Rwanda",250,28.8
-260,9,200 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Kolumbia,200,45
-261,8.4,200 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Kolumbia,200,42
-262,9,200 g,Honey,Drip (Metody alternatywne),light,beans,100% Arabica,Salwador,200,45
-263,8.6,200 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Rwanda,200,43
-264,6.3,200 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Indonezja,200,31.5
-265,9.8,250 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Brazylia,250,39.2
-266,11.8,250 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Chiny,250,47.2
-267,12.4,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Etiopia,250,49.6
-268,9.8,250 g,Honey,Drip (Metody alternatywne),light,beans,100% Arabica,Burundi,250,39.2
-269,10.2,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Etiopia,250,40.8
-270,10.4,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Kenia,250,41.6
-271,10.2,250 g,Anaerobic,Drip (Metody alternatywne),light,beans,100% Arabica,Rwanda,250,40.8
-272,10,250 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Etiopia,250,40
-273,6.8,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Robusta,Indie,250,27.2
-274,13.8,500 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Kostaryka,500,27.6
-275,13.8,500 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Meksyk,500,27.6
-276,9.2,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Nikaragua,250,36.8
-277,7.2,250 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Brazylia,250,28.8
-278,7,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Etiopia,250,28
-279,7,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Gwatemala,250,28
-280,11.8,250 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Etiopia,250,47.2
-281,11.6,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Kenia,250,46.4
-282,11.8,250 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Peru,250,47.2
-283,11.4,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Peru,250,45.6
-284,11.4,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Rwanda,250,45.6
-285,8.85,250 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Peru,250,35.4
-286,8.55,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Peru,250,34.2
-287,8.55,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Rwanda,250,34.2
-288,8,250 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Salwador,250,32
-289,7.8,250 g,Red Honey,Drip (Metody alternatywne),light,beans,100% Arabica,Salwador,250,31.2
-290,8.6,250 g,Honey,Drip (Metody alternatywne),light,beans,100% Arabica,Salwador,250,34.4
-291,7.8,250 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Etiopia,250,31.2
-292,12.4,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Gwatemala,250,49.6
-293,6.4,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Meksyk,250,25.6
-294,8.4,250 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Mjanma,250,33.6
-295,6.6,250 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Kostaryka,250,26.4
-296,6.45,250 g,Honey,Drip (Metody alternatywne),light,beans,100% Arabica,Salwador,250,25.8
-297,5.85,250 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Gwatemala,250,23.4
-298,6.3,250 g,Honey,Drip (Metody alternatywne),light,beans,100% Arabica,Honduras,250,25.2
-299,11.8,300 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Rwanda,300,39.33
-300,15,250 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Kolumbia,250,60
-301,9.75,250 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Kolumbia,250,39
-302,9,250 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Kostaryka,250,36
-303,8.25,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Rwanda,250,33
-304,14,250 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Etiopia,250,56
-305,16.4,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Kenia,250,65.6
-306,13.4,250 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Salwador,250,53.6
-307,11.6,250 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Etiopia,250,46.4
-308,9.28,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Kolumbia,250,37.12
-309,9.38,250 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Salwador,250,37.52
-310,8.4,250 g,Honey,Drip (Metody alternatywne),light,beans,100% Arabica,Brazylia,250,33.6
-311,9.4,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Demokratyczna Republika Konga,250,37.6
-312,9.4,250 g,Red Honey,Drip (Metody alternatywne),light,beans,100% Arabica,Etiopia,250,37.6
-313,10.2,250 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Etiopia,250,40.8
-314,10,250 g,Semi-washed,Drip (Metody alternatywne),light,beans,100% Arabica,Kolumbia,250,40
-315,9,250 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Papua Nowa Gwinea,250,36
-316,9,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Tanzania,250,36
-317,6.6,250 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Honduras,250,26.4
-318,7.8,250 g,Pulped natural,Drip (Metody alternatywne),light,beans,100% Arabica,Brazylia,250,31.2
-319,11,250 g,Aerobic Fermentation in Piles,Drip (Metody alternatywne),light,beans,100% Arabica,Brazylia,250,44
-320,13,250 g,Experimental Anaerobic,Drip (Metody alternatywne),light,beans,100% Arabica,Gwatemala,250,52
-321,10.6,250 g,Red Honey,Drip (Metody alternatywne),light,beans,100% Arabica,Honduras,250,42.4
-322,5.8,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Peru,250,23.2
-323,9.49,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Boliwia,250,37.96
-324,13.6,250 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Boliwia,250,54.4
-325,9.52,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Honduras,250,38.08
-326,8.96,250 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Kolumbia,250,35.84
-327,8.4,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Peru,250,33.6
-328,10,,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Indonezja,0,0
-329,12,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Kenia,250,48
-330,8.4,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Kolumbia,250,33.6
-331,8.64,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Gwatemala,250,34.56
-332,12,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Gwatemala,250,48
-333,19.8,6 x 55g,,Drip (Metody alternatywne),light,beans,100% Arabica,,330,60
-334,11.85,200 g,Honey,Drip (Metody alternatywne),light,beans,100% Arabica,Kostaryka,200,59.25
-335,6.75,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Peru,250,27
-336,10.07,250 g,Anaerobic natural,Drip (Metody alternatywne),light,beans,100% Arabica,Salwador,250,40.28
-337,17,250 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Meksyk,250,68
-338,12.4,500 g,,Drip (Metody alternatywne),medium,beans,100% Arabica,"Brazylia, Etiopia",500,24.8
-339,11.4,250 g,Honey,Drip (Metody alternatywne),light,beans,100% Arabica,Brazylia,250,45.6
-340,12.8,250 g,Anaerobic,Drip (Metody alternatywne),light,beans,100% Arabica,Burundi,250,51.2
-341,13.6,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Salwador,250,54.4
-342,7.2,200 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Kostaryka,200,36
-343,13.8,250 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Etiopia,250,55.2
-344,7.6,200 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Gwatemala,200,38
-345,12.4,200 g,Closed Tank Fermentation,Drip (Metody alternatywne),light,beans,100% Arabica,Indonezja,200,62
-346,16,125 g,Carbonic Maceration,Drip (Metody alternatywne),light,beans,100% Arabica,Gwatemala,125,128
-347,16,125 g,Carbonic Maceration,Drip (Metody alternatywne),light,beans,100% Arabica,Gwatemala,125,128
-348,8,125 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Kolumbia,125,64
-349,16,200 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Kolumbia,200,80
-350,15,250 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Salwador,250,60
-351,16,200 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Panama,200,80
-352,16.4,250 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Kostaryka,250,65.6
-353,19.8,200 g,Rum Aged,Drip (Metody alternatywne),light,beans,100% Arabica,Kolumbia,200,99
-354,18,200 g,Washed Double Anaerobic,Drip (Metody alternatywne),light,beans,100% Arabica,Kolumbia,200,90
-355,22.4,200 g,Anaerobic,Drip (Metody alternatywne),light,beans,100% Arabica,Kolumbia,200,112
-356,12.4,250 g,Anaerobic,Drip (Metody alternatywne),light,beans,100% Arabica,Salwador,250,49.6
-357,9.3,250 g,Anaerobic,Drip (Metody alternatywne),light,beans,100% Arabica,Salwador,250,37.2
-358,9.2,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Gwatemala,250,36.8
-359,9.2,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Rwanda,250,36.8
-360,7.8,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Tanzania,250,31.2
-361,9,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Gwatemala,250,36
-362,10.2,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Rwanda,250,40.8
-363,6.3,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Gwatemala,250,25.2
-364,7.14,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Rwanda,250,28.56
-365,12.8,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Burundi,250,51.2
-366,13.2,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Kenia,250,52.8
-367,13.8,250 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Boliwia,250,55.2
-368,13.2,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Etiopia,250,52.8
-369,12.6,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Gwatemala,250,50.4
-370,13.2,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Kolumbia,250,52.8
-371,13.8,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Salwador,250,55.2
-372,15,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Etiopia,250,60
-373,9,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Gwatemala,250,36
-374,9,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Gwatemala,250,36
-375,9,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Kenia,250,36
-376,12,250 g,Anaerobic,Drip (Metody alternatywne),light,beans,100% Arabica,Kolumbia,250,48
-377,9.6,250 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Etiopia,250,38.4
-378,10,250 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Kenia,250,40
-379,9,250 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Kostaryka,250,36
-380,6.3,200 g,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Etiopia,200,31.5
-381,13.4,,Washed,Drip (Metody alternatywne),light,beans,100% Arabica,Kolumbia,0,0
-382,8.8,250 g,Natural,Drip (Metody alternatywne),light,beans,100% Arabica,Brazylia,250,35.2
+1,18.8,6 x 60g,,drip (alternative brewing methods),light,beans,100% Arabica,,360,52.22
+2,7.98,250 g,Natural,drip (alternative brewing methods),medium,beans,100% Arabica,Brazylia,250,31.92
+3,9.8,250 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,250,39.2
+4,9.8,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,250,39.2
+5,8.8,250 g,Natural,drip (alternative brewing methods),dark,beans,100% Arabica,Indonezja,250,35.2
+6,5.19,250 g,Natural,drip (alternative brewing methods),medium,beans,100% Arabica,Brazylia,250,20.76
+7,9,200 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kenia,200,45
+8,35,125 g,Carbonic Maceration,drip (alternative brewing methods),light,beans,100% Arabica,Panama,125,280
+9,1.1,11 g,,drip (alternative brewing methods),light,ground,100% Arabica,Kolumbia,11,100
+10,11.4,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Salwador,250,45.6
+11,15.8,252 g,Honey,drip (alternative brewing methods),light,beans,100% Arabica,Boliwia,252,62.7
+12,13.2,252 g,Honey,drip (alternative brewing methods),light,beans,100% Arabica,Honduras,252,52.38
+13,12.8,8 x 11g,Natural,drip (alternative brewing methods),medium,ground,100% Arabica,Brazylia,88,145.45
+14,15,250 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Burundi,250,60
+15,12.6,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Burundi,250,50.4
+16,12.8,8 x 11g,Natural,drip (alternative brewing methods),light,ground,100% Arabica,Etiopia,88,145.45
+17,12.8,8 x 11g,Washed,drip (alternative brewing methods),light,ground,100% Arabica,Gwatemala,88,145.45
+18,10.4,200 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Honduras,200,52
+19,17.8,200 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,200,89
+20,22,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,250,88
+21,8.4,250 g,Washed,drip (alternative brewing methods),medium,beans,100% Arabica,Etiopia,250,33.6
+22,9.4,250 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,,250,37.6
+23,21,5 x 100g,,drip (alternative brewing methods),light,beans,100% Arabica,,400,52.5
+24,12.2,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,250,48.8
+25,12.6,250 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,250,50.4
+26,23.8,1 kg,Washed,drip (alternative brewing methods),light,beans,100% Arabica,"Brazylia, inne",1000,23.8
+27,11.6,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,250,46.4
+28,12.6,250 g,Washed Anaerobic,drip (alternative brewing methods),light,beans,100% Arabica,Honduras,250,50.4
+29,11.2,250 g,Red Honey,drip (alternative brewing methods),light,beans,100% Arabica,Indie,250,44.8
+30,11.2,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Peru,250,44.8
+31,11.2,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Rwanda,250,44.8
+32,11.2,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Rwanda,250,44.8
+33,12.6,250 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,250,50.4
+34,11,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,250,44
+35,11.8,250 g,Anaerobic,drip (alternative brewing methods),light,beans,100% Arabica,Honduras,250,47.2
+36,9.8,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,250,39.2
+37,12,125 g,Carbonic Maceration,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,125,96
+38,12.8,125 g,Carbonic Maceration,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,125,102.4
+39,6.6,250 g,,drip (alternative brewing methods),light,beans,100% Arabica,,250,26.4
+40,9.6,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Rwanda,250,38.4
+41,0.9,11 g,,drip (alternative brewing methods),light,ground,100% Arabica,Brazylia,11,81.82
+42,6.3,8 x 11g,,drip (alternative brewing methods),light,ground,100% Arabica,Brazylia,88,71.59
+43,1,11 g,Washed,drip (alternative brewing methods),light,ground,100% Arabica,Etiopia,11,90.91
+44,7,8 x 11g,Washed,drip (alternative brewing methods),light,ground,100% Arabica,Etiopia,88,79.55
+45,0.9,11 g,,drip (alternative brewing methods),light,ground,100% Arabica,Honduras,11,81.82
+46,6.3,8 x 11g,,drip (alternative brewing methods),light,ground,100% Arabica,Honduras,88,71.59
+47,1.1,11 g,Washed,drip (alternative brewing methods),light,ground,100% Arabica,Kenia,11,100
+48,7.7,8 x 11g,Washed,drip (alternative brewing methods),light,ground,100% Arabica,Kenia,88,87.5
+49,7,8 x 11g,,drip (alternative brewing methods),light,ground,100% Arabica,Kolumbia,88,79.55
+50,6.5,8 x 11g,,drip (alternative brewing methods),light,ground,100% Arabica,,88,73.86
+51,10.4,250 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,250,41.6
+52,7.3,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,250,29.2
+53,11,250 g,Macerated Natural,drip (alternative brewing methods),light,beans,100% Arabica,Peru,250,44
+54,9,200 g,,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,200,45
+55,9.6,200 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,200,48
+56,9,200 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Indonezja,200,45
+57,8.4,200 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Peru,200,42
+58,9,200 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Rwanda,200,45
+60,11.6,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,250,46.4
+61,11.8,250 g,Black Honey,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,250,47.2
+62,10.6,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,250,42.4
+63,11,250 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,250,44
+64,11,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,250,44
+65,5.4,250 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Brazylia,250,21.6
+66,10.8,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Chiny,250,43.2
+67,10,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,250,40
+68,10,250 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,250,40
+69,10,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,250,40
+70,10,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Indonezja,250,40
+71,10.8,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kenia,250,43.2
+72,10.8,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Mjanma,250,43.2
+73,7,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,250,28
+74,8,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,250,32
+75,11,250 g,Red Honey,drip (alternative brewing methods),light,beans,100% Arabica,Kostaryka,250,44
+76,10.2,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Rwanda,250,40.8
+77,14,250 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Rwanda,250,56
+78,6,250 g,Honey,drip (alternative brewing methods),light,beans,100% Arabica,Brazylia,250,24
+79,6,250 g,Pulped natural,drip (alternative brewing methods),light,beans,100% Arabica,Brazylia,250,24
+80,8.4,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Burundi,250,33.6
+81,8.8,250 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Kostaryka,250,35.2
+82,6,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,250,24
+83,14.4,250 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,250,57.6
+84,7.8,250 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,250,31.2
+85,8.4,250 g,Honey,drip (alternative brewing methods),light,beans,100% Arabica,Honduras,250,33.6
+86,8.6,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Indonezja,250,34.4
+87,8,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Peru,250,32
+88,13,300 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,300,43.33
+89,10.4,300 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Peru,300,34.67
+90,14,300 g,Macerated Natural,drip (alternative brewing methods),light,beans,100% Arabica,Peru,300,46.67
+91,13.4,300 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Peru,300,44.67
+92,11.8,300 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Rwanda,300,39.33
+93,6.8,250 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Brazylia,250,27.2
+94,10.2,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,250,40.8
+95,10.6,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,250,42.4
+96,13.4,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kenia,250,53.6
+97,10,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,250,40
+98,11,250 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Rwanda,250,44
+99,11,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Rwanda,250,44
+100,11.6,250 g,Yellow Bourbon,drip (alternative brewing methods),light,beans,100% Arabica,Brazylia,250,46.4
+101,14,250 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Salwador,250,56
+102,31.8,1 kg,,drip (alternative brewing methods),light,beans,100% Arabica,"Brazylia, Kenia",1000,31.8
+103,12.8,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kenia,250,51.2
+104,9.8,250 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Brazylia,250,39.2
+105,11.6,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,250,46.4
+106,9.6,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Brazylia,250,38.4
+107,10,250 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Rwanda,250,40
+108,10,250 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Rwanda,250,40
+109,11,250 g,Aerobic Fermentation in Piles,drip (alternative brewing methods),light,beans,100% Arabica,Brazylia,250,44
+110,11.8,250 g,Yeast Process,drip (alternative brewing methods),light,beans,100% Arabica,Salwador,250,47.2
+111,12,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,250,48
+112,12.8,250 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,250,51.2
+113,12.8,250 g,Yellow Honey,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,250,51.2
+114,12.8,250 g,Washed Anaerobic,drip (alternative brewing methods),light,beans,100% Arabica,Honduras,250,51.2
+115,13.6,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Honduras,250,54.4
+116,13.6,250 g,Carbonic Maceration,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,250,54.4
+117,13.6,250 g,Yellow Honey,drip (alternative brewing methods),light,beans,100% Arabica,Kostaryka,250,54.4
+118,14,250 g,Honey,drip (alternative brewing methods),light,beans,100% Arabica,Kostaryka,250,56
+119,12,250 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Meksyk,250,48
+120,12,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Peru,250,48
+121,10,250 g,,drip (alternative brewing methods),light,beans,100% Arabica,Peru,250,40
+122,21,1 kg,,drip (alternative brewing methods),light,beans,100% Arabica,"Brazylia, inne",1000,21
+123,5.8,250 g,,drip (alternative brewing methods),light,beans,100% Arabica,"Brazylia, inne",250,23.2
+124,29,1 kg,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,1000,29
+125,8,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,250,32
+126,15.4,500 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,500,30.8
+127,30,1 kg,,drip (alternative brewing methods),light,beans,100% Arabica,Rwanda,1000,30
+128,8.2,250 g,,drip (alternative brewing methods),light,beans,100% Arabica,Rwanda,250,32.8
+129,15.8,500 g,,drip (alternative brewing methods),light,beans,100% Arabica,Rwanda,500,31.6
+130,5,250 g,,drip (alternative brewing methods),light,ground,100% Arabica,,250,20
+131,9.52,250 g,Yellow Honey,drip (alternative brewing methods),light,beans,100% Arabica,Kostaryka,250,38.08
+132,10.4,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,250,41.6
+133,8.4,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Honduras,250,33.6
+134,8.4,250 g,Honey,drip (alternative brewing methods),light,beans,100% Arabica,Meksyk,250,33.6
+135,15.8,250 g,Anaerobic,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,250,63.2
+136,15.6,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,250,62.4
+137,15,250 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,250,60
+138,11,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Burundi,250,44
+139,5.8,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,250,23.2
+140,9.8,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,250,39.2
+141,11,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kenia,250,44
+142,11,250 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Kostaryka,250,44
+143,15.8,200 g,Honey,drip (alternative brewing methods),light,beans,100% Arabica,Kostaryka,200,79
+144,11,250 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Nikaragua,250,44
+145,13.8,250 g,Anaerobic natural,drip (alternative brewing methods),light,beans,100% Arabica,Salwador,250,55.2
+146,11,250 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Uganda,250,44
+147,8.03,250 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Uganda,250,32.12
+148,11.4,250 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Brazylia,250,45.6
+149,11,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Burundi,250,44
+150,12,250 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Burundi,250,48
+151,11.2,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,250,44.8
+152,10,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kenia,250,40
+153,15,250 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,250,60
+154,10,250 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Salwador,250,40
+155,10,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,250,40
+156,10.6,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Honduras,250,42.4
+157,13.4,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kenia,250,53.6
+158,8.6,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,250,34.4
+159,9,200 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Brazylia,200,45
+160,9.4,200 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,200,47
+161,7.6,200 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,200,38
+162,15.68,200 g,Anaerobic,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,200,78.4
+163,13.86,200 g,Rum Aged,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,200,69.3
+164,6.6,125 g,Macerated Natural,drip (alternative brewing methods),light,beans,100% Arabica,Honduras,125,52.8
+165,6.6,125 g,Macerated Natural,drip (alternative brewing methods),light,beans,100% Arabica,Honduras,125,52.8
+166,22,250 g,Anaerobic,drip (alternative brewing methods),light,beans,100% Arabica,Salwador,250,88
+167,14.6,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Boliwia,250,58.4
+168,15,200 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Panama,200,75
+169,17.8,200 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,200,89
+170,16.4,200 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,200,82
+171,14.6,200 g,CRYO,drip (alternative brewing methods),light,beans,100% Arabica,Brazylia,200,73
+172,12,250 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Burundi,250,48
+173,11.6,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,250,46.4
+174,13,250 g,Yeast Process,drip (alternative brewing methods),light,beans,100% Arabica,Salwador,250,52
+175,12,250 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Rwanda,250,48
+176,6.6,250 g,Pulped natural,drip (alternative brewing methods),medium,beans,100% Arabica,Brazylia,250,26.4
+177,11.8,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kostaryka,250,47.2
+178,9.8,250 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,250,39.2
+179,10,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Peru,250,40
+180,11.8,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,250,47.2
+181,8.26,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,250,33.04
+182,13.6,250 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Indonezja,250,54.4
+183,11.8,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,250,47.2
+184,11.6,250 g,Anaerobic,drip (alternative brewing methods),light,beans,100% Arabica,Honduras,250,46.4
+185,12,250 g,Washed i natural,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,250,48
+186,11.6,250 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Rwanda,250,46.4
+187,9,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,250,36
+188,9,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,250,36
+189,8.2,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Honduras,250,32.8
+190,9.8,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kenia,250,39.2
+191,9,250 g,Honey,drip (alternative brewing methods),light,beans,100% Arabica,Kostaryka,250,36
+192,9,250 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Nikaragua,250,36
+193,13.6,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,250,54.4
+194,8.4,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,250,33.6
+195,11,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,250,44
+196,6.6,250 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Brazylia,250,26.4
+197,12.8,250 g,"Washed, Barrel Aged",drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,250,51.2
+198,8.4,250 g,Washed,drip (alternative brewing methods),medium,beans,100% Arabica,Salwador,250,33.6
+199,15.8,500 g,Natural,drip (alternative brewing methods),medium,beans,100% Arabica,Sumatra,500,31.6
+200,8.4,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,250,33.6
+201,9.75,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kenia,250,39
+202,10,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Rwanda,250,40
+203,11.8,250 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Rwanda,250,47.2
+204,1.2,10g,,drip (alternative brewing methods),light,ground,100% Arabica,Etiopia,10,120
+205,7.2,7 x 10g,,drip (alternative brewing methods),light,ground,100% Arabica,Etiopia,70,102.86
+206,1.2,10g,,drip (alternative brewing methods),light,ground,100% Arabica,Etiopia,10,120
+207,7.2,7 x 10g,,drip (alternative brewing methods),light,ground,100% Arabica,Etiopia,70,102.86
+208,1.2,10g,,drip (alternative brewing methods),light,ground,100% Arabica,Kolumbia,10,120
+209,7.2,7 x 10g,,drip (alternative brewing methods),light,ground,100% Arabica,Kolumbia,70,102.86
+210,5.76,7 x 10g,,drip (alternative brewing methods),light,ground,100% Arabica,Kolumbia,70,82.29
+211,13.2,252 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Brazylia,252,52.38
+212,13,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Burundi,250,52
+213,12.4,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,250,49.6
+214,13.2,250 g,Honey,drip (alternative brewing methods),light,beans,100% Arabica,Nikaragua,250,52.8
+215,11.52,8 x 11g,Natural,drip (alternative brewing methods),light,ground,100% Arabica,Etiopia,88,130.91
+216,15,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kenia,250,60
+217,15,250 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Nikaragua,250,60
+218,14.4,125 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Panama,125,115.2
+219,21.8,250 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,250,87.2
+220,14.4,100 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,100,144
+221,11.6,250 g,Semi-Carbonic Maceration,drip (alternative brewing methods),light,beans,100% Arabica,Brazylia,250,46.4
+222,9.4,250 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Brazylia,250,37.6
+223,11.6,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,250,46.4
+224,9.2,250 g,Monsooning,drip (alternative brewing methods),medium,beans,100% Arabica,Indie,250,36.8
+225,10.8,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Peru,250,43.2
+226,10.6,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Rwanda,250,42.4
+227,23,2 x 200g,,drip (alternative brewing methods),light,beans,100% Arabica,Brazylia,400,57.5
+228,15,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kenia,250,60
+229,13.2,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Honduras,250,52.8
+230,13.8,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kenia,250,55.2
+231,15.8,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kenia,250,63.2
+232,10.2,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Peru,250,40.8
+233,12.6,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kenia,250,50.4
+234,12.6,250 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,250,50.4
+235,27,1 kg,Washed,drip (alternative brewing methods),light,beans,100% Arabica,"Rwanda, inne",1000,27
+236,11.6,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kenia,250,46.4
+237,10.8,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Rwanda,250,43.2
+238,8.68,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,250,34.72
+239,8.68,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,250,34.72
+240,8.96,250 g,Red Honey,drip (alternative brewing methods),light,beans,100% Arabica,Indie,250,35.84
+241,7.84,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Rwanda,250,31.36
+242,11,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,250,44
+243,10.8,250 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Nikaragua,250,43.2
+244,12,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Rwanda,250,48
+245,8.25,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,250,33
+246,6.4,125 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,125,51.2
+247,8.64,250 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Nikaragua,250,34.56
+248,5.04,8 x 11g,,drip (alternative brewing methods),light,ground,100% Arabica,Honduras,88,57.27
+249,13.2,250 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Rwanda,250,52.8
+250,11.4,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Rwanda,250,45.6
+251,12,250 g,Anaerobic,drip (alternative brewing methods),light,beans,100% Arabica,Brazylia,250,48
+252,9.6,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Honduras,250,38.4
+253,10,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kenia,250,40
+254,10.4,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kenia,250,41.6
+255,11.4,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kenia,250,45.6
+256,10,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kenia,250,40
+257,8.8,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Peru,250,35.2
+258,8.32,250 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,250,33.28
+259,7.2,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,"Papua Nowa Gwinea, Rwanda",250,28.8
+260,9,200 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,200,45
+261,8.4,200 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,200,42
+262,9,200 g,Honey,drip (alternative brewing methods),light,beans,100% Arabica,Salwador,200,45
+263,8.6,200 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Rwanda,200,43
+264,6.3,200 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Indonezja,200,31.5
+265,9.8,250 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Brazylia,250,39.2
+266,11.8,250 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Chiny,250,47.2
+267,12.4,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,250,49.6
+268,9.8,250 g,Honey,drip (alternative brewing methods),light,beans,100% Arabica,Burundi,250,39.2
+269,10.2,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,250,40.8
+270,10.4,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kenia,250,41.6
+271,10.2,250 g,Anaerobic,drip (alternative brewing methods),light,beans,100% Arabica,Rwanda,250,40.8
+272,10,250 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,250,40
+273,6.8,250 g,Washed,drip (alternative brewing methods),light,beans,100% Robusta,Indie,250,27.2
+274,13.8,500 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kostaryka,500,27.6
+275,13.8,500 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Meksyk,500,27.6
+276,9.2,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Nikaragua,250,36.8
+277,7.2,250 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Brazylia,250,28.8
+278,7,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,250,28
+279,7,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,250,28
+280,11.8,250 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,250,47.2
+281,11.6,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kenia,250,46.4
+282,11.8,250 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Peru,250,47.2
+283,11.4,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Peru,250,45.6
+284,11.4,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Rwanda,250,45.6
+285,8.85,250 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Peru,250,35.4
+286,8.55,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Peru,250,34.2
+287,8.55,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Rwanda,250,34.2
+288,8,250 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Salwador,250,32
+289,7.8,250 g,Red Honey,drip (alternative brewing methods),light,beans,100% Arabica,Salwador,250,31.2
+290,8.6,250 g,Honey,drip (alternative brewing methods),light,beans,100% Arabica,Salwador,250,34.4
+291,7.8,250 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,250,31.2
+292,12.4,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,250,49.6
+293,6.4,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Meksyk,250,25.6
+294,8.4,250 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Mjanma,250,33.6
+295,6.6,250 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Kostaryka,250,26.4
+296,6.45,250 g,Honey,drip (alternative brewing methods),light,beans,100% Arabica,Salwador,250,25.8
+297,5.85,250 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,250,23.4
+298,6.3,250 g,Honey,drip (alternative brewing methods),light,beans,100% Arabica,Honduras,250,25.2
+299,11.8,300 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Rwanda,300,39.33
+300,15,250 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,250,60
+301,9.75,250 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,250,39
+302,9,250 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Kostaryka,250,36
+303,8.25,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Rwanda,250,33
+304,14,250 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,250,56
+305,16.4,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kenia,250,65.6
+306,13.4,250 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Salwador,250,53.6
+307,11.6,250 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,250,46.4
+308,9.28,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,250,37.12
+309,9.38,250 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Salwador,250,37.52
+310,8.4,250 g,Honey,drip (alternative brewing methods),light,beans,100% Arabica,Brazylia,250,33.6
+311,9.4,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Demokratyczna Republika Konga,250,37.6
+312,9.4,250 g,Red Honey,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,250,37.6
+313,10.2,250 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,250,40.8
+314,10,250 g,Semi-washed,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,250,40
+315,9,250 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Papua Nowa Gwinea,250,36
+316,9,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Tanzania,250,36
+317,6.6,250 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Honduras,250,26.4
+318,7.8,250 g,Pulped natural,drip (alternative brewing methods),light,beans,100% Arabica,Brazylia,250,31.2
+319,11,250 g,Aerobic Fermentation in Piles,drip (alternative brewing methods),light,beans,100% Arabica,Brazylia,250,44
+320,13,250 g,Experimental Anaerobic,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,250,52
+321,10.6,250 g,Red Honey,drip (alternative brewing methods),light,beans,100% Arabica,Honduras,250,42.4
+322,5.8,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Peru,250,23.2
+323,9.49,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Boliwia,250,37.96
+324,13.6,250 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Boliwia,250,54.4
+325,9.52,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Honduras,250,38.08
+326,8.96,250 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,250,35.84
+327,8.4,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Peru,250,33.6
+328,10,,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Indonezja,0,0
+329,12,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kenia,250,48
+330,8.4,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,250,33.6
+331,8.64,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,250,34.56
+332,12,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,250,48
+333,19.8,6 x 55g,,drip (alternative brewing methods),light,beans,100% Arabica,,330,60
+334,11.85,200 g,Honey,drip (alternative brewing methods),light,beans,100% Arabica,Kostaryka,200,59.25
+335,6.75,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Peru,250,27
+336,10.07,250 g,Anaerobic natural,drip (alternative brewing methods),light,beans,100% Arabica,Salwador,250,40.28
+337,17,250 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Meksyk,250,68
+338,12.4,500 g,,drip (alternative brewing methods),medium,beans,100% Arabica,"Brazylia, Etiopia",500,24.8
+339,11.4,250 g,Honey,drip (alternative brewing methods),light,beans,100% Arabica,Brazylia,250,45.6
+340,12.8,250 g,Anaerobic,drip (alternative brewing methods),light,beans,100% Arabica,Burundi,250,51.2
+341,13.6,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Salwador,250,54.4
+342,7.2,200 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kostaryka,200,36
+343,13.8,250 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,250,55.2
+344,7.6,200 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,200,38
+345,12.4,200 g,Closed Tank Fermentation,drip (alternative brewing methods),light,beans,100% Arabica,Indonezja,200,62
+346,16,125 g,Carbonic Maceration,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,125,128
+347,16,125 g,Carbonic Maceration,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,125,128
+348,8,125 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,125,64
+349,16,200 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,200,80
+350,15,250 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Salwador,250,60
+351,16,200 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Panama,200,80
+352,16.4,250 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Kostaryka,250,65.6
+353,19.8,200 g,Rum Aged,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,200,99
+354,18,200 g,Washed Double Anaerobic,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,200,90
+355,22.4,200 g,Anaerobic,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,200,112
+356,12.4,250 g,Anaerobic,drip (alternative brewing methods),light,beans,100% Arabica,Salwador,250,49.6
+357,9.3,250 g,Anaerobic,drip (alternative brewing methods),light,beans,100% Arabica,Salwador,250,37.2
+358,9.2,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,250,36.8
+359,9.2,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Rwanda,250,36.8
+360,7.8,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Tanzania,250,31.2
+361,9,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,250,36
+362,10.2,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Rwanda,250,40.8
+363,6.3,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,250,25.2
+364,7.14,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Rwanda,250,28.56
+365,12.8,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Burundi,250,51.2
+366,13.2,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kenia,250,52.8
+367,13.8,250 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Boliwia,250,55.2
+368,13.2,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,250,52.8
+369,12.6,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,250,50.4
+370,13.2,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,250,52.8
+371,13.8,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Salwador,250,55.2
+372,15,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,250,60
+373,9,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,250,36
+374,9,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,250,36
+375,9,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kenia,250,36
+376,12,250 g,Anaerobic,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,250,48
+377,9.6,250 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,250,38.4
+378,10,250 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kenia,250,40
+379,9,250 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Kostaryka,250,36
+380,6.3,200 g,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,200,31.5
+381,13.4,,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,0,0
+382,8.8,250 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Brazylia,250,35.2
 383,14.8,500 g,,"drip, espresso",dark,beans,100% Arabica,,500,29.6
 384,15.8,500 g,,"drip, espresso",medium,beans,100% Arabica,,500,31.6
 385,11,500 g,,"drip, espresso",medium,ground,100% Arabica,,500,22

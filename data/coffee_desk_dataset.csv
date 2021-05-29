@@ -1,4 +1,4 @@
-idx,price(GBP),weight,process,destination,roast,blend,arabica_robusta,origin,weight(g),price_per_kg
+idx,price(GBP),weight,process,brewing method,roast,grind,arabica_robusta,origin,weight(g),price_per_kg
 1,18.8,6 x 60g,,drip (alternative brewing methods),light,beans,100% Arabica,,360,52.22
 2,7.98,250 g,Natural,drip (alternative brewing methods),medium,beans,100% Arabica,Brazylia,250,31.92
 3,9.8,250 g,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,250,39.2

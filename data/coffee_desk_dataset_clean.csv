@@ -1,4 +1,4 @@
-idx,process,destination,roast,blend,arabica_robusta,origin,price_per_kg
+idx,process,brewing method,roast,grind,arabica_robusta,origin,price_per_kg
 1,Macerated Natural,drip (alternative brewing methods),light,beans,100% Arabica,Laos,52.22
 2,Natural,drip (alternative brewing methods),medium,beans,100% Arabica,Brazylia,31.92
 3,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,39.2

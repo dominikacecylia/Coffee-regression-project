@@ -1,0 +1,866 @@
+idx,process,brewing method,roast,grind,origin,price_per_kg,arabica (%)
+1,Macerated Natural,drip (alternative brewing methods),light,beans,Laos,52.22,100
+2,Natural,drip (alternative brewing methods),medium,beans,Brazylia,31.92,100
+3,Natural,drip (alternative brewing methods),light,beans,Etiopia,39.2,100
+4,Washed,drip (alternative brewing methods),light,beans,Etiopia,39.2,100
+5,Natural,drip (alternative brewing methods),dark,beans,Indonezja,35.2,100
+6,Natural,drip (alternative brewing methods),medium,beans,Brazylia,20.76,100
+7,Washed,drip (alternative brewing methods),light,beans,Kenia,45.0,100
+8,Carbonic Maceration,drip (alternative brewing methods),light,beans,Panama,280.0,100
+9,Red Honey,drip (alternative brewing methods),light,ground,Kolumbia,100.0,100
+10,Washed,drip (alternative brewing methods),light,beans,Salwador,45.6,100
+11,Honey,drip (alternative brewing methods),light,beans,Boliwia,62.7,100
+12,Honey,drip (alternative brewing methods),light,beans,Honduras,52.38,100
+13,Natural,drip (alternative brewing methods),medium,ground,Brazylia,145.45,100
+14,Natural,drip (alternative brewing methods),light,beans,Burundi,60.0,100
+15,Washed,drip (alternative brewing methods),light,beans,Burundi,50.4,100
+16,Natural,drip (alternative brewing methods),light,ground,Etiopia,145.45,100
+17,Washed,drip (alternative brewing methods),light,ground,Gwatemala,145.45,100
+18,Natural,drip (alternative brewing methods),light,beans,Honduras,52.0,100
+19,Washed,drip (alternative brewing methods),light,beans,Kolumbia,89.0,100
+20,Washed,drip (alternative brewing methods),light,beans,Kolumbia,88.0,100
+21,Washed,drip (alternative brewing methods),medium,beans,Etiopia,33.6,100
+22,Natural,drip (alternative brewing methods),light,beans,Kostaryka,37.6,100
+23,Macerated Natural,drip (alternative brewing methods),light,beans,Laos,52.5,100
+24,Washed,drip (alternative brewing methods),light,beans,Kolumbia,48.8,100
+25,Natural,drip (alternative brewing methods),light,beans,Kolumbia,50.4,100
+26,Washed,drip (alternative brewing methods),light,beans,Brazil and others,23.8,100
+27,Washed,drip (alternative brewing methods),light,beans,Etiopia,46.4,100
+28,Anaerobic,drip (alternative brewing methods),light,beans,Honduras,50.4,100
+29,Red Honey,drip (alternative brewing methods),light,beans,Indie,44.8,100
+30,Washed,drip (alternative brewing methods),light,beans,Peru,44.8,100
+31,Washed,drip (alternative brewing methods),light,beans,Rwanda,44.8,100
+32,Washed,drip (alternative brewing methods),light,beans,Rwanda,44.8,100
+33,Natural,drip (alternative brewing methods),light,beans,Etiopia,50.4,100
+34,Washed,drip (alternative brewing methods),light,beans,Gwatemala,44.0,100
+35,Anaerobic,drip (alternative brewing methods),light,beans,Honduras,47.2,100
+36,Washed,drip (alternative brewing methods),light,beans,Kolumbia,39.2,100
+37,Carbonic Maceration,drip (alternative brewing methods),light,beans,Gwatemala,96.0,100
+38,Carbonic Maceration,drip (alternative brewing methods),light,beans,Gwatemala,102.4,100
+39,Macerated Natural,drip (alternative brewing methods),light,beans,Laos,26.4,100
+40,Washed,drip (alternative brewing methods),light,beans,Rwanda,38.4,100
+41,Natural,drip (alternative brewing methods),light,ground,Brazylia,81.82,100
+42,Natural,drip (alternative brewing methods),light,ground,Brazylia,71.59,100
+43,Washed,drip (alternative brewing methods),light,ground,Etiopia,90.91,100
+44,Washed,drip (alternative brewing methods),light,ground,Etiopia,79.55,100
+45,Natural,drip (alternative brewing methods),light,ground,Honduras,81.82,100
+46,Natural,drip (alternative brewing methods),light,ground,Honduras,71.59,100
+47,Washed,drip (alternative brewing methods),light,ground,Kenia,100.0,100
+48,Washed,drip (alternative brewing methods),light,ground,Kenia,87.5,100
+49,Red Honey,drip (alternative brewing methods),light,ground,Kolumbia,79.55,100
+50,Red Honey,drip (alternative brewing methods),light,ground,Indonezja,73.86,100
+51,Natural,drip (alternative brewing methods),light,beans,Kolumbia,41.6,100
+52,Washed,drip (alternative brewing methods),light,beans,Kolumbia,29.2,100
+53,Macerated Natural,drip (alternative brewing methods),light,beans,Peru,44.0,100
+54,Red Honey,drip (alternative brewing methods),light,beans,Kolumbia,45.0,100
+55,Washed,drip (alternative brewing methods),light,beans,Kolumbia,48.0,100
+56,Natural,drip (alternative brewing methods),light,beans,Indonezja,45.0,100
+57,Washed,drip (alternative brewing methods),light,beans,Peru,42.0,100
+58,Washed,drip (alternative brewing methods),light,beans,Rwanda,45.0,100
+60,Washed,drip (alternative brewing methods),light,beans,Etiopia,46.4,100
+61,Black Honey,drip (alternative brewing methods),light,beans,Etiopia,47.2,100
+62,Washed,drip (alternative brewing methods),light,beans,Etiopia,42.4,100
+63,Natural,drip (alternative brewing methods),light,beans,Kolumbia,44.0,100
+64,Washed,drip (alternative brewing methods),light,beans,Kolumbia,44.0,100
+65,Natural,drip (alternative brewing methods),light,beans,Brazylia,21.6,100
+66,Washed,drip (alternative brewing methods),light,beans,Chiny,43.2,100
+67,Washed,drip (alternative brewing methods),light,beans,Etiopia,40.0,100
+68,Natural,drip (alternative brewing methods),light,beans,Etiopia,40.0,100
+69,Washed,drip (alternative brewing methods),light,beans,Gwatemala,40.0,100
+70,Washed,drip (alternative brewing methods),light,beans,Indonezja,40.0,100
+71,Washed,drip (alternative brewing methods),light,beans,Kenia,43.2,100
+72,Washed,drip (alternative brewing methods),light,beans,Mjanma,43.2,100
+73,Washed,drip (alternative brewing methods),light,beans,Gwatemala,28.0,100
+74,Washed,drip (alternative brewing methods),light,beans,Kolumbia,32.0,100
+75,Red Honey,drip (alternative brewing methods),light,beans,Kostaryka,44.0,100
+76,Washed,drip (alternative brewing methods),light,beans,Rwanda,40.8,100
+77,Natural,drip (alternative brewing methods),light,beans,Rwanda,56.0,100
+78,Honey,drip (alternative brewing methods),light,beans,Brazylia,24.0,100
+79,Pulped natural,drip (alternative brewing methods),light,beans,Brazylia,24.0,100
+80,Washed,drip (alternative brewing methods),light,beans,Burundi,33.6,100
+81,Natural,drip (alternative brewing methods),light,beans,Kostaryka,35.2,100
+82,Washed,drip (alternative brewing methods),light,beans,Gwatemala,24.0,100
+83,Natural,drip (alternative brewing methods),light,beans,Gwatemala,57.6,100
+84,Natural,drip (alternative brewing methods),light,beans,Gwatemala,31.2,100
+85,Honey,drip (alternative brewing methods),light,beans,Honduras,33.6,100
+86,Washed,drip (alternative brewing methods),light,beans,Indonezja,34.4,100
+87,Washed,drip (alternative brewing methods),light,beans,Peru,32.0,100
+88,Washed,drip (alternative brewing methods),light,beans,Etiopia,43.33,100
+89,Washed,drip (alternative brewing methods),light,beans,Peru,34.67,100
+90,Macerated Natural,drip (alternative brewing methods),light,beans,Peru,46.67,100
+91,Natural,drip (alternative brewing methods),light,beans,Peru,44.67,100
+92,Washed,drip (alternative brewing methods),light,beans,Rwanda,39.33,100
+93,Natural,drip (alternative brewing methods),light,beans,Brazylia,27.2,100
+94,Washed,drip (alternative brewing methods),light,beans,Etiopia,40.8,100
+95,Washed,drip (alternative brewing methods),light,beans,Gwatemala,42.4,100
+96,Washed,drip (alternative brewing methods),light,beans,Kenia,53.6,100
+97,Washed,drip (alternative brewing methods),light,beans,Kolumbia,40.0,100
+98,Natural,drip (alternative brewing methods),light,beans,Rwanda,44.0,100
+99,Washed,drip (alternative brewing methods),light,beans,Rwanda,44.0,100
+100,Yellow Bourbon,drip (alternative brewing methods),light,beans,Brazylia,46.4,100
+101,Natural,drip (alternative brewing methods),light,beans,Salwador,56.0,100
+102,Red Honey,drip (alternative brewing methods),light,beans,Brazil and others,31.8,100
+103,Washed,drip (alternative brewing methods),light,beans,Kenia,51.2,100
+104,Natural,drip (alternative brewing methods),light,beans,Brazylia,39.2,100
+105,Washed,drip (alternative brewing methods),light,beans,Kolumbia,46.4,100
+106,Washed,drip (alternative brewing methods),light,beans,Brazylia,38.4,100
+107,Natural,drip (alternative brewing methods),light,beans,Rwanda,40.0,100
+108,Natural,drip (alternative brewing methods),light,beans,Rwanda,40.0,100
+109,Fermentation,drip (alternative brewing methods),light,beans,Brazylia,44.0,100
+110,Yeast Process,drip (alternative brewing methods),light,beans,Salwador,47.2,100
+111,Washed,drip (alternative brewing methods),light,beans,Etiopia,48.0,100
+112,Natural,drip (alternative brewing methods),light,beans,Etiopia,51.2,100
+113,Yellow Honey,drip (alternative brewing methods),light,beans,Etiopia,51.2,100
+114,Anaerobic,drip (alternative brewing methods),light,beans,Honduras,51.2,100
+115,Washed,drip (alternative brewing methods),light,beans,Honduras,54.4,100
+116,Carbonic Maceration,drip (alternative brewing methods),light,beans,Kolumbia,54.4,100
+117,Yellow Honey,drip (alternative brewing methods),light,beans,Kostaryka,54.4,100
+118,Honey,drip (alternative brewing methods),light,beans,Kostaryka,56.0,100
+119,Natural,drip (alternative brewing methods),light,beans,Meksyk,48.0,100
+120,Washed,drip (alternative brewing methods),light,beans,Peru,48.0,100
+121,Red Honey,drip (alternative brewing methods),light,beans,Peru,40.0,100
+122,Red Honey,drip (alternative brewing methods),light,beans,Brazil and others,21.0,100
+123,Red Honey,drip (alternative brewing methods),light,beans,Brazil and others,23.2,100
+124,Washed,drip (alternative brewing methods),light,beans,Etiopia,29.0,100
+125,Washed,drip (alternative brewing methods),light,beans,Etiopia,32.0,100
+126,Washed,drip (alternative brewing methods),light,beans,Etiopia,30.8,100
+127,Pulped natural,drip (alternative brewing methods),light,beans,Rwanda,30.0,100
+128,Pulped natural,drip (alternative brewing methods),light,beans,Rwanda,32.8,100
+129,Pulped natural,drip (alternative brewing methods),light,beans,Rwanda,31.6,100
+130,Red Honey,drip (alternative brewing methods),light,ground,Indonezja,20.0,100
+131,Yellow Honey,drip (alternative brewing methods),light,beans,Kostaryka,38.08,100
+132,Washed,drip (alternative brewing methods),light,beans,Gwatemala,41.6,100
+133,Washed,drip (alternative brewing methods),light,beans,Honduras,33.6,100
+134,Honey,drip (alternative brewing methods),light,beans,Meksyk,33.6,100
+135,Anaerobic,drip (alternative brewing methods),light,beans,Kolumbia,63.2,100
+136,Washed,drip (alternative brewing methods),light,beans,Etiopia,62.4,100
+137,Natural,drip (alternative brewing methods),light,beans,Etiopia,60.0,100
+138,Washed,drip (alternative brewing methods),light,beans,Burundi,44.0,100
+139,Washed,drip (alternative brewing methods),light,beans,Gwatemala,23.2,100
+140,Washed,drip (alternative brewing methods),light,beans,Etiopia,39.2,100
+141,Washed,drip (alternative brewing methods),light,beans,Kenia,44.0,100
+142,Natural,drip (alternative brewing methods),light,beans,Kostaryka,44.0,100
+143,Honey,drip (alternative brewing methods),light,beans,Kostaryka,79.0,100
+144,Natural,drip (alternative brewing methods),light,beans,Nikaragua,44.0,100
+145,Anaerobic,drip (alternative brewing methods),light,beans,Salwador,55.2,100
+146,Natural,drip (alternative brewing methods),light,beans,Uganda,44.0,100
+147,Natural,drip (alternative brewing methods),light,beans,Uganda,32.12,100
+148,Natural,drip (alternative brewing methods),light,beans,Brazylia,45.6,100
+149,Washed,drip (alternative brewing methods),light,beans,Burundi,44.0,100
+150,Natural,drip (alternative brewing methods),light,beans,Burundi,48.0,100
+151,Washed,drip (alternative brewing methods),light,beans,Etiopia,44.8,100
+152,Washed,drip (alternative brewing methods),light,beans,Kenia,40.0,100
+153,Natural,drip (alternative brewing methods),light,beans,Kolumbia,60.0,100
+154,Natural,drip (alternative brewing methods),light,beans,Salwador,40.0,100
+155,Washed,drip (alternative brewing methods),light,beans,Gwatemala,40.0,100
+156,Washed,drip (alternative brewing methods),light,beans,Honduras,42.4,100
+157,Washed,drip (alternative brewing methods),light,beans,Kenia,53.6,100
+158,Washed,drip (alternative brewing methods),light,beans,Kolumbia,34.4,100
+159,Natural,drip (alternative brewing methods),light,beans,Brazylia,45.0,100
+160,Washed,drip (alternative brewing methods),light,beans,Kolumbia,47.0,100
+161,Washed,drip (alternative brewing methods),light,beans,Etiopia,38.0,100
+162,Anaerobic,drip (alternative brewing methods),light,beans,Kolumbia,78.4,100
+163,Aged,drip (alternative brewing methods),light,beans,Kolumbia,69.3,100
+164,Macerated Natural,drip (alternative brewing methods),light,beans,Honduras,52.8,100
+165,Macerated Natural,drip (alternative brewing methods),light,beans,Honduras,52.8,100
+166,Anaerobic,drip (alternative brewing methods),light,beans,Salwador,88.0,100
+167,Washed,drip (alternative brewing methods),light,beans,Boliwia,58.4,100
+168,Natural,drip (alternative brewing methods),light,beans,Panama,75.0,100
+169,Washed,drip (alternative brewing methods),light,beans,Kolumbia,89.0,100
+170,Washed,drip (alternative brewing methods),light,beans,Kolumbia,82.0,100
+171,Experimental,drip (alternative brewing methods),light,beans,Brazylia,73.0,100
+172,Natural,drip (alternative brewing methods),light,beans,Burundi,48.0,100
+173,Washed,drip (alternative brewing methods),light,beans,Kolumbia,46.4,100
+174,Yeast Process,drip (alternative brewing methods),light,beans,Salwador,52.0,100
+175,Natural,drip (alternative brewing methods),light,beans,Rwanda,48.0,100
+176,Pulped natural,drip (alternative brewing methods),medium,beans,Brazylia,26.4,100
+177,Washed,drip (alternative brewing methods),light,beans,Kostaryka,47.2,100
+178,Natural,drip (alternative brewing methods),light,beans,Etiopia,39.2,100
+179,Washed,drip (alternative brewing methods),light,beans,Peru,40.0,100
+180,Washed,drip (alternative brewing methods),light,beans,Etiopia,47.2,100
+181,Washed,drip (alternative brewing methods),light,beans,Etiopia,33.04,100
+182,Natural,drip (alternative brewing methods),light,beans,Indonezja,54.4,100
+183,Washed,drip (alternative brewing methods),light,beans,Etiopia,47.2,100
+184,Anaerobic,drip (alternative brewing methods),light,beans,Honduras,46.4,100
+185,Hybrid,drip (alternative brewing methods),light,beans,Kolumbia,48.0,100
+186,Natural,drip (alternative brewing methods),light,beans,Rwanda,46.4,100
+187,Washed,drip (alternative brewing methods),light,beans,Etiopia,36.0,100
+188,Washed,drip (alternative brewing methods),light,beans,Gwatemala,36.0,100
+189,Washed,drip (alternative brewing methods),light,beans,Honduras,32.8,100
+190,Washed,drip (alternative brewing methods),light,beans,Kenia,39.2,100
+191,Honey,drip (alternative brewing methods),light,beans,Kostaryka,36.0,100
+192,Natural,drip (alternative brewing methods),light,beans,Nikaragua,36.0,100
+193,Washed,drip (alternative brewing methods),light,beans,Kolumbia,54.4,100
+194,Washed,drip (alternative brewing methods),light,beans,Etiopia,33.6,100
+195,Washed,drip (alternative brewing methods),light,beans,Gwatemala,44.0,100
+196,Natural,drip (alternative brewing methods),light,beans,Brazylia,26.4,100
+197,Aged,drip (alternative brewing methods),light,beans,Kolumbia,51.2,100
+198,Washed,drip (alternative brewing methods),medium,beans,Salwador,33.6,100
+199,Natural,drip (alternative brewing methods),medium,beans,Sumatra,31.6,100
+200,Washed,drip (alternative brewing methods),light,beans,Gwatemala,33.6,100
+201,Washed,drip (alternative brewing methods),light,beans,Kenia,39.0,100
+202,Washed,drip (alternative brewing methods),light,beans,Rwanda,40.0,100
+203,Natural,drip (alternative brewing methods),light,beans,Rwanda,47.2,100
+204,Red Honey,drip (alternative brewing methods),light,ground,Etiopia,120.0,100
+205,Red Honey,drip (alternative brewing methods),light,ground,Etiopia,102.86,100
+206,Red Honey,drip (alternative brewing methods),light,ground,Etiopia,120.0,100
+207,Red Honey,drip (alternative brewing methods),light,ground,Etiopia,102.86,100
+208,Red Honey,drip (alternative brewing methods),light,ground,Kolumbia,120.0,100
+209,Red Honey,drip (alternative brewing methods),light,ground,Kolumbia,102.86,100
+210,Red Honey,drip (alternative brewing methods),light,ground,Kolumbia,82.29,100
+211,Natural,drip (alternative brewing methods),light,beans,Brazylia,52.38,100
+212,Washed,drip (alternative brewing methods),light,beans,Burundi,52.0,100
+213,Washed,drip (alternative brewing methods),light,beans,Gwatemala,49.6,100
+214,Honey,drip (alternative brewing methods),light,beans,Nikaragua,52.8,100
+215,Natural,drip (alternative brewing methods),light,ground,Etiopia,130.91,100
+216,Washed,drip (alternative brewing methods),light,beans,Kenia,60.0,100
+217,Natural,drip (alternative brewing methods),light,beans,Nikaragua,60.0,100
+218,Natural,drip (alternative brewing methods),light,beans,Panama,115.2,100
+219,Natural,drip (alternative brewing methods),light,beans,Etiopia,87.2,100
+220,Natural,drip (alternative brewing methods),light,beans,Etiopia,144.0,100
+221,Carbonic Maceration,drip (alternative brewing methods),light,beans,Brazylia,46.4,100
+222,Natural,drip (alternative brewing methods),light,beans,Brazylia,37.6,100
+223,Washed,drip (alternative brewing methods),light,beans,Etiopia,46.4,100
+224,Advanced,drip (alternative brewing methods),medium,beans,Indie,36.8,100
+225,Washed,drip (alternative brewing methods),light,beans,Peru,43.2,100
+226,Washed,drip (alternative brewing methods),light,beans,Rwanda,42.4,100
+227,Natural,drip (alternative brewing methods),light,beans,Brazylia,57.5,100
+228,Washed,drip (alternative brewing methods),light,beans,Kenia,60.0,100
+229,Washed,drip (alternative brewing methods),light,beans,Honduras,52.8,100
+230,Washed,drip (alternative brewing methods),light,beans,Kenia,55.2,100
+231,Washed,drip (alternative brewing methods),light,beans,Kenia,63.2,100
+232,Washed,drip (alternative brewing methods),light,beans,Peru,40.8,100
+233,Washed,drip (alternative brewing methods),light,beans,Kenia,50.4,100
+234,Natural,drip (alternative brewing methods),light,beans,Kolumbia,50.4,100
+235,Washed,drip (alternative brewing methods),light,beans,Mixed origin,27.0,100
+236,Washed,drip (alternative brewing methods),light,beans,Kenia,46.4,100
+237,Washed,drip (alternative brewing methods),light,beans,Rwanda,43.2,100
+238,Washed,drip (alternative brewing methods),light,beans,Kolumbia,34.72,100
+239,Washed,drip (alternative brewing methods),light,beans,Kolumbia,34.72,100
+240,Red Honey,drip (alternative brewing methods),light,beans,Indie,35.84,100
+241,Washed,drip (alternative brewing methods),light,beans,Rwanda,31.36,100
+242,Washed,drip (alternative brewing methods),light,beans,Gwatemala,44.0,100
+243,Natural,drip (alternative brewing methods),light,beans,Nikaragua,43.2,100
+244,Washed,drip (alternative brewing methods),light,beans,Rwanda,48.0,100
+245,Washed,drip (alternative brewing methods),light,beans,Gwatemala,33.0,100
+246,Washed,drip (alternative brewing methods),light,beans,Kolumbia,51.2,100
+247,Natural,drip (alternative brewing methods),light,beans,Nikaragua,34.56,100
+248,Natural,drip (alternative brewing methods),light,ground,Honduras,57.27,100
+249,Natural,drip (alternative brewing methods),light,beans,Rwanda,52.8,100
+250,Washed,drip (alternative brewing methods),light,beans,Rwanda,45.6,100
+251,Anaerobic,drip (alternative brewing methods),light,beans,Brazylia,48.0,100
+252,Washed,drip (alternative brewing methods),light,beans,Honduras,38.4,100
+253,Washed,drip (alternative brewing methods),light,beans,Kenia,40.0,100
+254,Washed,drip (alternative brewing methods),light,beans,Kenia,41.6,100
+255,Washed,drip (alternative brewing methods),light,beans,Kenia,45.6,100
+256,Washed,drip (alternative brewing methods),light,beans,Kenia,40.0,100
+257,Washed,drip (alternative brewing methods),light,beans,Peru,35.2,100
+258,Natural,drip (alternative brewing methods),light,beans,Kolumbia,33.28,100
+259,Washed,drip (alternative brewing methods),light,beans,Mixed origin,28.8,100
+260,Natural,drip (alternative brewing methods),light,beans,Kolumbia,45.0,100
+261,Washed,drip (alternative brewing methods),light,beans,Kolumbia,42.0,100
+262,Honey,drip (alternative brewing methods),light,beans,Salwador,45.0,100
+263,Washed,drip (alternative brewing methods),light,beans,Rwanda,43.0,100
+264,Natural,drip (alternative brewing methods),light,beans,Indonezja,31.5,100
+265,Natural,drip (alternative brewing methods),light,beans,Brazylia,39.2,100
+266,Natural,drip (alternative brewing methods),light,beans,Chiny,47.2,100
+267,Washed,drip (alternative brewing methods),light,beans,Etiopia,49.6,100
+268,Honey,drip (alternative brewing methods),light,beans,Burundi,39.2,100
+269,Washed,drip (alternative brewing methods),light,beans,Etiopia,40.8,100
+270,Washed,drip (alternative brewing methods),light,beans,Kenia,41.6,100
+271,Anaerobic,drip (alternative brewing methods),light,beans,Rwanda,40.8,100
+272,Natural,drip (alternative brewing methods),light,beans,Etiopia,40.0,100
+273,Washed,drip (alternative brewing methods),light,beans,Indie,27.2,0
+274,Washed,drip (alternative brewing methods),light,beans,Kostaryka,27.6,100
+275,Natural,drip (alternative brewing methods),light,beans,Meksyk,27.6,100
+276,Washed,drip (alternative brewing methods),light,beans,Nikaragua,36.8,100
+277,Natural,drip (alternative brewing methods),light,beans,Brazylia,28.8,100
+278,Washed,drip (alternative brewing methods),light,beans,Etiopia,28.0,100
+279,Washed,drip (alternative brewing methods),light,beans,Gwatemala,28.0,100
+280,Natural,drip (alternative brewing methods),light,beans,Etiopia,47.2,100
+281,Washed,drip (alternative brewing methods),light,beans,Kenia,46.4,100
+282,Natural,drip (alternative brewing methods),light,beans,Peru,47.2,100
+283,Washed,drip (alternative brewing methods),light,beans,Peru,45.6,100
+284,Washed,drip (alternative brewing methods),light,beans,Rwanda,45.6,100
+285,Natural,drip (alternative brewing methods),light,beans,Peru,35.4,100
+286,Washed,drip (alternative brewing methods),light,beans,Peru,34.2,100
+287,Washed,drip (alternative brewing methods),light,beans,Rwanda,34.2,100
+288,Natural,drip (alternative brewing methods),light,beans,Salwador,32.0,100
+289,Red Honey,drip (alternative brewing methods),light,beans,Salwador,31.2,100
+290,Honey,drip (alternative brewing methods),light,beans,Salwador,34.4,100
+291,Natural,drip (alternative brewing methods),light,beans,Etiopia,31.2,100
+292,Washed,drip (alternative brewing methods),light,beans,Gwatemala,49.6,100
+293,Washed,drip (alternative brewing methods),light,beans,Meksyk,25.6,100
+294,Natural,drip (alternative brewing methods),light,beans,Mjanma,33.6,100
+295,Natural,drip (alternative brewing methods),light,beans,Kostaryka,26.4,100
+296,Honey,drip (alternative brewing methods),light,beans,Salwador,25.8,100
+297,Natural,drip (alternative brewing methods),light,beans,Gwatemala,23.4,100
+298,Honey,drip (alternative brewing methods),light,beans,Honduras,25.2,100
+299,Natural,drip (alternative brewing methods),light,beans,Rwanda,39.33,100
+300,Natural,drip (alternative brewing methods),light,beans,Kolumbia,60.0,100
+301,Natural,drip (alternative brewing methods),light,beans,Kolumbia,39.0,100
+302,Natural,drip (alternative brewing methods),light,beans,Kostaryka,36.0,100
+303,Washed,drip (alternative brewing methods),light,beans,Rwanda,33.0,100
+304,Natural,drip (alternative brewing methods),light,beans,Etiopia,56.0,100
+305,Washed,drip (alternative brewing methods),light,beans,Kenia,65.6,100
+306,Natural,drip (alternative brewing methods),light,beans,Salwador,53.6,100
+307,Natural,drip (alternative brewing methods),light,beans,Etiopia,46.4,100
+308,Washed,drip (alternative brewing methods),light,beans,Kolumbia,37.12,100
+309,Natural,drip (alternative brewing methods),light,beans,Salwador,37.52,100
+310,Honey,drip (alternative brewing methods),light,beans,Brazylia,33.6,100
+311,Washed,drip (alternative brewing methods),light,beans,Demokratyczna Republika Konga,37.6,100
+312,Red Honey,drip (alternative brewing methods),light,beans,Etiopia,37.6,100
+313,Natural,drip (alternative brewing methods),light,beans,Etiopia,40.8,100
+314,Washed,drip (alternative brewing methods),light,beans,Kolumbia,40.0,100
+315,Natural,drip (alternative brewing methods),light,beans,Papua Nowa Gwinea,36.0,100
+316,Washed,drip (alternative brewing methods),light,beans,Tanzania,36.0,100
+317,Natural,drip (alternative brewing methods),light,beans,Honduras,26.4,100
+318,Pulped natural,drip (alternative brewing methods),light,beans,Brazylia,31.2,100
+319,Fermentation,drip (alternative brewing methods),light,beans,Brazylia,44.0,100
+320,Anaerobic,drip (alternative brewing methods),light,beans,Gwatemala,52.0,100
+321,Red Honey,drip (alternative brewing methods),light,beans,Honduras,42.4,100
+322,Washed,drip (alternative brewing methods),light,beans,Peru,23.2,100
+323,Washed,drip (alternative brewing methods),light,beans,Boliwia,37.96,100
+324,Natural,drip (alternative brewing methods),light,beans,Boliwia,54.4,100
+325,Washed,drip (alternative brewing methods),light,beans,Honduras,38.08,100
+326,Natural,drip (alternative brewing methods),light,beans,Kolumbia,35.84,100
+327,Washed,drip (alternative brewing methods),light,beans,Peru,33.6,100
+328,Washed,drip (alternative brewing methods),light,beans,Indonezja,0.0,100
+329,Washed,drip (alternative brewing methods),light,beans,Kenia,48.0,100
+330,Washed,drip (alternative brewing methods),light,beans,Kolumbia,33.6,100
+331,Washed,drip (alternative brewing methods),light,beans,Gwatemala,34.56,100
+332,Washed,drip (alternative brewing methods),light,beans,Gwatemala,48.0,100
+333,Macerated Natural,drip (alternative brewing methods),light,beans,Laos,60.0,100
+334,Honey,drip (alternative brewing methods),light,beans,Kostaryka,59.25,100
+335,Washed,drip (alternative brewing methods),light,beans,Peru,27.0,100
+336,Anaerobic,drip (alternative brewing methods),light,beans,Salwador,40.28,100
+337,Natural,drip (alternative brewing methods),light,beans,Meksyk,68.0,100
+338,Pulped natural,drip (alternative brewing methods),medium,beans,Brazil and others,24.8,100
+339,Honey,drip (alternative brewing methods),light,beans,Brazylia,45.6,100
+340,Anaerobic,drip (alternative brewing methods),light,beans,Burundi,51.2,100
+341,Washed,drip (alternative brewing methods),light,beans,Salwador,54.4,100
+342,Washed,drip (alternative brewing methods),light,beans,Kostaryka,36.0,100
+343,Natural,drip (alternative brewing methods),light,beans,Etiopia,55.2,100
+344,Washed,drip (alternative brewing methods),light,beans,Gwatemala,38.0,100
+345,Fermentation,drip (alternative brewing methods),light,beans,Indonezja,62.0,100
+346,Carbonic Maceration,drip (alternative brewing methods),light,beans,Gwatemala,128.0,100
+347,Carbonic Maceration,drip (alternative brewing methods),light,beans,Gwatemala,128.0,100
+348,Washed,drip (alternative brewing methods),light,beans,Kolumbia,64.0,100
+349,Washed,drip (alternative brewing methods),light,beans,Kolumbia,80.0,100
+350,Natural,drip (alternative brewing methods),light,beans,Salwador,60.0,100
+351,Natural,drip (alternative brewing methods),light,beans,Panama,80.0,100
+352,Natural,drip (alternative brewing methods),light,beans,Kostaryka,65.6,100
+353,Aged,drip (alternative brewing methods),light,beans,Kolumbia,99.0,100
+354,Anaerobic,drip (alternative brewing methods),light,beans,Kolumbia,90.0,100
+355,Anaerobic,drip (alternative brewing methods),light,beans,Kolumbia,112.0,100
+356,Anaerobic,drip (alternative brewing methods),light,beans,Salwador,49.6,100
+357,Anaerobic,drip (alternative brewing methods),light,beans,Salwador,37.2,100
+358,Washed,drip (alternative brewing methods),light,beans,Gwatemala,36.8,100
+359,Washed,drip (alternative brewing methods),light,beans,Rwanda,36.8,100
+360,Washed,drip (alternative brewing methods),light,beans,Tanzania,31.2,100
+361,Washed,drip (alternative brewing methods),light,beans,Gwatemala,36.0,100
+362,Washed,drip (alternative brewing methods),light,beans,Rwanda,40.8,100
+363,Washed,drip (alternative brewing methods),light,beans,Gwatemala,25.2,100
+364,Washed,drip (alternative brewing methods),light,beans,Rwanda,28.56,100
+365,Washed,drip (alternative brewing methods),light,beans,Burundi,51.2,100
+366,Washed,drip (alternative brewing methods),light,beans,Kenia,52.8,100
+367,Natural,drip (alternative brewing methods),light,beans,Boliwia,55.2,100
+368,Washed,drip (alternative brewing methods),light,beans,Etiopia,52.8,100
+369,Washed,drip (alternative brewing methods),light,beans,Gwatemala,50.4,100
+370,Washed,drip (alternative brewing methods),light,beans,Kolumbia,52.8,100
+371,Washed,drip (alternative brewing methods),light,beans,Salwador,55.2,100
+372,Washed,drip (alternative brewing methods),light,beans,Etiopia,60.0,100
+373,Washed,drip (alternative brewing methods),light,beans,Gwatemala,36.0,100
+374,Washed,drip (alternative brewing methods),light,beans,Gwatemala,36.0,100
+375,Washed,drip (alternative brewing methods),light,beans,Kenia,36.0,100
+376,Anaerobic,drip (alternative brewing methods),light,beans,Kolumbia,48.0,100
+377,Natural,drip (alternative brewing methods),light,beans,Etiopia,38.4,100
+378,Washed,drip (alternative brewing methods),light,beans,Kenia,40.0,100
+379,Natural,drip (alternative brewing methods),light,beans,Kostaryka,36.0,100
+380,Washed,drip (alternative brewing methods),light,beans,Etiopia,31.5,100
+381,Washed,drip (alternative brewing methods),light,beans,Kolumbia,0.0,100
+382,Natural,drip (alternative brewing methods),light,beans,Brazylia,35.2,100
+383,Natural,"drip, espresso",dark,beans,Panama,29.6,100
+384,Natural,"drip, espresso",medium,beans,Gwatemala,31.6,100
+385,Pulped natural,"drip, espresso",medium,ground,Burundi,22.0,100
+386,Natural,"drip, espresso",medium,beans,Etiopia,45.6,100
+387,Pulped natural,"drip, espresso",medium,ground,Burundi,28.8,100
+388,Pulped natural,"drip, espresso",medium,ground,Burundi,19.2,100
+389,Natural,"drip, espresso",medium,beans,Gwatemala,19.2,100
+390,Natural,"drip, espresso",medium,beans,Gwatemala,22.0,100
+391,Washed,"drip, espresso",medium,beans,Honduras,36.0,100
+392,Natural,"drip, espresso",light,beans,Brazylia,44.8,100
+393,Natural,"drip, espresso",medium,beans,Brazylia,44.8,100
+394,Natural,"drip, espresso",medium,beans,Brazylia,38.4,100
+395,Washed,"drip, espresso",medium,beans,Kolumbia,47.2,100
+396,Washed,"drip, espresso",light,beans,Malawi,54.4,100
+397,Washed,"drip, espresso",light,beans,Rwanda,48.0,100
+398,Natural,"drip, espresso",medium,beans,Brazylia,49.6,100
+399,Washed,"drip, espresso",medium,beans,Gwatemala,39.2,100
+400,Natural,"drip, espresso",medium,beans,Brazylia,22.4,100
+401,Washed,"drip, espresso",medium,beans,Gwatemala,25.6,100
+402,Advanced,"drip, espresso",medium,beans,Indonezja,28.0,100
+403,Washed,"drip, espresso",medium,beans,Meksyk,33.6,100
+404,Washed,"drip, espresso",medium,beans,Kolumbia,40.8,100
+405,Natural,"drip, espresso",medium,beans,Kolumbia,45.6,100
+406,Washed,"drip, espresso",medium,beans,Etiopia,47.2,100
+407,Natural,"drip, espresso",medium,beans,Rwanda,51.2,100
+408,Macerated Natural,"drip, espresso",medium,beans,Gwatemala,52.8,100
+409,Natural,"drip, espresso",medium,beans,Brazylia,52.0,100
+410,Washed,"drip, espresso",light,beans,Burundi,66.4,100
+411,Washed,"drip, espresso",light,beans,Kolumbia,61.6,100
+412,Natural,"drip, espresso",light,beans,Brazylia,145.33,100
+413,Experimental,"drip, espresso",medium,beans,Salwador,68.0,100
+414,Pulped natural,"drip, espresso",medium,beans,Brazylia,37.6,100
+415,Washed,"drip, espresso",medium,beans,Kenia,50.4,100
+416,Natural,"drip, espresso",medium,beans,Rwanda,51.2,100
+417,Anaerobic,"drip, espresso",medium,beans,Kolumbia,104.3,100
+418,Natural,"drip, espresso",dark,beans,Panama,29.96,100
+419,Natural,"drip, espresso",medium,beans,Gwatemala,29.6,100
+420,Natural,"drip, espresso",medium,beans,Gwatemala,17.8,100
+421,Washed,"drip, espresso",medium,beans,Honduras,47.2,100
+422,Washed,"drip, espresso",medium,beans,Honduras,28.8,100
+423,Washed,"drip, espresso",medium,beans,Etiopia,48.0,100
+424,Washed,"drip, espresso",medium,beans,Kolumbia,45.6,100
+425,Natural,"drip, espresso",medium,beans,Kostaryka,59.2,100
+426,Yellow Honey,"drip, espresso",medium,beans,Kostaryka,59.2,100
+427,Natural,"drip, espresso",light,beans,Etiopia,64.5,100
+428,Red Honey,"drip, espresso",medium,beans,Mixed origin,35.2,100
+429,Black Honey,"drip, espresso",medium,beans,Gwatemala,43.2,100
+430,Natural,"drip, espresso",medium,beans,Brazylia,25.6,100
+431,Washed,"drip, espresso",medium,beans,Kolumbia,21.6,100
+432,Washed,"drip, espresso",medium,beans,Gwatemala,19.2,100
+433,Washed,"drip, espresso",light,beans,Kenia,48.0,100
+434,Anaerobic,"drip, espresso",medium,beans,Brazylia,41.6,100
+435,Washed,"drip, espresso",medium,beans,Kolumbia,49.6,100
+436,Natural,"drip, espresso",medium,beans,Kolumbia,46.4,100
+437,Washed,"drip, espresso",medium,beans,Nikaragua,42.12,100
+438,Washed,"drip, espresso",medium,beans,Burundi,53.6,100
+439,Natural,"drip, espresso",medium,beans,Brazylia,39.2,100
+440,Honey,"drip, espresso",medium,beans,Gwatemala,49.6,100
+441,Natural,"drip, espresso",medium,beans,Gwatemala,58.4,100
+442,Washed,"drip, espresso",medium,beans,Kenia,56.0,100
+443,Washed,"drip, espresso",medium,beans,Rwanda,49.6,100
+444,Honey,"drip, espresso",medium,beans,Indonezja,45.6,100
+445,Washed,"drip, espresso",medium,beans,Etiopia,65.6,100
+446,Natural,"drip, espresso",medium,beans,Etiopia,78.4,100
+447,Anaerobic,"drip, espresso",medium,beans,Kolumbia,149.0,100
+448,Hybrid,"drip, espresso",medium,beans,Kolumbia,64.0,100
+449,Black Honey,"drip, espresso",medium,beans,Salwador,46.4,100
+450,Natural,"drip, espresso",medium,beans,Salwador,59.0,100
+451,Washed,"drip, espresso",medium,beans,Etiopia,36.8,100
+452,Black Honey,"drip, espresso",medium,beans,Salwador,34.8,100
+453,Fermentation,"drip, espresso",medium,beans,Brazylia,40.0,100
+454,Natural,"drip, espresso",medium,beans,Rwanda,33.6,100
+455,Natural,espresso,medium,beans,Uganda,27.8,100
+456,Natural,espresso,medium,beans,Uganda,34.4,100
+457,Pulped natural,espresso,medium,beans,Chiny,31.6,100
+458,Red Honey,espresso,medium,beans,Italy,19.8,85
+459,Red Honey,espresso,medium,beans,Italy,25.6,85
+460,Pulped natural,espresso,medium,beans,Chiny,26.0,100
+461,Natural,espresso,medium,beans,Kostaryka,15.8,50
+462,Natural,espresso,medium,beans,Italy,19.8,75
+463,Natural,espresso,medium,beans,Italy,25.52,75
+464,Pulped natural,espresso,medium,beans,Chiny,25.0,100
+465,Pulped natural,espresso,medium,beans,Chiny,28.8,100
+466,Washed,espresso,medium,beans,Peru,30.0,100
+467,Red Honey,espresso,medium,ground,Burundi,28.0,100
+468,Pulped natural,espresso,medium,beans,Chiny,21.8,100
+469,Washed,espresso,medium,beans,Italy,23.2,100
+470,Natural,espresso,medium,beans,Brazylia,24.0,100
+471,Washed,espresso,medium,beans,Chiny,24.0,100
+472,Washed,espresso,medium,beans,Chiny,24.8,100
+473,Washed,espresso,medium,beans,Peru,31.6,100
+474,Washed,espresso,medium,beans,Peru,40.0,100
+475,Natural,espresso,medium,beans,Brazylia,20.8,100
+476,Red Honey,espresso,dark,beans,Honduras,18.4,100
+477,Pulped natural,espresso,medium,beans,Indonezja,19.68,100
+478,Red Honey,espresso,dark,beans,Honduras,23.12,100
+479,Red Honey,espresso,dark,beans,Honduras,23.92,100
+480,Red Honey,espresso,dark,beans,Honduras,17.8,100
+481,Natural,espresso,medium,beans,Kostaryka,27.6,60
+482,Pulped natural,espresso,medium,beans,Brazil and others,32.0,100
+483,Natural,espresso,dark,beans,Indie,12.98,80
+484,Red Honey,espresso,dark,beans,Honduras,15.98,100
+485,Natural,espresso,medium,beans,Brazylia,21.8,100
+486,Natural,espresso,medium,beans,Brazylia,22.4,100
+487,Natural,espresso,medium,beans,Brazylia,25.8,100
+488,Natural,espresso,medium,beans,Brazylia,28.0,100
+489,Natural,espresso,medium,beans,Brazil and others,29.6,100
+490,Red Honey,espresso,dark,beans,Italy,19.98,100
+491,Red Honey,espresso,dark,beans,Honduras,17.98,100
+492,Washed,espresso,medium,beans,Mixed origin,37.6,100
+493,Natural,espresso,dark,beans,Panama,18.4,60
+494,Natural,espresso,medium,beans,Brazylia,25.6,100
+495,Washed,espresso,medium,beans,Gwatemala,26.0,100
+496,Washed,espresso,medium,beans,Gwatemala,28.0,100
+497,Washed,espresso,medium,beans,Gwatemala,20.8,100
+498,Red Honey,espresso,dark,ground,Brazylia,15.96,100
+499,Pulped natural,espresso,dark,ground,Brazil and others,28.0,80
+500,Red Honey,espresso,dark,beans,Honduras,23.8,100
+501,Pulped natural,espresso,dark,beans,Mjanma,13.8,75
+502,Pulped natural,espresso,dark,beans,Mjanma,11.8,75
+503,Pulped natural,espresso,dark,beans,Mjanma,14.0,75
+504,Natural,espresso,dark,beans,Panama,22.0,90
+505,Washed,espresso,dark,ground,Gwatemala,15.2,100
+506,Red Honey,espresso,dark,beans,Honduras,25.0,100
+507,Red Honey,espresso,dark,beans,Honduras,22.8,100
+508,Red Honey,espresso,dark,beans,Honduras,23.6,100
+509,Red Honey,espresso,medium,beans,Mixed origin,17.8,100
+510,Red Honey,espresso,medium,beans,Mixed origin,20.0,100
+511,Pulped natural,espresso,medium,beans,Brazylia,21.8,100
+512,Pulped natural,espresso,medium,beans,Brazylia,25.6,100
+513,Washed,espresso,medium,beans,Kolumbia,19.0,100
+514,Washed,espresso,medium,beans,Kolumbia,21.6,100
+515,Natural,espresso,medium,beans,Etiopia,17.8,100
+516,Natural,espresso,medium,beans,Etiopia,20.0,100
+517,Washed,espresso,medium,beans,Etiopia,24.0,100
+518,Washed,espresso,medium,beans,Etiopia,28.0,100
+519,Natural,espresso,medium,beans,Brazil and others,24.0,100
+520,Natural,espresso,medium,beans,Brazil and others,28.0,100
+521,Natural,espresso,medium,beans,Mixed origin,19.0,100
+522,Natural,espresso,medium,beans,Brazil and others,21.6,100
+523,Natural,espresso,dark,beans,Mixed origin,19.0,100
+524,Natural,espresso,dark,beans,Mixed origin,21.6,100
+525,Natural,espresso,medium,beans,Brazil and others,17.28,100
+526,Pulped natural,espresso,medium,beans,Chiny,31.8,100
+527,Red Honey,espresso,dark,beans,Brazil and others,29.8,100
+528,Red Honey,espresso,dark,beans,Brazil and others,31.2,100
+529,Pulped natural,espresso,medium,beans,Brazylia,25.0,100
+530,Pulped natural,espresso,medium,beans,Brazylia,31.2,100
+531,Natural,espresso,medium,ground,Brazylia,31.2,100
+532,Natural,espresso,medium,beans,Brazylia,19.8,100
+533,Natural,espresso,medium,beans,Brazylia,22.4,100
+534,Red Honey,espresso,dark,beans,Brazil and others,17.6,80
+535,Red Honey,espresso,dark,beans,Brazil and others,19.2,80
+536,Red Honey,espresso,dark,beans,Brazil and others,18.4,80
+537,Red Honey,espresso,medium,beans,Mixed origin,23.8,100
+538,Red Honey,espresso,medium,beans,Mixed origin,25.6,100
+539,Red Honey,espresso,medium,beans,Mixed origin,24.8,100
+540,Natural,espresso,medium,beans,Brazylia,19.0,100
+541,Natural,espresso,medium,beans,Brazylia,20.4,100
+542,Natural,espresso,medium,beans,Brazylia,25.8,100
+543,Natural,espresso,medium,beans,Brazylia,28.8,100
+544,Washed,espresso,medium,beans,Gwatemala,25.2,100
+545,Hybrid,espresso,medium,beans,Etiopia,31.0,100
+546,Hybrid,espresso,medium,beans,Etiopia,33.6,100
+547,Pulped natural,espresso,medium,beans,Brazil and others,23.6,100
+548,Pulped natural,espresso,medium,beans,Brazil and others,25.6,100
+549,Pulped natural,espresso,medium,beans,Brazil and others,24.0,100
+550,Washed,espresso,medium,beans,Gwatemala,45.24,100
+551,Red Honey,espresso,dark,beans,Brazylia,23.2,100
+552,Washed,espresso,dark,beans,Kolumbia,28.0,100
+553,Red Honey,espresso,dark,beans,Etiopia,23.92,100
+554,Washed,espresso,dark,beans,Gwatemala,23.92,100
+555,Washed,espresso,dark,ground,Gwatemala,23.12,100
+556,Washed,espresso,dark,ground,Gwatemala,23.12,100
+557,Washed,espresso,dark,ground,Gwatemala,23.92,100
+558,Red Honey,espresso,dark,beans,Honduras,23.92,100
+559,Washed,espresso,dark,ground,Gwatemala,23.92,100
+560,Red Honey,espresso,dark,beans,Honduras,23.12,100
+561,Natural,espresso,dark,beans,Panama,22.32,92
+562,Natural,espresso,dark,beans,Panama,17.8,92
+563,Natural,espresso,dark,beans,Panama,19.18,90
+564,Washed,espresso,dark,ground,Gwatemala,15.92,100
+565,Washed,espresso,dark,ground,Gwatemala,14.32,100
+566,Red Honey,espresso,dark,beans,Honduras,12.98,100
+567,Red Honey,espresso,dark,beans,Honduras,14.32,100
+568,Pulped natural,espresso,dark,ground,Kenia,11.92,50
+569,Natural,espresso,dark,beans,Panama,10.98,50
+570,Natural,espresso,dark,beans,Panama,11.92,50
+571,Pulped natural,espresso,dark,ground,Brazil and others,12.72,80
+572,Natural,espresso,dark,beans,Indie,12.98,80
+573,Natural,espresso,dark,beans,Indie,13.52,80
+574,Natural,espresso,dark,beans,Panama,7.8,50
+575,Red Honey,espresso,dark,beans,Honduras,13.98,100
+576,Natural,espresso,dark,beans,Laos,13.98,70
+577,Natural,espresso,dark,beans,Panama,15.4,90
+578,Natural,espresso,medium,beans,Etiopia,31.8,100
+579,Natural,espresso,medium,beans,Etiopia,39.2,100
+580,Pulped natural,espresso,medium,beans,Chiny,13.8,100
+581,Pulped natural,espresso,medium,beans,Indonezja,12.38,100
+582,Pulped natural,espresso,medium,beans,Chiny,12.38,100
+583,Pulped natural,espresso,medium,beans,Indonezja,12.38,100
+584,Pulped natural,espresso,medium,beans,Indonezja,12.38,100
+585,Pulped natural,espresso,medium,beans,Chiny,12.98,100
+586,Pulped natural,espresso,medium,beans,Chiny,12.76,100
+587,Natural,espresso,dark,beans,Panama,9.58,50
+588,Natural,espresso,dark,beans,Panama,10.4,40
+589,Washed,espresso,dark,ground,Gwatemala,11.12,0
+590,Natural,espresso,dark,beans,Panama,10.98,60
+591,Red Honey,espresso,dark,beans,Honduras,10.98,100
+592,Washed,espresso,dark,ground,Gwatemala,15.92,100
+593,Washed,espresso,dark,ground,Gwatemala,15.92,100
+594,Red Honey,espresso,dark,beans,Honduras,13.58,100
+595,Red Honey,espresso,dark,ground,Indonezja,11.92,40
+596,Natural,espresso,dark,beans,Panama,11.92,40
+597,Natural,espresso,dark,beans,Panama,11.96,40
+598,Natural,espresso,dark,beans,Panama,9.98,40
+599,Natural,espresso,dark,beans,Panama,12.98,90
+600,Red Honey,espresso,dark,beans,Brazil and others,19.98,78
+601,Natural,espresso,dark,beans,Panama,18.4,85
+602,Natural,espresso,dark,beans,Panama,23.92,85
+603,Washed,espresso,dark,beans,Peru,23.92,100
+604,Natural,espresso,dark,beans,Salwador,35.8,100
+605,Natural,espresso,dark,beans,Salwador,41.6,100
+606,Washed,espresso,dark,beans,Etiopia,28.72,100
+607,Washed,espresso,dark,ground,Etiopia,28.72,100
+608,Washed,espresso,dark,beans,Etiopia,26.36,100
+609,Washed,espresso,dark,beans,Mixed origin,23.98,100
+610,Washed,espresso,dark,beans,Mixed origin,26.36,100
+611,Washed,espresso,dark,beans,Mixed origin,19.98,75
+612,Red Honey,espresso,dark,beans,Brazylia,20.2,100
+613,Natural,espresso,dark,beans,Salwador,37.36,100
+614,Washed,espresso,dark,ground,Gwatemala,23.92,100
+615,Red Honey,espresso,dark,beans,Honduras,23.92,100
+616,Pulped natural,espresso,dark,ground,Brazil and others,23.92,80
+617,Natural,espresso,dark,beans,Indie,23.92,80
+618,Natural,espresso,dark,beans,Panama,13.98,60
+619,Natural,espresso,dark,beans,Panama,21.8,90
+620,Natural,espresso,dark,beans,Panama,11.0,60
+621,Natural,espresso,dark,beans,Panama,16.4,55
+622,Washed,espresso,dark,ground,Gwatemala,24.8,100
+623,Natural,espresso,dark,beans,Panama,19.8,60
+624,Natural,espresso,medium,beans,Kostaryka,13.98,70
+625,Natural,espresso,medium,beans,Kostaryka,11.58,80
+626,Natural,espresso,medium,beans,Kostaryka,12.8,80
+627,Pulped natural,espresso,medium,ground,Honduras,15.12,70
+628,Pulped natural,espresso,medium,ground,Honduras,11.36,60
+629,Red Honey,espresso,medium,ground,Burundi,23.92,100
+630,Washed,espresso,dark,ground,Gwatemala,19.92,100
+631,Pulped natural,espresso,medium,beans,Brazil and others,27.2,100
+632,Red Honey,espresso,dark,beans,Honduras,39.2,100
+633,Natural,espresso,medium,beans,Rwanda,22.9,100
+634,Red Honey,espresso,dark,beans,Honduras,135.2,100
+635,Natural,espresso,dark,beans,Panama,59.88,40
+636,Natural,espresso,dark,beans,Panama,71.88,60
+637,Natural,espresso,dark,beans,Panama,59.88,40
+638,Natural,espresso,dark,beans,Panama,87.6,90
+639,Natural,espresso,medium,beans,Chiny,27.0,100
+640,Pulped natural,espresso,medium,beans,Chiny,26.0,100
+641,Pulped natural,espresso,medium,beans,Chiny,23.8,100
+642,Pulped natural,espresso,medium,beans,Chiny,22.8,100
+643,Red Honey,espresso,medium,beans,Mixed origin,29.8,100
+644,Natural,espresso,medium,beans,Brazylia,22.4,100
+645,Natural,espresso,medium,beans,Brazylia,19.8,100
+646,Washed,espresso,dark,ground,Gwatemala,16.8,0
+647,Natural,espresso,dark,beans,Panama,18.0,50
+648,Washed,espresso,dark,ground,Gwatemala,15.2,100
+649,Red Honey,espresso,medium,ground,Burundi,13.6,100
+650,Washed,espresso,dark,ground,Gwatemala,13.6,0
+651,Pulped natural,espresso,dark,ground,Kenia,16.8,50
+652,Natural,espresso,dark,beans,Panama,18.0,50
+653,Natural,espresso,dark,beans,Panama,13.18,30
+654,Red Honey,espresso,dark,beans,Honduras,17.98,100
+655,Natural,espresso,dark,beans,Panama,15.98,60
+656,Pulped natural,espresso,dark,beans,Mjanma,17.18,75
+657,Natural,espresso,dark,beans,Panama,11.98,10
+658,Natural,espresso,medium,beans,Brazylia,32.0,100
+659,Pulped natural,espresso,medium,beans,Chiny,27.2,100
+660,Washed,espresso,medium,beans,Chiny,28.0,100
+661,Washed,espresso,medium,beans,Kolumbia,25.6,100
+662,Natural,espresso,medium,beans,Brazylia,20.4,100
+663,Natural,espresso,medium,beans,Brazylia,18.4,100
+664,Natural,espresso,medium,beans,Brazylia,21.6,100
+665,Natural,espresso,medium,beans,Brazylia,21.8,100
+666,Natural,espresso,medium,beans,Brazylia,20.0,100
+667,Natural,espresso,medium,beans,Brazylia,18.6,100
+668,Pulped natural,espresso,medium,beans,Brazylia,21.6,100
+669,Pulped natural,espresso,medium,beans,Brazylia,20.4,100
+670,Honey,espresso,medium,beans,Kostaryka,36.0,100
+671,Pulped natural,espresso,dark,beans,Mjanma,25.0,75
+672,Pulped natural,espresso,medium,beans,Brazil and others,25.6,100
+673,Pulped natural,espresso,medium,beans,Brazil and others,21.8,100
+674,Pulped natural,espresso,medium,beans,Brazil and others,24.0,100
+675,Washed,espresso,dark,beans,Gwatemala,27.2,100
+676,Natural,espresso,medium,beans,Uganda,28.0,100
+677,Pulped natural,espresso,medium,beans,Brazil and others,22.0,100
+678,Natural,espresso,medium,beans,Brazil and others,24.0,100
+679,Natural,espresso,medium,beans,Brazylia,26.0,100
+680,Natural,espresso,medium,beans,Brazylia,26.4,100
+681,Hybrid,espresso,medium,beans,Brazil and others,32.0,100
+682,Red Honey,espresso,medium,beans,Mixed origin,20.8,100
+683,Red Honey,espresso,medium,beans,Mixed origin,28.8,100
+684,Washed,espresso,medium,beans,Gwatemala,25.2,100
+685,Washed,espresso,medium,beans,Gwatemala,28.8,100
+686,Natural,espresso,medium,beans,Brazylia,20.8,100
+687,Natural,espresso,dark,beans,Brazylia,19.0,100
+688,Natural,espresso,dark,beans,Brazylia,20.8,100
+689,Washed,espresso,medium,beans,Gwatemala,24.0,100
+690,Washed,espresso,medium,beans,Gwatemala,26.4,100
+691,Washed,espresso,medium,ground,Gwatemala,26.4,100
+692,Red Honey,espresso,dark,beans,Brazil and others,20.0,100
+693,Red Honey,espresso,dark,beans,Brazil and others,22.4,100
+694,Red Honey,espresso,dark,beans,Honduras,19.78,100
+695,Natural,espresso,dark,beans,Panama,11.8,92
+696,Natural,espresso,dark,beans,Indie,9.98,80
+697,Washed,espresso,medium,beans,Gwatemala,40.0,100
+698,Natural,espresso,medium,beans,Gwatemala,33.6,100
+699,Natural,espresso,dark,beans,Panama,15.98,65
+700,Natural,espresso,dark,beans,Panama,12.9,35
+701,Natural,espresso,medium,beans,Brazylia,23.8,100
+702,Natural,espresso,medium,beans,Brazylia,24.0,100
+703,Natural,espresso,medium,beans,Brazylia,27.2,100
+704,Washed,espresso,medium,beans,Brazylia,23.8,100
+705,Washed,espresso,medium,beans,Brazylia,27.2,100
+706,Washed,espresso,medium,beans,Peru,39.2,100
+707,Washed,espresso,dark,ground,Gwatemala,14.32,100
+708,Red Honey,espresso,dark,beans,Honduras,13.56,100
+709,Washed,espresso,dark,ground,Gwatemala,12.72,100
+710,Red Honey,espresso,dark,beans,Honduras,16.0,100
+711,Red Honey,espresso,dark,beans,Honduras,13.6,100
+712,Red Honey,espresso,dark,beans,Brazylia,15.0,100
+713,Red Honey,espresso,dark,beans,Brazylia,13.98,70
+714,Washed,espresso,dark,beans,Kolumbia,15.0,100
+715,Pulped natural,espresso,dark,beans,Nikaragua,14.6,100
+716,Natural,espresso,dark,beans,Salwador,40.4,100
+717,Natural,espresso,dark,beans,Etiopia,38.0,100
+718,Red Honey,espresso,dark,beans,Etiopia,31.8,100
+719,Red Honey,espresso,dark,beans,Etiopia,39.2,100
+720,Washed,espresso,dark,beans,Kolumbia,37.6,100
+721,Washed,espresso,dark,beans,Kolumbia,36.0,100
+722,Washed,espresso,dark,beans,Peru,28.8,100
+723,Washed,espresso,dark,ground,Gwatemala,19.92,100
+724,Pulped natural,espresso,medium,beans,Chiny,21.8,100
+725,Natural,espresso,medium,beans,Brazylia,24.0,100
+726,Washed,espresso,medium,beans,Kolumbia,24.0,100
+727,Red Honey,espresso,dark,beans,Honduras,21.0,100
+728,Red Honey,espresso,dark,beans,Honduras,27.0,100
+729,Natural,espresso,medium,beans,Kostaryka,14.98,80
+730,Washed,espresso,medium,beans,Mixed origin,38.4,100
+731,Natural,espresso,medium,beans,Etiopia,56.0,100
+732,Natural,espresso,medium,beans,Etiopia,47.6,100
+733,Pulped natural,espresso,medium,beans,Brazil and others,30.0,100
+734,Washed,espresso,medium,beans,Kolumbia,35.2,100
+735,Pulped natural,espresso,medium,beans,Brazil and others,24.8,60
+736,Pulped natural,espresso,dark,beans,Brazylia,37.6,100
+737,Washed,espresso,medium,beans,Gwatemala,25.2,100
+738,Washed,espresso,medium,beans,Kolumbia,51.2,100
+739,Natural,espresso,medium,beans,Brazylia,23.2,100
+740,Washed,espresso,medium,beans,Kolumbia,23.2,100
+741,Washed,espresso,dark,ground,Gwatemala,135.2,100
+742,Natural,espresso,dark,beans,Laos,11.98,70
+743,Natural,espresso,dark,beans,Panama,14.4,60
+744,Washed,espresso,dark,ground,Gwatemala,13.6,30
+745,Red Honey,espresso,dark,ground,Kenia,23.2,70
+746,Natural,espresso,dark,beans,Laos,19.0,70
+747,Washed,espresso,dark,ground,Gwatemala,25.6,100
+748,Red Honey,espresso,dark,beans,Honduras,21.8,100
+749,Natural,espresso,medium,beans,Kostaryka,15.98,90
+750,Red Honey,espresso,medium,beans,Mixed origin,31.6,100
+751,Natural,espresso,medium,beans,Kolumbia,29.6,85
+752,Washed,espresso,dark,beans,Brazylia,23.92,100
+753,Washed,espresso,medium,beans,Gwatemala,44.0,100
+754,Pulped natural,espresso,medium,beans,Chiny,19.5,100
+755,Washed,espresso,medium,beans,Peru,30.0,100
+756,Natural,espresso,medium,beans,Kostaryka,15.96,60
+757,Natural,espresso,medium,beans,Kostaryka,19.96,80
+758,Natural,espresso,medium,beans,Brazil and others,29.8,100
+759,Red Honey,espresso,medium,ground,Burundi,15.92,100
+760,Pulped natural,espresso,medium,beans,Chiny,37.6,100
+761,Pulped natural,espresso,medium,beans,Brazil and others,37.6,100
+762,Red Honey,espresso,dark,beans,Honduras,25.2,100
+763,Red Honey,espresso,dark,beans,Honduras,25.6,100
+764,Red Honey,espresso,medium,beans,Mixed origin,16.0,100
+765,Pulped natural,espresso,medium,beans,Brazylia,19.62,100
+766,Pulped natural,espresso,medium,beans,Brazylia,19.2,100
+767,Washed,espresso,medium,beans,Kolumbia,14.25,100
+768,Natural,espresso,medium,beans,Etiopia,12.46,100
+769,Natural,espresso,medium,beans,Etiopia,17.0,100
+770,Washed,espresso,medium,beans,Etiopia,19.6,100
+771,Natural,espresso,medium,beans,Brazil and others,16.8,100
+772,Natural,espresso,medium,beans,Brazil and others,21.0,100
+773,Natural,espresso,medium,beans,Mixed origin,15.2,100
+774,Natural,espresso,medium,beans,Brazylia,19.8,100
+775,Natural,espresso,medium,beans,Brazylia,23.2,100
+776,Red Honey,espresso,medium,beans,Mixed origin,16.66,100
+777,Natural,espresso,medium,beans,Brazylia,20.64,100
+778,Natural,espresso,dark,beans,Panama,27.6,84
+779,Pulped natural,espresso,dark,ground,Kolumbia,17.6,95
+780,Pulped natural,espresso,dark,ground,Kolumbia,15.2,95
+781,Red Honey,espresso,dark,ground,Kenia,17.6,70
+782,Pulped natural,espresso,dark,ground,Brazil and others,15.12,80
+783,Pulped natural,espresso,medium,beans,Brazylia,15.0,100
+784,Pulped natural,espresso,medium,beans,Chiny,14.32,100
+785,Natural,espresso,dark,beans,Panama,11.0,40
+786,Natural,espresso,medium,beans,Kostaryka,11.0,30
+787,Pulped natural,espresso,medium,beans,Indonezja,15.0,100
+788,Natural,espresso,dark,beans,Laos,12.98,70
+789,Red Honey,espresso,dark,ground,Kostaryka,9.8,0
+790,Red Honey,espresso,dark,beans,Kostaryka,9.8,30
+791,Washed,espresso,dark,beans,Brazylia,23.92,100
+792,Natural,espresso,dark,beans,Etiopia,39.2,100
+793,Red Honey,espresso,dark,beans,Mixed origin,23.92,100
+794,Washed,espresso,dark,beans,Mixed origin,23.92,75
+795,Natural,espresso,dark,beans,Indie,17.98,80
+796,Natural,espresso,dark,beans,Panama,13.98,40
+797,Red Honey,espresso,dark,beans,Honduras,21.0,100
+798,Red Honey,espresso,dark,beans,Honduras,24.32,100
+799,Natural,espresso,medium,beans,Kostaryka,21.8,80
+800,Pulped natural,espresso,dark,ground,Demokratyczna Republika Konga,14.32,90
+801,Red Honey,espresso,dark,beans,Honduras,33.8,100
+802,Red Honey,espresso,dark,beans,Honduras,23.66,100
+803,Pulped natural,espresso,medium,beans,Brazil and others,20.8,100
+804,Natural,espresso,medium,beans,Brazylia,20.8,100
+805,Red Honey,espresso,dark,beans,Honduras,71.88,100
+806,Natural,espresso,dark,beans,Panama,74.29,60
+807,Experimental,espresso,medium,beans,Uganda,29.6,100
+808,Washed,espresso,dark,ground,Gwatemala,16.8,0
+809,Washed,espresso,dark,ground,Gwatemala,16.8,0
+810,Natural,espresso,medium,beans,Brazylia,20.0,100
+811,Pulped natural,espresso,dark,ground,Brazil and others,24.0,80
+812,Natural,espresso,medium,beans,Brazylia,32.8,100
+813,Natural,espresso,medium,beans,Brazylia,24.6,100
+814,Red Honey,espresso,dark,beans,Honduras,28.0,100
+815,Pulped natural,espresso,medium,beans,Brazil and others,22.2,100
+816,Red Honey,espresso,medium,beans,Mixed origin,20.16,100
+817,Natural,espresso,medium,beans,Gwatemala,35.2,100
+818,Pulped natural,espresso,medium,beans,Brazil and others,42.4,100
+819,Natural,espresso,dark,beans,Indie,14.76,80
+820,Natural,espresso,dark,beans,Panama,11.58,60
+821,Red Honey,espresso,dark,beans,Mixed origin,13.98,100
+822,Red Honey,espresso,dark,beans,Honduras,28.0,100
+823,Washed,espresso,dark,ground,Brazylia,28.8,100
+824,Red Honey,espresso,dark,beans,Brazil and others,24.8,78
+825,Pulped natural,espresso,dark,ground,Demokratyczna Republika Konga,27.2,85
+826,Washed,espresso,dark,ground,Brazylia,28.8,100
+827,Washed,espresso,dark,beans,Brazylia,26.8,100
+828,Red Honey,espresso,dark,beans,Brazil and others,23.8,100
+829,Red Honey,espresso,dark,beans,Brazil and others,28.0,100
+830,Washed,espresso,dark,ground,Peru,30.4,100
+831,Washed,espresso,dark,beans,Mixed origin,24.8,75
+832,Red Honey,espresso,dark,beans,Brazylia,28.0,100
+833,Washed,espresso,medium,beans,Burundi,46.4,100
+834,Washed,espresso,medium,beans,Kolumbia,45.6,100
+835,Anaerobic,espresso,medium,beans,Kolumbia,49.6,100
+836,Natural,espresso,medium,beans,Brazylia,18.0,100
+837,Pulped natural,espresso,dark,ground,Kenia,15.2,55
+838,Red Honey,espresso,medium,beans,Laos,34.4,0
+839,Pulped natural,espresso,medium,beans,Brazil and others,32.0,100
+840,Washed,espresso,medium,beans,Kolumbia,36.0,100
+841,Washed,espresso,medium,beans,Kolumbia,25.2,100
+842,Natural,espresso,medium,beans,Etiopia,39.2,100
+843,Natural,espresso,medium,beans,Brazylia,29.6,100
+844,Washed,espresso,medium,beans,Papua Nowa Gwinea,41.6,100
+845,Washed,espresso,medium,beans,Gwatemala,33.6,100
+846,Pulped natural,espresso,medium,beans,Brazil and others,18.0,100
+847,Natural,espresso,medium,beans,Brazylia,18.0,100
+848,Washed,espresso,medium,beans,Kolumbia,46.4,100
+849,Washed,espresso,medium,beans,Meksyk,50.4,100
+850,Natural,espresso,dark,beans,Panama,22.4,90
+851,Pulped natural,espresso,medium,beans,Chiny,23.92,100
+852,Natural,espresso,medium,beans,Kostaryka,20.72,80
+853,Natural,espresso,medium,beans,Kostaryka,19.98,80
+854,Washed,espresso,dark,ground,Gwatemala,20.72,100
+855,Washed,espresso,dark,ground,Gwatemala,15.92,100
+856,Pulped natural,"drip, espresso",light,beans,Italy,18.17,0
+857,Pulped natural,"drip, espresso",light,beans,Italy,16.5,0
+858,Pulped natural,"drip, espresso",light,beans,Italy,18.17,0
+859,Anaerobic,drip (alternative brewing methods),light,beans,Brazylia,45.6,100
+860,Washed,espresso,dark,ground,Gwatemala,23.92,100
+861,Natural,espresso,light,beans,Panama,39.0,40
+862,Washed,"drip, espresso",light,beans,Gwatemala,73.33,100
+863,Natural,espresso,light,beans,Panama,50.0,40
+864,Macerated Natural,drip (alternative brewing methods),light,beans,Nikaragua,36.0,100
+865,Washed,drip (alternative brewing methods),light,beans,Gwatemala,25.0,100
+866,Washed,drip (alternative brewing methods),light,beans,Gwatemala,29.6,100

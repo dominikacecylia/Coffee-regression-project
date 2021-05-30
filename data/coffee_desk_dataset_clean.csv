@@ -5,20 +5,20 @@ idx,process,brewing method,roast,grind,arabica_robusta,origin,price_per_kg
 4,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,39.2
 5,Natural,drip (alternative brewing methods),dark,beans,100% Arabica,Indonezja,35.2
 6,Natural,drip (alternative brewing methods),medium,beans,100% Arabica,Brazylia,20.76
-7,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kenia,45.0
-8,Carbonic Maceration,drip (alternative brewing methods),light,beans,100% Arabica,Panama,280.0
-9,Semi-washed,drip (alternative brewing methods),light,ground,100% Arabica,Kolumbia,100.0
+7,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kenia,45
+8,Carbonic Maceration,drip (alternative brewing methods),light,beans,100% Arabica,Panama,280
+9,Semi-washed,drip (alternative brewing methods),light,ground,100% Arabica,Kolumbia,100
 10,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Salwador,45.6
 11,Honey,drip (alternative brewing methods),light,beans,100% Arabica,Boliwia,62.7
 12,Honey,drip (alternative brewing methods),light,beans,100% Arabica,Honduras,52.38
 13,Natural,drip (alternative brewing methods),medium,ground,100% Arabica,Brazylia,145.45
-14,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Burundi,60.0
+14,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Burundi,60
 15,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Burundi,50.4
 16,Natural,drip (alternative brewing methods),light,ground,100% Arabica,Etiopia,145.45
 17,Washed,drip (alternative brewing methods),light,ground,100% Arabica,Gwatemala,145.45
-18,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Honduras,52.0
-19,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,89.0
-20,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,88.0
+18,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Honduras,52
+19,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,89
+20,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,88
 21,Washed,drip (alternative brewing methods),medium,beans,100% Arabica,Etiopia,33.6
 22,Natural,drip (alternative brewing methods),light,beans,100% Arabica,"Kenia, Indie",37.6
 23,Monsooning,drip (alternative brewing methods),light,beans,100% Arabica,Laos,52.5
@@ -32,10 +32,10 @@ idx,process,brewing method,roast,grind,arabica_robusta,origin,price_per_kg
 31,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Rwanda,44.8
 32,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Rwanda,44.8
 33,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,50.4
-34,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,44.0
+34,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,44
 35,Anaerobic,drip (alternative brewing methods),light,beans,100% Arabica,Honduras,47.2
 36,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,39.2
-37,Carbonic Maceration,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,96.0
+37,Carbonic Maceration,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,96
 38,Carbonic Maceration,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,102.4
 39,Monsooning,drip (alternative brewing methods),light,beans,100% Arabica,Laos,26.4
 40,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Rwanda,38.4
@@ -45,46 +45,46 @@ idx,process,brewing method,roast,grind,arabica_robusta,origin,price_per_kg
 44,Washed,drip (alternative brewing methods),light,ground,100% Arabica,Etiopia,79.55
 45,Semi-washed,drip (alternative brewing methods),light,ground,100% Arabica,Honduras,81.82
 46,Semi-washed,drip (alternative brewing methods),light,ground,100% Arabica,Honduras,71.59
-47,Washed,drip (alternative brewing methods),light,ground,100% Arabica,Kenia,100.0
+47,Washed,drip (alternative brewing methods),light,ground,100% Arabica,Kenia,100
 48,Washed,drip (alternative brewing methods),light,ground,100% Arabica,Kenia,87.5
 49,Semi-washed,drip (alternative brewing methods),light,ground,100% Arabica,Kolumbia,79.55
 50,Semi-washed,drip (alternative brewing methods),light,ground,100% Arabica,"Honduras, Kolumbia, Peru",73.86
 51,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,41.6
 52,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,29.2
-53,Macerated Natural,drip (alternative brewing methods),light,beans,100% Arabica,Peru,44.0
-54,Pulped natural,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,45.0
-55,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,48.0
-56,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Indonezja,45.0
-57,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Peru,42.0
-58,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Rwanda,45.0
+53,Macerated Natural,drip (alternative brewing methods),light,beans,100% Arabica,Peru,44
+54,Pulped natural,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,45
+55,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,48
+56,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Indonezja,45
+57,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Peru,42
+58,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Rwanda,45
 60,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,46.4
 61,Honey,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,47.2
 62,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,42.4
-63,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,44.0
-64,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,44.0
+63,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,44
+64,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,44
 65,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Brazylia,21.6
 66,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Chiny,43.2
-67,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,40.0
-68,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,40.0
-69,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,40.0
-70,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Indonezja,40.0
+67,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,40
+68,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,40
+69,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,40
+70,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Indonezja,40
 71,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kenia,43.2
 72,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Mjanma,43.2
-73,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,28.0
-74,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,32.0
-75,Honey,drip (alternative brewing methods),light,beans,100% Arabica,Kostaryka,44.0
+73,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,28
+74,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,32
+75,Honey,drip (alternative brewing methods),light,beans,100% Arabica,Kostaryka,44
 76,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Rwanda,40.8
-77,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Rwanda,56.0
-78,Honey,drip (alternative brewing methods),light,beans,100% Arabica,Brazylia,24.0
-79,Pulped natural,drip (alternative brewing methods),light,beans,100% Arabica,Brazylia,24.0
+77,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Rwanda,56
+78,Honey,drip (alternative brewing methods),light,beans,100% Arabica,Brazylia,24
+79,Pulped natural,drip (alternative brewing methods),light,beans,100% Arabica,Brazylia,24
 80,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Burundi,33.6
 81,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Kostaryka,35.2
-82,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,24.0
+82,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,24
 83,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,57.6
 84,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,31.2
 85,Honey,drip (alternative brewing methods),light,beans,100% Arabica,Honduras,33.6
 86,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Indonezja,34.4
-87,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Peru,32.0
+87,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Peru,32
 88,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,43.33
 89,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Peru,34.67
 90,Macerated Natural,drip (alternative brewing methods),light,beans,100% Arabica,Peru,46.67
@@ -94,130 +94,130 @@ idx,process,brewing method,roast,grind,arabica_robusta,origin,price_per_kg
 94,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,40.8
 95,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,42.4
 96,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kenia,53.6
-97,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,40.0
-98,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Rwanda,44.0
-99,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Rwanda,44.0
+97,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,40
+98,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Rwanda,44
+99,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Rwanda,44
 100,Yellow Bourbon,drip (alternative brewing methods),light,beans,100% Arabica,Brazylia,46.4
-101,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Salwador,56.0
+101,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Salwador,56
 102,Natural,drip (alternative brewing methods),light,beans,100% Arabica,"Brazylia, Kenia",31.8
 103,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kenia,51.2
 104,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Brazylia,39.2
 105,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,46.4
 106,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Brazylia,38.4
-107,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Rwanda,40.0
-108,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Rwanda,40.0
-109,Aerobic Fermentation in Piles,drip (alternative brewing methods),light,beans,100% Arabica,Brazylia,44.0
+107,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Rwanda,40
+108,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Rwanda,40
+109,Aerobic Fermentation in Piles,drip (alternative brewing methods),light,beans,100% Arabica,Brazylia,44
 110,Yeast Process,drip (alternative brewing methods),light,beans,100% Arabica,Salwador,47.2
-111,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,48.0
+111,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,48
 112,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,51.2
 113,Honey,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,51.2
 114,Washed Anaerobic,drip (alternative brewing methods),light,beans,100% Arabica,Honduras,51.2
 115,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Honduras,54.4
 116,Carbonic Maceration,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,54.4
 117,Honey,drip (alternative brewing methods),light,beans,100% Arabica,Kostaryka,54.4
-118,Honey,drip (alternative brewing methods),light,beans,100% Arabica,Kostaryka,56.0
-119,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Meksyk,48.0
-120,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Peru,48.0
-121,Semi-Carbonic Maceration,drip (alternative brewing methods),light,beans,100% Arabica,Peru,40.0
-122,Semi-Carbonic Maceration,drip (alternative brewing methods),light,beans,100% Arabica,"Brazylia, inne",21.0
+118,Honey,drip (alternative brewing methods),light,beans,100% Arabica,Kostaryka,56
+119,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Meksyk,48
+120,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Peru,48
+121,Semi-Carbonic Maceration,drip (alternative brewing methods),light,beans,100% Arabica,Peru,40
+122,Semi-Carbonic Maceration,drip (alternative brewing methods),light,beans,100% Arabica,"Brazylia, inne",21
 123,Semi-Carbonic Maceration,drip (alternative brewing methods),light,beans,100% Arabica,"Brazylia, inne",23.2
-124,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,29.0
-125,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,32.0
+124,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,29
+125,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,32
 126,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,30.8
-127,Semi-washed,drip (alternative brewing methods),light,beans,100% Arabica,Rwanda,30.0
+127,Semi-washed,drip (alternative brewing methods),light,beans,100% Arabica,Rwanda,30
 128,Semi-washed,drip (alternative brewing methods),light,beans,100% Arabica,Rwanda,32.8
 129,Semi-washed,drip (alternative brewing methods),light,beans,100% Arabica,Rwanda,31.6
-130,Semi-washed,drip (alternative brewing methods),light,ground,100% Arabica,"Honduras, Kolumbia, Peru",20.0
+130,Semi-washed,drip (alternative brewing methods),light,ground,100% Arabica,"Honduras, Kolumbia, Peru",20
 131,Honey,drip (alternative brewing methods),light,beans,100% Arabica,Kostaryka,38.08
 132,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,41.6
 133,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Honduras,33.6
 134,Honey,drip (alternative brewing methods),light,beans,100% Arabica,Meksyk,33.6
 135,Anaerobic,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,63.2
 136,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,62.4
-137,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,60.0
-138,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Burundi,44.0
+137,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,60
+138,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Burundi,44
 139,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,23.2
 140,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,39.2
-141,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kenia,44.0
-142,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Kostaryka,44.0
-143,Honey,drip (alternative brewing methods),light,beans,100% Arabica,Kostaryka,79.0
-144,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Nikaragua,44.0
+141,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kenia,44
+142,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Kostaryka,44
+143,Honey,drip (alternative brewing methods),light,beans,100% Arabica,Kostaryka,79
+144,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Nikaragua,44
 145,Anaerobic natural,drip (alternative brewing methods),light,beans,100% Arabica,Salwador,55.2
-146,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Uganda,44.0
+146,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Uganda,44
 147,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Uganda,32.12
 148,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Brazylia,45.6
-149,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Burundi,44.0
-150,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Burundi,48.0
+149,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Burundi,44
+150,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Burundi,48
 151,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,44.8
-152,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kenia,40.0
-153,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,60.0
-154,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Salwador,40.0
-155,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,40.0
+152,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kenia,40
+153,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,60
+154,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Salwador,40
+155,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,40
 156,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Honduras,42.4
 157,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kenia,53.6
 158,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,34.4
-159,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Brazylia,45.0
-160,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,47.0
-161,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,38.0
+159,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Brazylia,45
+160,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,47
+161,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,38
 162,Anaerobic,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,78.4
 163,Rum Aged,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,69.3
 164,Macerated Natural,drip (alternative brewing methods),light,beans,100% Arabica,Honduras,52.8
 165,Macerated Natural,drip (alternative brewing methods),light,beans,100% Arabica,Honduras,52.8
-166,Anaerobic,drip (alternative brewing methods),light,beans,100% Arabica,Salwador,88.0
+166,Anaerobic,drip (alternative brewing methods),light,beans,100% Arabica,Salwador,88
 167,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Boliwia,58.4
-168,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Panama,75.0
-169,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,89.0
-170,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,82.0
-171,CRYO,drip (alternative brewing methods),light,beans,100% Arabica,Brazylia,73.0
-172,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Burundi,48.0
+168,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Panama,75
+169,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,89
+170,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,82
+171,CRYO,drip (alternative brewing methods),light,beans,100% Arabica,Brazylia,73
+172,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Burundi,48
 173,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,46.4
-174,Yeast Process,drip (alternative brewing methods),light,beans,100% Arabica,Salwador,52.0
-175,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Rwanda,48.0
+174,Yeast Process,drip (alternative brewing methods),light,beans,100% Arabica,Salwador,52
+175,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Rwanda,48
 176,Pulped natural,drip (alternative brewing methods),medium,beans,100% Arabica,Brazylia,26.4
 177,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kostaryka,47.2
 178,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,39.2
-179,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Peru,40.0
+179,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Peru,40
 180,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,47.2
 181,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,33.04
 182,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Indonezja,54.4
 183,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,47.2
 184,Anaerobic,drip (alternative brewing methods),light,beans,100% Arabica,Honduras,46.4
-185,Washed and natural,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,48.0
+185,Washed and natural,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,48
 186,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Rwanda,46.4
-187,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,36.0
-188,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,36.0
+187,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,36
+188,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,36
 189,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Honduras,32.8
 190,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kenia,39.2
-191,Honey,drip (alternative brewing methods),light,beans,100% Arabica,Kostaryka,36.0
-192,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Nikaragua,36.0
+191,Honey,drip (alternative brewing methods),light,beans,100% Arabica,Kostaryka,36
+192,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Nikaragua,36
 193,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,54.4
 194,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,33.6
-195,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,44.0
+195,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,44
 196,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Brazylia,26.4
 197,"Washed, Barrel Aged",drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,51.2
 198,Washed,drip (alternative brewing methods),medium,beans,100% Arabica,Salwador,33.6
 199,Natural,drip (alternative brewing methods),medium,beans,100% Arabica,Sumatra,31.6
 200,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,33.6
-201,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kenia,39.0
-202,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Rwanda,40.0
+201,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kenia,39
+202,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Rwanda,40
 203,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Rwanda,47.2
-204,Semi-Carbonic Maceration,drip (alternative brewing methods),light,ground,100% Arabica,Etiopia,120.0
+204,Semi-Carbonic Maceration,drip (alternative brewing methods),light,ground,100% Arabica,Etiopia,120
 205,Semi-Carbonic Maceration,drip (alternative brewing methods),light,ground,100% Arabica,Etiopia,102.86
-206,Semi-Carbonic Maceration,drip (alternative brewing methods),light,ground,100% Arabica,Etiopia,120.0
+206,Semi-Carbonic Maceration,drip (alternative brewing methods),light,ground,100% Arabica,Etiopia,120
 207,Semi-Carbonic Maceration,drip (alternative brewing methods),light,ground,100% Arabica,Etiopia,102.86
-208,Semi-washed,drip (alternative brewing methods),light,ground,100% Arabica,Kolumbia,120.0
+208,Semi-washed,drip (alternative brewing methods),light,ground,100% Arabica,Kolumbia,120
 209,Semi-washed,drip (alternative brewing methods),light,ground,100% Arabica,Kolumbia,102.86
 210,Semi-washed,drip (alternative brewing methods),light,ground,100% Arabica,Kolumbia,82.29
 211,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Brazylia,52.38
-212,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Burundi,52.0
+212,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Burundi,52
 213,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,49.6
 214,Honey,drip (alternative brewing methods),light,beans,100% Arabica,Nikaragua,52.8
 215,Natural,drip (alternative brewing methods),light,ground,100% Arabica,Etiopia,130.91
-216,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kenia,60.0
-217,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Nikaragua,60.0
+216,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kenia,60
+217,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Nikaragua,60
 218,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Panama,115.2
 219,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,87.2
-220,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,144.0
+220,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,144
 221,Semi-Carbonic Maceration,drip (alternative brewing methods),light,beans,100% Arabica,Brazylia,46.4
 222,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Brazylia,37.6
 223,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,46.4
@@ -225,42 +225,42 @@ idx,process,brewing method,roast,grind,arabica_robusta,origin,price_per_kg
 225,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Peru,43.2
 226,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Rwanda,42.4
 227,Monsooning,drip (alternative brewing methods),light,beans,100% Arabica,Brazylia,57.5
-228,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kenia,60.0
+228,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kenia,60
 229,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Honduras,52.8
 230,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kenia,55.2
 231,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kenia,63.2
 232,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Peru,40.8
 233,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kenia,50.4
 234,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,50.4
-235,Washed,drip (alternative brewing methods),light,beans,100% Arabica,"Rwanda, inne",27.0
+235,Washed,drip (alternative brewing methods),light,beans,100% Arabica,"Rwanda, inne",27
 236,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kenia,46.4
 237,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Rwanda,43.2
 238,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,34.72
 239,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,34.72
 240,Honey,drip (alternative brewing methods),light,beans,100% Arabica,Indie,35.84
 241,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Rwanda,31.36
-242,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,44.0
+242,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,44
 243,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Nikaragua,43.2
-244,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Rwanda,48.0
-245,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,33.0
+244,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Rwanda,48
+245,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,33
 246,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,51.2
 247,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Nikaragua,34.56
 248,Semi-washed,drip (alternative brewing methods),light,ground,100% Arabica,Honduras,57.27
 249,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Rwanda,52.8
 250,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Rwanda,45.6
-251,Anaerobic,drip (alternative brewing methods),light,beans,100% Arabica,Brazylia,48.0
+251,Anaerobic,drip (alternative brewing methods),light,beans,100% Arabica,Brazylia,48
 252,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Honduras,38.4
-253,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kenia,40.0
+253,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kenia,40
 254,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kenia,41.6
 255,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kenia,45.6
-256,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kenia,40.0
+256,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kenia,40
 257,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Peru,35.2
 258,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,33.28
 259,Washed,drip (alternative brewing methods),light,beans,100% Arabica,"Papua Nowa Gwinea, Rwanda",28.8
-260,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,45.0
-261,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,42.0
-262,Honey,drip (alternative brewing methods),light,beans,100% Arabica,Salwador,45.0
-263,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Rwanda,43.0
+260,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,45
+261,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,42
+262,Honey,drip (alternative brewing methods),light,beans,100% Arabica,Salwador,45
+263,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Rwanda,43
 264,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Indonezja,31.5
 265,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Brazylia,39.2
 266,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Chiny,47.2
@@ -269,14 +269,14 @@ idx,process,brewing method,roast,grind,arabica_robusta,origin,price_per_kg
 269,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,40.8
 270,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kenia,41.6
 271,Anaerobic,drip (alternative brewing methods),light,beans,100% Arabica,Rwanda,40.8
-272,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,40.0
+272,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,40
 273,Washed,drip (alternative brewing methods),light,beans,100% Robusta,Indie,27.2
 274,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kostaryka,27.6
 275,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Meksyk,27.6
 276,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Nikaragua,36.8
 277,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Brazylia,28.8
-278,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,28.0
-279,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,28.0
+278,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,28
+279,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,28
 280,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,47.2
 281,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kenia,46.4
 282,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Peru,47.2
@@ -285,7 +285,7 @@ idx,process,brewing method,roast,grind,arabica_robusta,origin,price_per_kg
 285,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Peru,35.4
 286,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Peru,34.2
 287,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Rwanda,34.2
-288,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Salwador,32.0
+288,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Salwador,32
 289,Honey,drip (alternative brewing methods),light,beans,100% Arabica,Salwador,31.2
 290,Honey,drip (alternative brewing methods),light,beans,100% Arabica,Salwador,34.4
 291,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,31.2
@@ -297,11 +297,11 @@ idx,process,brewing method,roast,grind,arabica_robusta,origin,price_per_kg
 297,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,23.4
 298,Honey,drip (alternative brewing methods),light,beans,100% Arabica,Honduras,25.2
 299,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Rwanda,39.33
-300,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,60.0
-301,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,39.0
-302,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Kostaryka,36.0
-303,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Rwanda,33.0
-304,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,56.0
+300,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,60
+301,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,39
+302,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Kostaryka,36
+303,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Rwanda,33
+304,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,56
 305,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kenia,65.6
 306,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Salwador,53.6
 307,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,46.4
@@ -311,13 +311,13 @@ idx,process,brewing method,roast,grind,arabica_robusta,origin,price_per_kg
 311,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Demokratyczna Republika Konga,37.6
 312,Honey,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,37.6
 313,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,40.8
-314,Semi-washed,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,40.0
-315,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Papua Nowa Gwinea,36.0
-316,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Tanzania,36.0
+314,Semi-washed,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,40
+315,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Papua Nowa Gwinea,36
+316,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Tanzania,36
 317,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Honduras,26.4
 318,Pulped natural,drip (alternative brewing methods),light,beans,100% Arabica,Brazylia,31.2
-319,Aerobic Fermentation in Piles,drip (alternative brewing methods),light,beans,100% Arabica,Brazylia,44.0
-320,Experimental Anaerobic,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,52.0
+319,Aerobic Fermentation in Piles,drip (alternative brewing methods),light,beans,100% Arabica,Brazylia,44
+320,Experimental Anaerobic,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,52
 321,Honey,drip (alternative brewing methods),light,beans,100% Arabica,Honduras,42.4
 322,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Peru,23.2
 323,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Boliwia,37.96
@@ -325,40 +325,40 @@ idx,process,brewing method,roast,grind,arabica_robusta,origin,price_per_kg
 325,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Honduras,38.08
 326,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,35.84
 327,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Peru,33.6
-328,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Indonezja,0.0
-329,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kenia,48.0
+328,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Indonezja,0
+329,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kenia,48
 330,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,33.6
 331,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,34.56
-332,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,48.0
-333,Monsooning,drip (alternative brewing methods),light,beans,100% Arabica,Laos,60.0
+332,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,48
+333,Monsooning,drip (alternative brewing methods),light,beans,100% Arabica,Laos,60
 334,Honey,drip (alternative brewing methods),light,beans,100% Arabica,Kostaryka,59.25
-335,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Peru,27.0
+335,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Peru,27
 336,Anaerobic natural,drip (alternative brewing methods),light,beans,100% Arabica,Salwador,40.28
-337,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Meksyk,68.0
+337,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Meksyk,68
 338,Natural,drip (alternative brewing methods),medium,beans,100% Arabica,"Brazylia, Etiopia",24.8
 339,Honey,drip (alternative brewing methods),light,beans,100% Arabica,Brazylia,45.6
 340,Anaerobic,drip (alternative brewing methods),light,beans,100% Arabica,Burundi,51.2
 341,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Salwador,54.4
-342,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kostaryka,36.0
+342,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kostaryka,36
 343,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,55.2
-344,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,38.0
-345,Closed Tank Fermentation,drip (alternative brewing methods),light,beans,100% Arabica,Indonezja,62.0
-346,Carbonic Maceration,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,128.0
-347,Carbonic Maceration,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,128.0
-348,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,64.0
-349,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,80.0
-350,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Salwador,60.0
-351,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Panama,80.0
+344,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,38
+345,Closed Tank Fermentation,drip (alternative brewing methods),light,beans,100% Arabica,Indonezja,62
+346,Carbonic Maceration,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,128
+347,Carbonic Maceration,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,128
+348,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,64
+349,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,80
+350,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Salwador,60
+351,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Panama,80
 352,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Kostaryka,65.6
-353,Rum Aged,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,99.0
-354,Washed Double Anaerobic,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,90.0
-355,Anaerobic,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,112.0
+353,Rum Aged,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,99
+354,Washed Double Anaerobic,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,90
+355,Anaerobic,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,112
 356,Anaerobic,drip (alternative brewing methods),light,beans,100% Arabica,Salwador,49.6
 357,Anaerobic,drip (alternative brewing methods),light,beans,100% Arabica,Salwador,37.2
 358,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,36.8
 359,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Rwanda,36.8
 360,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Tanzania,31.2
-361,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,36.0
+361,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,36
 362,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Rwanda,40.8
 363,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,25.2
 364,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Rwanda,28.56
@@ -369,48 +369,48 @@ idx,process,brewing method,roast,grind,arabica_robusta,origin,price_per_kg
 369,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,50.4
 370,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,52.8
 371,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Salwador,55.2
-372,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,60.0
-373,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,36.0
-374,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,36.0
-375,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kenia,36.0
-376,Anaerobic,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,48.0
+372,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,60
+373,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,36
+374,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,36
+375,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kenia,36
+376,Anaerobic,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,48
 377,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,38.4
-378,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kenia,40.0
-379,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Kostaryka,36.0
+378,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kenia,40
+379,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Kostaryka,36
 380,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Etiopia,31.5
-381,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,0.0
+381,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Kolumbia,0
 382,Natural,drip (alternative brewing methods),light,beans,100% Arabica,Brazylia,35.2
 383,Natural,"drip, espresso",dark,beans,100% Arabica,Panama,29.6
 384,Rum Aged,"drip, espresso",medium,beans,100% Arabica,Demokratyczna Republika Konga,31.6
-385,Natural,"drip, espresso",medium,ground,100% Arabica,"Etiopia, Kolumbia",22.0
+385,Natural,"drip, espresso",medium,ground,100% Arabica,"Etiopia, Kolumbia",22
 386,Natural,"drip, espresso",medium,beans,100% Arabica,Etiopia,45.6
 387,Natural,"drip, espresso",medium,ground,100% Arabica,"Etiopia, Kolumbia",28.8
 388,Natural,"drip, espresso",medium,ground,100% Arabica,"Etiopia, Kolumbia",19.2
 389,Rum Aged,"drip, espresso",medium,beans,100% Arabica,Demokratyczna Republika Konga,19.2
-390,Rum Aged,"drip, espresso",medium,beans,100% Arabica,Demokratyczna Republika Konga,22.0
-391,Washed,"drip, espresso",medium,beans,100% Arabica,Honduras,36.0
+390,Rum Aged,"drip, espresso",medium,beans,100% Arabica,Demokratyczna Republika Konga,22
+391,Washed,"drip, espresso",medium,beans,100% Arabica,Honduras,36
 392,Natural,"drip, espresso",light,beans,100% Arabica,Brazylia,44.8
 393,Natural,"drip, espresso",medium,beans,100% Arabica,Brazylia,44.8
 394,Natural,"drip, espresso",medium,beans,100% Arabica,Brazylia,38.4
 395,Washed,"drip, espresso",medium,beans,100% Arabica,Kolumbia,47.2
 396,Washed,"drip, espresso",light,beans,100% Arabica,Malawi,54.4
-397,Washed,"drip, espresso",light,beans,100% Arabica,Rwanda,48.0
+397,Washed,"drip, espresso",light,beans,100% Arabica,Rwanda,48
 398,Natural,"drip, espresso",medium,beans,100% Arabica,Brazylia,49.6
 399,Washed,"drip, espresso",medium,beans,100% Arabica,Gwatemala,39.2
 400,Natural,"drip, espresso",medium,beans,100% Arabica,Brazylia,22.4
 401,Washed,"drip, espresso",medium,beans,100% Arabica,Gwatemala,25.6
-402,Semi-washed,"drip, espresso",medium,beans,100% Arabica,Indonezja,28.0
+402,Semi-washed,"drip, espresso",medium,beans,100% Arabica,Indonezja,28
 403,Semi-Carbonic Maceration,"drip, espresso",medium,beans,100% Arabica,Meksyk,33.6
 404,Washed,"drip, espresso",medium,beans,100% Arabica,Kolumbia,40.8
 405,Natural,"drip, espresso",medium,beans,100% Arabica,Kolumbia,45.6
 406,Washed,"drip, espresso",medium,beans,100% Arabica,Etiopia,47.2
 407,Natural,"drip, espresso",medium,beans,100% Arabica,Rwanda,51.2
 408,Semi-Carbonic Maceration,"drip, espresso",medium,beans,100% Arabica,Gwatemala,52.8
-409,Natural,"drip, espresso",medium,beans,100% Arabica,Brazylia,52.0
+409,Natural,"drip, espresso",medium,beans,100% Arabica,Brazylia,52
 410,Washed,"drip, espresso",light,beans,100% Arabica,Burundi,66.4
 411,Washed,"drip, espresso",light,beans,100% Arabica,Kolumbia,61.6
 412,Natural,"drip, espresso",light,beans,100% Arabica,Brazylia,145.33
-413,Semi-Washed Kombucha Experiment,"drip, espresso",medium,beans,100% Arabica,Salwador,68.0
+413,Semi-Washed Kombucha Experiment,"drip, espresso",medium,beans,100% Arabica,Salwador,68
 414,Pulped natural,"drip, espresso",medium,beans,100% Arabica,Brazylia,37.6
 415,Washed,"drip, espresso",medium,beans,100% Arabica,Kenia,50.4
 416,Natural,"drip, espresso",medium,beans,100% Arabica,Rwanda,51.2
@@ -420,7 +420,7 @@ idx,process,brewing method,roast,grind,arabica_robusta,origin,price_per_kg
 420,Rum Aged,"drip, espresso",medium,beans,100% Arabica,Demokratyczna Republika Konga,17.8
 421,Washed,"drip, espresso",medium,beans,100% Arabica,Honduras,47.2
 422,Washed,"drip, espresso",medium,beans,100% Arabica,Honduras,28.8
-423,Washed,"drip, espresso",medium,beans,100% Arabica,Etiopia,48.0
+423,Washed,"drip, espresso",medium,beans,100% Arabica,Etiopia,48
 424,Washed,"drip, espresso",medium,beans,100% Arabica,Kolumbia,45.6
 425,Natural,"drip, espresso",medium,beans,100% Arabica,Kostaryka,59.2
 426,Honey,"drip, espresso",medium,beans,100% Arabica,Kostaryka,59.2
@@ -430,7 +430,7 @@ idx,process,brewing method,roast,grind,arabica_robusta,origin,price_per_kg
 430,Natural,"drip, espresso",medium,beans,100% Arabica,Brazylia,25.6
 431,Washed,"drip, espresso",medium,beans,100% Arabica,Kolumbia,21.6
 432,Washed,"drip, espresso",medium,beans,100% Arabica,Gwatemala,19.2
-433,Washed,"drip, espresso",light,beans,100% Arabica,Kenia,48.0
+433,Washed,"drip, espresso",light,beans,100% Arabica,Kenia,48
 434,Anaerobic natural,"drip, espresso",medium,beans,100% Arabica,Brazylia,41.6
 435,Washed,"drip, espresso",medium,beans,100% Arabica,Kolumbia,49.6
 436,Natural,"drip, espresso",medium,beans,100% Arabica,Kolumbia,46.4
@@ -439,39 +439,39 @@ idx,process,brewing method,roast,grind,arabica_robusta,origin,price_per_kg
 439,Natural,"drip, espresso",medium,beans,100% Arabica,Brazylia,39.2
 440,Honey,"drip, espresso",medium,beans,100% Arabica,Gwatemala,49.6
 441,Natural,"drip, espresso",medium,beans,100% Arabica,Gwatemala,58.4
-442,Washed,"drip, espresso",medium,beans,100% Arabica,Kenia,56.0
+442,Washed,"drip, espresso",medium,beans,100% Arabica,Kenia,56
 443,Washed,"drip, espresso",medium,beans,100% Arabica,Rwanda,49.6
 444,Honey,"drip, espresso",medium,beans,100% Arabica,Indonezja,45.6
 445,Washed,"drip, espresso",medium,beans,100% Arabica,Etiopia,65.6
 446,Natural,"drip, espresso",medium,beans,100% Arabica,Etiopia,78.4
-447,Anaerobic,"drip, espresso",medium,beans,100% Arabica,Kolumbia,149.0
-448,Washed and natural,"drip, espresso",medium,beans,100% Arabica,Kolumbia,64.0
+447,Anaerobic,"drip, espresso",medium,beans,100% Arabica,Kolumbia,149
+448,Washed and natural,"drip, espresso",medium,beans,100% Arabica,Kolumbia,64
 449,Honey,"drip, espresso",medium,beans,100% Arabica,Salwador,46.4
-450,Natural,"drip, espresso",medium,beans,100% Arabica,Salwador,59.0
+450,Natural,"drip, espresso",medium,beans,100% Arabica,Salwador,59
 451,Washed,"drip, espresso",medium,beans,100% Arabica,Etiopia,36.8
 452,Honey,"drip, espresso",medium,beans,100% Arabica,Salwador,34.8
-453,Fermentacja kontrolowana,"drip, espresso",medium,beans,100% Arabica,Brazylia,40.0
+453,Fermentacja kontrolowana,"drip, espresso",medium,beans,100% Arabica,Brazylia,40
 454,Natural,"drip, espresso",medium,beans,100% Arabica,Rwanda,33.6
 455,Natural,espresso,medium,beans,100% Arabica,Uganda,27.8
 456,Natural,espresso,medium,beans,100% Arabica,Uganda,34.4
 457,Pulped natural,espresso,medium,beans,100% Arabica,"Brazylia, Indie",31.6
 458,Rum Aged,espresso,medium,beans,85/15,Italy,19.8
 459,Rum Aged,espresso,medium,beans,85/15,Italy,25.6
-460,Pulped natural,espresso,medium,beans,100% Arabica,"Brazylia, Indie",26.0
+460,Pulped natural,espresso,medium,beans,100% Arabica,"Brazylia, Indie",26
 461,Natural,espresso,medium,beans,50/50,Kenia,15.8
 462,Semi-Washed Kombucha Experiment,espresso,medium,beans,75/25,Italy,19.8
 463,Semi-Washed Kombucha Experiment,espresso,medium,beans,75/25,Italy,25.52
-464,Pulped natural,espresso,medium,beans,100% Arabica,"Brazylia, Indie",25.0
+464,Pulped natural,espresso,medium,beans,100% Arabica,"Brazylia, Indie",25
 465,Pulped natural,espresso,medium,beans,100% Arabica,"Brazylia, Indie",28.8
-466,Washed,espresso,medium,beans,100% Arabica,Peru,30.0
-467,Semi-Carbonic Maceration,espresso,medium,ground,100% Arabica,"Brazylia, Kolumbia",28.0
+466,Washed,espresso,medium,beans,100% Arabica,Peru,30
+467,Semi-Carbonic Maceration,espresso,medium,ground,100% Arabica,"Brazylia, Kolumbia",28
 468,Pulped natural,espresso,medium,beans,100% Arabica,"Brazylia, Indie",21.8
 469,Washed,espresso,medium,beans,100% Arabica,Italy,23.2
-470,Natural,espresso,medium,beans,100% Arabica,Brazylia,24.0
-471,Washed,espresso,medium,beans,100% Arabica,Demokratyczna Republika Konga,24.0
+470,Natural,espresso,medium,beans,100% Arabica,Brazylia,24
+471,Washed,espresso,medium,beans,100% Arabica,Demokratyczna Republika Konga,24
 472,Washed,espresso,medium,beans,100% Arabica,Demokratyczna Republika Konga,24.8
 473,Washed,espresso,medium,beans,100% Arabica,Peru,31.6
-474,Washed,espresso,medium,beans,100% Arabica,Peru,40.0
+474,Washed,espresso,medium,beans,100% Arabica,Peru,40
 475,Natural,espresso,medium,beans,100% Arabica,Brazylia,20.8
 476,Semi-Washed Kombucha Experiment,espresso,dark,beans,100% Arabica,"Brazylia, Tanzania",18.4
 477,Pulped natural,espresso,medium,beans,50/50,"Etiopia, Brazylia",19.68
@@ -479,54 +479,54 @@ idx,process,brewing method,roast,grind,arabica_robusta,origin,price_per_kg
 479,Semi-Washed Kombucha Experiment,espresso,dark,beans,100% Arabica,"Brazylia, Tanzania",23.92
 480,Semi-Washed Kombucha Experiment,espresso,dark,beans,100% Arabica,"Brazylia, Tanzania",17.8
 481,Natural,espresso,medium,beans,60/40,Kenia,27.6
-482,Washed,espresso,medium,beans,100% Arabica,"Brazylia, Burundi, Peru",32.0
+482,Washed,espresso,medium,beans,100% Arabica,"Brazylia, Burundi, Peru",32
 483,Natural,espresso,dark,beans,80/20,"Etiopia, Brazylia",12.98
 484,Semi-Washed Kombucha Experiment,espresso,dark,beans,100% Arabica,"Brazylia, Tanzania",15.98
 485,Natural,espresso,medium,beans,100% Arabica,Brazylia,21.8
 486,Natural,espresso,medium,beans,100% Arabica,Brazylia,22.4
 487,Natural,espresso,medium,beans,100% Arabica,Brazylia,25.8
-488,Natural,espresso,medium,beans,100% Arabica,Brazylia,28.0
+488,Natural,espresso,medium,beans,100% Arabica,Brazylia,28
 489,Natural,espresso,medium,beans,100% Arabica,"Etiopia, Brazylia",29.6
 490,Semi-washed,espresso,dark,beans,100% Arabica,Italy,19.98
 491,Semi-Washed Kombucha Experiment,espresso,dark,beans,100% Arabica,"Brazylia, Tanzania",17.98
 492,Washed,espresso,medium,beans,100% Arabica,"Salwador, Nikaragua",37.6
 493,Natural,espresso,dark,beans,60/40,Panama,18.4
 494,Natural,espresso,medium,beans,100% Arabica,Brazylia,25.6
-495,Washed,espresso,medium,beans,100% Arabica,Gwatemala,26.0
-496,Washed,espresso,medium,beans,100% Arabica,Gwatemala,28.0
+495,Washed,espresso,medium,beans,100% Arabica,Gwatemala,26
+496,Washed,espresso,medium,beans,100% Arabica,Gwatemala,28
 497,Washed,espresso,medium,beans,100% Arabica,Gwatemala,20.8
 498,Semi-Washed Kombucha Experiment,espresso,dark,ground,100% Arabica,Brazylia,15.96
-499,Rum Aged,espresso,dark,ground,80/20,"Brazylia, Indie",28.0
+499,Rum Aged,espresso,dark,ground,80/20,"Brazylia, Indie",28
 500,Semi-Washed Kombucha Experiment,espresso,dark,beans,100% Arabica,"Brazylia, Tanzania",23.8
 501,Rum Aged,espresso,dark,beans,75/25,"Peru, Gwatemala",13.8
 502,Rum Aged,espresso,dark,beans,75/25,"Peru, Gwatemala",11.8
-503,Rum Aged,espresso,dark,beans,75/25,"Peru, Gwatemala",14.0
-504,Natural,espresso,dark,beans,90/10,Panama,22.0
+503,Rum Aged,espresso,dark,beans,75/25,"Peru, Gwatemala",14
+504,Natural,espresso,dark,beans,90/10,Panama,22
 505,Washed,espresso,dark,ground,100% Arabica,"Brazylia, Peru, Wietnam",15.2
-506,Semi-Washed Kombucha Experiment,espresso,dark,beans,100% Arabica,"Brazylia, Tanzania",25.0
+506,Semi-Washed Kombucha Experiment,espresso,dark,beans,100% Arabica,"Brazylia, Tanzania",25
 507,Semi-Washed Kombucha Experiment,espresso,dark,beans,100% Arabica,"Brazylia, Tanzania",22.8
 508,Semi-Washed Kombucha Experiment,espresso,dark,beans,100% Arabica,"Brazylia, Tanzania",23.6
 509,Washed,espresso,medium,beans,100% Arabica,"Etiopia, Kolumbia",17.8
-510,Washed,espresso,medium,beans,100% Arabica,"Etiopia, Kolumbia",20.0
+510,Washed,espresso,medium,beans,100% Arabica,"Etiopia, Kolumbia",20
 511,Pulped natural,espresso,medium,beans,100% Arabica,Brazylia,21.8
 512,Pulped natural,espresso,medium,beans,100% Arabica,Brazylia,25.6
-513,Washed,espresso,medium,beans,100% Arabica,Kolumbia,19.0
+513,Washed,espresso,medium,beans,100% Arabica,Kolumbia,19
 514,Washed,espresso,medium,beans,100% Arabica,Kolumbia,21.6
 515,Natural,espresso,medium,beans,100% Arabica,Etiopia,17.8
-516,Natural,espresso,medium,beans,100% Arabica,Etiopia,20.0
-517,Washed,espresso,medium,beans,100% Arabica,Etiopia,24.0
-518,Washed,espresso,medium,beans,100% Arabica,Etiopia,28.0
-519,Natural,espresso,medium,beans,100% Arabica,"Etiopia, Brazylia",24.0
-520,Natural,espresso,medium,beans,100% Arabica,"Etiopia, Brazylia",28.0
-521,Natural,espresso,medium,beans,100% Arabica,"Etiopia, Brazylia, Kolumbia",19.0
+516,Natural,espresso,medium,beans,100% Arabica,Etiopia,20
+517,Washed,espresso,medium,beans,100% Arabica,Etiopia,24
+518,Washed,espresso,medium,beans,100% Arabica,Etiopia,28
+519,Natural,espresso,medium,beans,100% Arabica,"Etiopia, Brazylia",24
+520,Natural,espresso,medium,beans,100% Arabica,"Etiopia, Brazylia",28
+521,Natural,espresso,medium,beans,100% Arabica,"Etiopia, Brazylia, Kolumbia",19
 522,Natural,espresso,medium,beans,100% Arabica,"Etiopia, Brazylia",21.6
-523,Natural,espresso,dark,beans,100% Arabica,"Etiopia, Brazylia, Kolumbia",19.0
+523,Natural,espresso,dark,beans,100% Arabica,"Etiopia, Brazylia, Kolumbia",19
 524,Natural,espresso,dark,beans,100% Arabica,"Etiopia, Brazylia, Kolumbia",21.6
 525,Natural,espresso,medium,beans,100% Arabica,"Etiopia, Brazylia",17.28
 526,Pulped natural,espresso,medium,beans,100% Arabica,"Brazylia, Indie",31.8
 527,Semi-Carbonic Maceration,espresso,dark,beans,100% Arabica,"Brazylia, Etiopia",29.8
 528,Semi-Carbonic Maceration,espresso,dark,beans,100% Arabica,"Brazylia, Etiopia",31.2
-529,Pulped natural,espresso,medium,beans,100% Arabica,Brazylia,25.0
+529,Pulped natural,espresso,medium,beans,100% Arabica,Brazylia,25
 530,Pulped natural,espresso,medium,beans,100% Arabica,Brazylia,31.2
 531,Natural,espresso,medium,ground,100% Arabica,Brazylia,31.2
 532,Natural,espresso,medium,beans,100% Arabica,Brazylia,19.8
@@ -537,19 +537,19 @@ idx,process,brewing method,roast,grind,arabica_robusta,origin,price_per_kg
 537,Washed,espresso,medium,beans,100% Arabica,"Brazylia, Gwatemala, Etiopia",23.8
 538,Washed,espresso,medium,beans,100% Arabica,"Brazylia, Gwatemala, Etiopia",25.6
 539,Washed,espresso,medium,beans,100% Arabica,"Brazylia, Gwatemala, Etiopia",24.8
-540,Natural,espresso,medium,beans,100% Arabica,Brazylia,19.0
+540,Natural,espresso,medium,beans,100% Arabica,Brazylia,19
 541,Natural,espresso,medium,beans,100% Arabica,Brazylia,20.4
 542,Natural,espresso,medium,beans,100% Arabica,Brazylia,25.8
 543,Natural,espresso,medium,beans,100% Arabica,Brazylia,28.8
 544,Washed,espresso,medium,beans,100% Arabica,Gwatemala,25.2
-545,Washed and natural,espresso,medium,beans,100% Arabica,Etiopia,31.0
+545,Washed and natural,espresso,medium,beans,100% Arabica,Etiopia,31
 546,Washed and natural,espresso,medium,beans,100% Arabica,Etiopia,33.6
 547,Washed,espresso,medium,beans,100% Arabica,"Brazylia, Gwatemala",23.6
 548,Washed,espresso,medium,beans,100% Arabica,"Brazylia, Gwatemala",25.6
-549,Washed,espresso,medium,beans,100% Arabica,"Brazylia, Gwatemala",24.0
+549,Washed,espresso,medium,beans,100% Arabica,"Brazylia, Gwatemala",24
 550,Washed,espresso,medium,beans,100% Arabica,Gwatemala,45.24
 551,Semi-Carbonic Maceration,espresso,dark,beans,100% Arabica,Brazylia,23.2
-552,Washed,espresso,dark,beans,100% Arabica,Kolumbia,28.0
+552,Washed,espresso,dark,beans,100% Arabica,Kolumbia,28
 553,Semi-Carbonic Maceration,espresso,dark,beans,100% Arabica,Etiopia,23.92
 554,Washed,espresso,dark,beans,100% Arabica,Gwatemala,23.92
 555,Washed,espresso,dark,ground,100% Arabica,"Brazylia, Peru, Wietnam",23.12
@@ -617,7 +617,7 @@ idx,process,brewing method,roast,grind,arabica_robusta,origin,price_per_kg
 617,Natural,espresso,dark,beans,80/20,"Etiopia, Brazylia",23.92
 618,Natural,espresso,dark,beans,60/40,Panama,13.98
 619,Natural,espresso,dark,beans,90/10,Panama,21.8
-620,Natural,espresso,dark,beans,60/40,Panama,11.0
+620,Natural,espresso,dark,beans,60/40,Panama,11
 621,Natural,espresso,dark,beans,55/45,Panama,16.4
 622,Washed,espresso,dark,ground,100% Arabica,"Brazylia, Peru, Wietnam",24.8
 623,Natural,espresso,dark,beans,60/40,Panama,19.8
@@ -636,70 +636,70 @@ idx,process,brewing method,roast,grind,arabica_robusta,origin,price_per_kg
 636,Natural,espresso,dark,beans,60/40,Panama,71.88
 637,Natural,espresso,dark,beans,40/60,Panama,59.88
 638,Natural,espresso,dark,beans,90/10,Panama,87.6
-639,Natural,espresso,medium,beans,100% Arabica,"Brazylia, Kostaryka, Nikaragua",27.0
-640,Pulped natural,espresso,medium,beans,100% Arabica,"Brazylia, Indie",26.0
+639,Natural,espresso,medium,beans,100% Arabica,"Brazylia, Kostaryka, Nikaragua",27
+640,Pulped natural,espresso,medium,beans,100% Arabica,"Brazylia, Indie",26
 641,Pulped natural,espresso,medium,beans,100% Arabica,"Brazylia, Indie",23.8
 642,Pulped natural,espresso,medium,beans,100% Arabica,"Brazylia, Indie",22.8
 643,Washed,espresso,medium,beans,100% Arabica,"Kenia, Indie",29.8
 644,Natural,espresso,medium,beans,100% Arabica,Brazylia,22.4
 645,Natural,espresso,medium,beans,100% Arabica,Brazylia,19.8
 646,Washed,espresso,dark,ground,30/70,"Brazylia, Peru, Wietnam",16.8
-647,Natural,espresso,dark,beans,50/50,Panama,18.0
+647,Natural,espresso,dark,beans,50/50,Panama,18
 648,Washed,espresso,dark,ground,100% Arabica,"Brazylia, Peru, Wietnam",15.2
 649,Semi-Carbonic Maceration,espresso,medium,ground,100% Arabica,"Brazylia, Kolumbia",13.6
 650,Washed,espresso,dark,ground,30/70,"Brazylia, Peru, Wietnam",13.6
 651,Pulped natural,espresso,dark,ground,50/50,Indonezja,16.8
-652,Natural,espresso,dark,beans,50/50,Panama,18.0
+652,Natural,espresso,dark,beans,50/50,Panama,18
 653,Natural,espresso,dark,beans,30/70,Panama,13.18
 654,Semi-Washed Kombucha Experiment,espresso,dark,beans,100% Arabica,"Brazylia, Tanzania",17.98
 655,Natural,espresso,dark,beans,60/40,Panama,15.98
 656,Rum Aged,espresso,dark,beans,75/25,"Peru, Gwatemala",17.18
-657,Natural,espresso,dark,beans,Oct-90,Panama,11.98
-658,Natural,espresso,medium,beans,100% Arabica,Brazylia,32.0
+657,Natural,espresso,dark,beans,10/90,Panama,11.98
+658,Natural,espresso,medium,beans,100% Arabica,Brazylia,32
 659,Pulped natural,espresso,medium,beans,100% Arabica,"Brazylia, Indie",27.2
-660,Washed,espresso,medium,beans,100% Arabica,Chiny,28.0
+660,Washed,espresso,medium,beans,100% Arabica,Chiny,28
 661,Washed,espresso,medium,beans,100% Arabica,Kolumbia,25.6
 662,Natural,espresso,medium,beans,100% Arabica,Brazylia,20.4
 663,Natural,espresso,medium,beans,100% Arabica,Brazylia,18.4
 664,Natural,espresso,medium,beans,100% Arabica,Brazylia,21.6
 665,Natural,espresso,medium,beans,100% Arabica,Brazylia,21.8
-666,Natural,espresso,medium,beans,100% Arabica,Brazylia,20.0
+666,Natural,espresso,medium,beans,100% Arabica,Brazylia,20
 667,Natural,espresso,medium,beans,100% Arabica,Brazylia,18.6
 668,Pulped natural,espresso,medium,beans,100% Arabica,Brazylia,21.6
 669,Pulped natural,espresso,medium,beans,100% Arabica,Brazylia,20.4
-670,Honey,espresso,medium,beans,100% Arabica,Kostaryka,36.0
-671,Rum Aged,espresso,dark,beans,75/25,"Peru, Gwatemala",25.0
+670,Honey,espresso,medium,beans,100% Arabica,Kostaryka,36
+671,Rum Aged,espresso,dark,beans,75/25,"Peru, Gwatemala",25
 672,Washed,espresso,medium,beans,100% Arabica,"Brazylia, Gwatemala",25.6
 673,Washed,espresso,medium,beans,100% Arabica,"Brazylia, Honduras",21.8
-674,Washed,espresso,medium,beans,100% Arabica,"Brazylia, Honduras",24.0
+674,Washed,espresso,medium,beans,100% Arabica,"Brazylia, Honduras",24
 675,Washed,espresso,dark,beans,100% Arabica,Gwatemala,27.2
-676,Natural,espresso,medium,beans,100% Arabica,Uganda,28.0
-677,Semi-Washed Kombucha Experiment,espresso,medium,beans,100% Arabica,"Brazylia, Uganda",22.0
-678,Natural,espresso,medium,beans,100% Arabica,"Brazylia, Uganda",24.0
-679,Natural,espresso,medium,beans,100% Arabica,Brazylia,26.0
+676,Natural,espresso,medium,beans,100% Arabica,Uganda,28
+677,Semi-Washed Kombucha Experiment,espresso,medium,beans,100% Arabica,"Brazylia, Uganda",22
+678,Natural,espresso,medium,beans,100% Arabica,"Brazylia, Uganda",24
+679,Natural,espresso,medium,beans,100% Arabica,Brazylia,26
 680,Natural,espresso,medium,beans,100% Arabica,Brazylia,26.4
-681,Washed and natural,espresso,medium,beans,100% Arabica,"Brazylia, Tanzania",32.0
+681,Washed and natural,espresso,medium,beans,100% Arabica,"Brazylia, Tanzania",32
 682,Washed,espresso,medium,beans,100% Arabica,"Peru, Gwatemala",20.8
 683,Washed,espresso,medium,beans,100% Arabica,"Peru, Gwatemala",28.8
 684,Washed,espresso,medium,beans,100% Arabica,Gwatemala,25.2
 685,Washed,espresso,medium,beans,100% Arabica,Gwatemala,28.8
 686,Natural,espresso,medium,beans,100% Arabica,Brazylia,20.8
-687,Natural,espresso,dark,beans,100% Arabica,Brazylia,19.0
+687,Natural,espresso,dark,beans,100% Arabica,Brazylia,19
 688,Natural,espresso,dark,beans,100% Arabica,Brazylia,20.8
-689,Washed,espresso,medium,beans,100% Arabica,Gwatemala,24.0
+689,Washed,espresso,medium,beans,100% Arabica,Gwatemala,24
 690,Washed,espresso,medium,beans,100% Arabica,Gwatemala,26.4
 691,Washed,espresso,medium,ground,100% Arabica,Gwatemala,26.4
-692,Semi-washed,espresso,dark,beans,100% Arabica,"Brazylia, Gwatemala",20.0
+692,Semi-washed,espresso,dark,beans,100% Arabica,"Brazylia, Gwatemala",20
 693,Semi-washed,espresso,dark,beans,100% Arabica,"Brazylia, Gwatemala",22.4
 694,Semi-Washed Kombucha Experiment,espresso,dark,beans,100% Arabica,"Brazylia, Tanzania",19.78
 695,Natural,espresso,dark,beans,92/8,Panama,11.8
 696,Natural,espresso,dark,beans,80/20,"Etiopia, Brazylia",9.98
-697,Washed,espresso,medium,beans,100% Arabica,Gwatemala,40.0
+697,Washed,espresso,medium,beans,100% Arabica,Gwatemala,40
 698,Natural,espresso,medium,beans,100% Arabica,Burundi,33.6
 699,Natural,espresso,dark,beans,65/35,Panama,15.98
 700,Natural,espresso,dark,beans,35/65,Panama,12.9
 701,Natural,espresso,medium,beans,100% Arabica,Brazylia,23.8
-702,Natural,espresso,medium,beans,100% Arabica,Brazylia,24.0
+702,Natural,espresso,medium,beans,100% Arabica,Brazylia,24
 703,Natural,espresso,medium,beans,100% Arabica,Brazylia,27.2
 704,Washed,espresso,medium,beans,100% Arabica,Brazylia,23.8
 705,Washed,espresso,medium,beans,100% Arabica,Brazylia,27.2
@@ -707,30 +707,30 @@ idx,process,brewing method,roast,grind,arabica_robusta,origin,price_per_kg
 707,Washed,espresso,dark,ground,100% Arabica,"Brazylia, Peru, Wietnam",14.32
 708,Semi-Washed Kombucha Experiment,espresso,dark,beans,100% Arabica,"Brazylia, Tanzania",13.56
 709,Washed,espresso,dark,ground,100% Arabica,"Brazylia, Peru, Wietnam",12.72
-710,Semi-Washed Kombucha Experiment,espresso,dark,beans,100% Arabica,"Brazylia, Tanzania",16.0
+710,Semi-Washed Kombucha Experiment,espresso,dark,beans,100% Arabica,"Brazylia, Tanzania",16
 711,Semi-Washed Kombucha Experiment,espresso,dark,beans,100% Arabica,"Brazylia, Tanzania",13.6
-712,Semi-Carbonic Maceration,espresso,dark,beans,100% Arabica,Brazylia,15.0
+712,Semi-Carbonic Maceration,espresso,dark,beans,100% Arabica,Brazylia,15
 713,Semi-Washed Kombucha Experiment,espresso,dark,beans,70/30,Brazylia,13.98
-714,Washed,espresso,dark,beans,100% Arabica,Kolumbia,15.0
+714,Washed,espresso,dark,beans,100% Arabica,Kolumbia,15
 715,Natural,espresso,dark,beans,100% Arabica,Nikaragua,14.6
 716,Natural,espresso,dark,beans,100% Arabica,Salwador,40.4
-717,Natural,espresso,dark,beans,100% Arabica,Etiopia,38.0
+717,Natural,espresso,dark,beans,100% Arabica,Etiopia,38
 718,Semi-Carbonic Maceration,espresso,dark,beans,100% Arabica,Etiopia,31.8
 719,Semi-Carbonic Maceration,espresso,dark,beans,100% Arabica,Etiopia,39.2
 720,Washed,espresso,dark,beans,100% Arabica,Kolumbia,37.6
-721,Washed,espresso,dark,beans,100% Arabica,Kolumbia,36.0
+721,Washed,espresso,dark,beans,100% Arabica,Kolumbia,36
 722,Washed,espresso,dark,beans,100% Arabica,Peru,28.8
 723,Washed,espresso,dark,ground,100% Arabica,"Brazylia, Peru, Wietnam",19.92
 724,Pulped natural,espresso,medium,beans,100% Arabica,"Brazylia, Indie",21.8
-725,Natural,espresso,medium,beans,100% Arabica,Brazylia,24.0
-726,Washed,espresso,medium,beans,100% Arabica,Kolumbia,24.0
-727,Semi-Washed Kombucha Experiment,espresso,dark,beans,100% Arabica,"Brazylia, Tanzania",21.0
-728,Semi-Washed Kombucha Experiment,espresso,dark,beans,100% Arabica,"Brazylia, Tanzania",27.0
+725,Natural,espresso,medium,beans,100% Arabica,Brazylia,24
+726,Washed,espresso,medium,beans,100% Arabica,Kolumbia,24
+727,Semi-Washed Kombucha Experiment,espresso,dark,beans,100% Arabica,"Brazylia, Tanzania",21
+728,Semi-Washed Kombucha Experiment,espresso,dark,beans,100% Arabica,"Brazylia, Tanzania",27
 729,Natural,espresso,medium,beans,80/20,Kenia,14.98
 730,Washed,espresso,medium,beans,100% Arabica,"Etiopia, Kolumbia",38.4
-731,Natural,espresso,medium,beans,100% Arabica,Etiopia,56.0
+731,Natural,espresso,medium,beans,100% Arabica,Etiopia,56
 732,Natural,espresso,medium,beans,100% Arabica,Etiopia,47.6
-733,Washed,espresso,medium,beans,100% Arabica,"Brazylia, Kolumbia",30.0
+733,Washed,espresso,medium,beans,100% Arabica,"Brazylia, Kolumbia",30
 734,Washed,espresso,medium,beans,100% Arabica,Kolumbia,35.2
 735,Washed,espresso,medium,beans,100% Arabica,"Brazylia, Peru, Wietnam",24.8
 736,Pulped natural,espresso,dark,beans,100% Arabica,Brazylia,37.6
@@ -743,16 +743,16 @@ idx,process,brewing method,roast,grind,arabica_robusta,origin,price_per_kg
 743,Natural,espresso,dark,beans,60/40,Panama,14.4
 744,Semi-Washed Kombucha Experiment,espresso,dark,ground,30/70,Etiopia,13.6
 745,Rum Aged,espresso,dark,ground,70/30,Laos,23.2
-746,Natural,espresso,dark,beans,70/30,"Honduras, Kolumbia, Peru",19.0
+746,Natural,espresso,dark,beans,70/30,"Honduras, Kolumbia, Peru",19
 747,Washed,espresso,dark,ground,100% Arabica,"Brazylia, Peru, Wietnam",25.6
 748,Semi-Washed Kombucha Experiment,espresso,dark,beans,100% Arabica,"Brazylia, Tanzania",21.8
 749,Natural,espresso,medium,beans,90/10,Kenia,15.98
 750,Washed,espresso,medium,beans,100% Arabica,"Peru, Etiopia",31.6
 751,Natural,espresso,medium,beans,85/15,Kenia,29.6
 752,Washed,espresso,dark,beans,100% Arabica,Brazylia,23.92
-753,Washed,espresso,medium,beans,100% Arabica,Gwatemala,44.0
+753,Washed,espresso,medium,beans,100% Arabica,Gwatemala,44
 754,Pulped natural,espresso,medium,beans,100% Arabica,"Brazylia, Indie",19.5
-755,Washed,espresso,medium,beans,100% Arabica,Peru,30.0
+755,Washed,espresso,medium,beans,100% Arabica,Peru,30
 756,Natural,espresso,medium,beans,60/40,Kenia,15.96
 757,Natural,espresso,medium,beans,80/20,Kenia,19.96
 758,Natural,espresso,medium,beans,100% Arabica,"Etiopia, Brazylia",29.8
@@ -761,15 +761,15 @@ idx,process,brewing method,roast,grind,arabica_robusta,origin,price_per_kg
 761,Washed,espresso,medium,beans,100% Arabica,"Brazylia, Gwatemala, Kostaryka",37.6
 762,Semi-Washed Kombucha Experiment,espresso,dark,beans,100% Arabica,"Brazylia, Tanzania",25.2
 763,Semi-Washed Kombucha Experiment,espresso,dark,beans,100% Arabica,"Brazylia, Tanzania",25.6
-764,Washed,espresso,medium,beans,100% Arabica,"Etiopia, Kolumbia",16.0
+764,Washed,espresso,medium,beans,100% Arabica,"Etiopia, Kolumbia",16
 765,Pulped natural,espresso,medium,beans,100% Arabica,Brazylia,19.62
 766,Pulped natural,espresso,medium,beans,100% Arabica,Brazylia,19.2
 767,Washed,espresso,medium,beans,100% Arabica,Kolumbia,14.25
 768,Natural,espresso,medium,beans,100% Arabica,Etiopia,12.46
-769,Natural,espresso,medium,beans,100% Arabica,Etiopia,17.0
+769,Natural,espresso,medium,beans,100% Arabica,Etiopia,17
 770,Washed,espresso,medium,beans,100% Arabica,Etiopia,19.6
 771,Natural,espresso,medium,beans,100% Arabica,"Etiopia, Brazylia",16.8
-772,Natural,espresso,medium,beans,100% Arabica,"Etiopia, Brazylia",21.0
+772,Natural,espresso,medium,beans,100% Arabica,"Etiopia, Brazylia",21
 773,Natural,espresso,medium,beans,100% Arabica,"Etiopia, Brazylia, Kolumbia",15.2
 774,Natural,espresso,medium,beans,100% Arabica,Brazylia,19.8
 775,Natural,espresso,medium,beans,100% Arabica,Brazylia,23.2
@@ -780,11 +780,11 @@ idx,process,brewing method,roast,grind,arabica_robusta,origin,price_per_kg
 780,Pulped natural,espresso,dark,ground,95/5,"Kenia, Indie",15.2
 781,Rum Aged,espresso,dark,ground,70/30,Laos,17.6
 782,Rum Aged,espresso,dark,ground,80/20,"Brazylia, Indie",15.12
-783,Pulped natural,espresso,medium,beans,100% Arabica,Brazylia,15.0
+783,Pulped natural,espresso,medium,beans,100% Arabica,Brazylia,15
 784,Pulped natural,espresso,medium,beans,100% Arabica,"Brazylia, Indie",14.32
-785,Natural,espresso,dark,beans,40/60,Panama,11.0
-786,Natural,espresso,medium,beans,30/70,Kenia,11.0
-787,Pulped natural,espresso,medium,beans,50/50,"Etiopia, Brazylia",15.0
+785,Natural,espresso,dark,beans,40/60,Panama,11
+786,Natural,espresso,medium,beans,30/70,Kenia,11
+787,Pulped natural,espresso,medium,beans,50/50,"Etiopia, Brazylia",15
 788,Natural,espresso,dark,beans,70/30,"Honduras, Kolumbia, Peru",12.98
 789,Semi-Washed Kombucha Experiment,espresso,dark,ground,100% Robusta,"Etiopia, Gwatemala",9.8
 790,Semi-washed,espresso,dark,beans,100% Arabica,"Honduras, Kolumbia, Peru",9.8
@@ -794,7 +794,7 @@ idx,process,brewing method,roast,grind,arabica_robusta,origin,price_per_kg
 794,Washed,espresso,dark,beans,75/25,"Salwador, Indie",23.92
 795,Natural,espresso,dark,beans,80/20,"Etiopia, Brazylia",17.98
 796,Natural,espresso,dark,beans,40/60,Panama,13.98
-797,Semi-Washed Kombucha Experiment,espresso,dark,beans,100% Arabica,"Brazylia, Tanzania",21.0
+797,Semi-Washed Kombucha Experiment,espresso,dark,beans,100% Arabica,"Brazylia, Tanzania",21
 798,Semi-Washed Kombucha Experiment,espresso,dark,beans,100% Arabica,"Brazylia, Tanzania",24.32
 799,Natural,espresso,medium,beans,80/20,Kenia,21.8
 800,Pulped natural,espresso,dark,ground,90/10,"Kenia, Indie",14.32
@@ -807,11 +807,11 @@ idx,process,brewing method,roast,grind,arabica_robusta,origin,price_per_kg
 807,Experimental,espresso,medium,beans,100% Arabica,Uganda,29.6
 808,Washed,espresso,dark,ground,30/70,"Brazylia, Peru, Wietnam",16.8
 809,Washed,espresso,dark,ground,30/70,"Brazylia, Peru, Wietnam",16.8
-810,Natural,espresso,medium,beans,100% Arabica,Brazylia,20.0
-811,Rum Aged,espresso,dark,ground,80/20,"Brazylia, Indie",24.0
+810,Natural,espresso,medium,beans,100% Arabica,Brazylia,20
+811,Rum Aged,espresso,dark,ground,80/20,"Brazylia, Indie",24
 812,Natural,espresso,medium,beans,100% Arabica,Brazylia,32.8
 813,Natural,espresso,medium,beans,100% Arabica,Brazylia,24.6
-814,Semi-Washed Kombucha Experiment,espresso,dark,beans,100% Arabica,"Brazylia, Tanzania",28.0
+814,Semi-Washed Kombucha Experiment,espresso,dark,beans,100% Arabica,"Brazylia, Tanzania",28
 815,Washed,espresso,medium,beans,100% Arabica,"Brazylia, Gwatemala",22.2
 816,Washed,espresso,medium,beans,100% Arabica,"Peru, Gwatemala",20.16
 817,Natural,espresso,medium,beans,100% Arabica,Burundi,35.2
@@ -819,32 +819,32 @@ idx,process,brewing method,roast,grind,arabica_robusta,origin,price_per_kg
 819,Natural,espresso,dark,beans,80/20,"Etiopia, Brazylia",14.76
 820,Natural,espresso,dark,beans,60/40,Panama,11.58
 821,Washed,espresso,dark,beans,100% Arabica,"Honduras, Kolumbia, Peru",13.98
-822,Semi-Washed Kombucha Experiment,espresso,dark,beans,100% Arabica,"Brazylia, Tanzania",28.0
+822,Semi-Washed Kombucha Experiment,espresso,dark,beans,100% Arabica,"Brazylia, Tanzania",28
 823,Washed,espresso,dark,ground,100% Arabica,Brazylia,28.8
 824,Semi-Washed Kombucha Experiment,espresso,dark,beans,78/22,"Brazylia, Indie",24.8
 825,Pulped natural,espresso,dark,ground,85/15,Honduras,27.2
 826,Washed,espresso,dark,ground,100% Arabica,Brazylia,28.8
 827,Washed,espresso,dark,beans,100% Arabica,Brazylia,26.8
 828,Semi-Washed Kombucha Experiment,espresso,dark,beans,100% Arabica,"Brazylia, Indie",23.8
-829,Semi-Washed Kombucha Experiment,espresso,dark,beans,100% Arabica,"Brazylia, Indie",28.0
+829,Semi-Washed Kombucha Experiment,espresso,dark,beans,100% Arabica,"Brazylia, Indie",28
 830,Washed,espresso,dark,ground,100% Arabica,Peru,30.4
 831,Washed,espresso,dark,beans,75/25,"Salwador, Indie",24.8
-832,Semi-Carbonic Maceration,espresso,dark,beans,100% Arabica,Brazylia,28.0
+832,Semi-Carbonic Maceration,espresso,dark,beans,100% Arabica,Brazylia,28
 833,Washed,espresso,medium,beans,100% Arabica,Burundi,46.4
 834,Washed,espresso,medium,beans,100% Arabica,Kolumbia,45.6
 835,Anaerobic,espresso,medium,beans,100% Arabica,Kolumbia,49.6
-836,Natural,espresso,medium,beans,100% Arabica,Brazylia,18.0
+836,Natural,espresso,medium,beans,100% Arabica,Brazylia,18
 837,Pulped natural,espresso,dark,ground,55/45,Indonezja,15.2
 838,Honey,espresso,medium,beans,100% Robusta,Laos,34.4
-839,Washed,espresso,medium,beans,100% Arabica,"Brazylia, Kolumbia",32.0
-840,Washed,espresso,medium,beans,100% Arabica,Kolumbia,36.0
+839,Washed,espresso,medium,beans,100% Arabica,"Brazylia, Kolumbia",32
+840,Washed,espresso,medium,beans,100% Arabica,Kolumbia,36
 841,Washed,espresso,medium,beans,100% Arabica,Kolumbia,25.2
 842,Natural,espresso,medium,beans,100% Arabica,Etiopia,39.2
 843,Natural,espresso,medium,beans,100% Arabica,Brazylia,29.6
 844,Washed,espresso,medium,beans,100% Arabica,Papua Nowa Gwinea,41.6
 845,Washed,espresso,medium,beans,100% Arabica,Gwatemala,33.6
-846,Washed,espresso,medium,beans,100% Arabica,"Brazylia, Honduras",18.0
-847,Natural,espresso,medium,beans,100% Arabica,Brazylia,18.0
+846,Washed,espresso,medium,beans,100% Arabica,"Brazylia, Honduras",18
+847,Natural,espresso,medium,beans,100% Arabica,Brazylia,18
 848,Washed,espresso,medium,beans,100% Arabica,Kolumbia,46.4
 849,Washed,espresso,medium,beans,100% Arabica,Meksyk,50.4
 850,Natural,espresso,dark,beans,90/10,Panama,22.4
@@ -858,9 +858,9 @@ idx,process,brewing method,roast,grind,arabica_robusta,origin,price_per_kg
 858,Rum Aged,"drip, espresso",light,beans,100% Robusta,Gwatemala,18.17
 859,Honey + Anaerobic,drip (alternative brewing methods),light,beans,100% Arabica,Brazylia,45.6
 860,Washed,espresso,dark,ground,100% Arabica,"Brazylia, Peru, Wietnam",23.92
-861,Natural,espresso,light,beans,30/70,Panama,39.0
+861,Natural,espresso,light,beans,30/70,Panama,39
 862,Rum Aged,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,73.33
-863,Natural,espresso,light,beans,30/70,Panama,50.0
-864,Pulped natural,drip (alternative brewing methods),light,beans,100% Arabica,Nikaragua,36.0
-865,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,25.0
+863,Natural,espresso,light,beans,30/70,Panama,50
+864,Pulped natural,drip (alternative brewing methods),light,beans,100% Arabica,Nikaragua,36
+865,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,25
 866,Washed,drip (alternative brewing methods),light,beans,100% Arabica,Gwatemala,29.6

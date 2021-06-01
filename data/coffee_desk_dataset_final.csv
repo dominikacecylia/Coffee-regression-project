@@ -1,838 +1,838 @@
-,process,brewing_method,roast,grind,origin,price_per_kg,percentage_of_arabica,pure_arabica,roast_brew,Washed,Natural,Fermented_traditional,Fermented_closedtank,process_general,region_of_origin
-0,Monsooning,drip (alternative brewing methods),light,beans,Laos,52.22,100,True,light_drip (alternative brewing methods),False,False,False,False,Monsooning,Asia
-1,Natural,drip (alternative brewing methods),medium,beans,Brazylia,31.92,100,True,medium_drip (alternative brewing methods),False,True,False,False,Natural,Latam
-2,Natural,drip (alternative brewing methods),light,beans,Etiopia,39.2,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Africa
-3,Washed,drip (alternative brewing methods),light,beans,Etiopia,39.2,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-4,Natural,drip (alternative brewing methods),dark,beans,Indonezja,35.2,100,True,dark_drip (alternative brewing methods),False,True,False,False,Natural,Asia
-5,Natural,drip (alternative brewing methods),medium,beans,Brazylia,20.76,100,True,medium_drip (alternative brewing methods),False,True,False,False,Natural,Latam
-6,Washed,drip (alternative brewing methods),light,beans,Kenia,45.0,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-8,Washed,drip (alternative brewing methods),light,beans,Salwador,45.6,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Latam
-9,Honey,drip (alternative brewing methods),light,beans,Boliwia,62.7,100,True,light_drip (alternative brewing methods),True,True,True,False,Honey,Latam
-10,Honey,drip (alternative brewing methods),light,beans,Honduras,52.38,100,True,light_drip (alternative brewing methods),True,True,True,False,Honey,Latam
-12,Natural,drip (alternative brewing methods),light,beans,Burundi,60.0,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Africa
-13,Washed,drip (alternative brewing methods),light,beans,Burundi,50.4,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-16,Natural,drip (alternative brewing methods),light,beans,Honduras,52.0,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Latam
-17,Washed,drip (alternative brewing methods),light,beans,Kolumbia,89.0,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Latam
-18,Washed,drip (alternative brewing methods),light,beans,Kolumbia,88.0,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Latam
-19,Washed,drip (alternative brewing methods),medium,beans,Etiopia,33.6,100,True,medium_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-20,Natural,drip (alternative brewing methods),light,beans,"Kenia, Indie",37.6,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Mixed
-21,Monsooning,drip (alternative brewing methods),light,beans,Laos,52.5,100,True,light_drip (alternative brewing methods),False,False,False,False,Monsooning,Asia
-22,Washed,drip (alternative brewing methods),light,beans,Kolumbia,48.8,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Latam
-23,Natural,drip (alternative brewing methods),light,beans,Kolumbia,50.4,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Latam
-24,Washed,drip (alternative brewing methods),light,beans,"Brazylia, inne",23.8,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Mixed
-25,Washed,drip (alternative brewing methods),light,beans,Etiopia,46.4,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-26,Washed Anaerobic,drip (alternative brewing methods),light,beans,Honduras,50.4,100,True,light_drip (alternative brewing methods),True,False,False,True,Fermented,Latam
-27,Honey,drip (alternative brewing methods),light,beans,Indie,44.8,100,True,light_drip (alternative brewing methods),True,True,True,False,Honey,Asia
-28,Washed,drip (alternative brewing methods),light,beans,Peru,44.8,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Latam
-29,Washed,drip (alternative brewing methods),light,beans,Rwanda,44.8,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-30,Washed,drip (alternative brewing methods),light,beans,Rwanda,44.8,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-31,Natural,drip (alternative brewing methods),light,beans,Etiopia,50.4,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Africa
-32,Washed,drip (alternative brewing methods),light,beans,Gwatemala,44.0,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Latam
-33,Anaerobic,drip (alternative brewing methods),light,beans,Honduras,47.2,100,True,light_drip (alternative brewing methods),False,False,False,True,Fermented,Latam
-34,Washed,drip (alternative brewing methods),light,beans,Kolumbia,39.2,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Latam
-35,Carbonic Maceration,drip (alternative brewing methods),light,beans,Gwatemala,96.0,100,True,light_drip (alternative brewing methods),False,False,False,True,Fermented,Latam
-37,Monsooning,drip (alternative brewing methods),light,beans,Laos,26.4,100,True,light_drip (alternative brewing methods),False,False,False,False,Monsooning,Asia
-38,Washed,drip (alternative brewing methods),light,beans,Rwanda,38.4,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-39,Macerated Natural,drip (alternative brewing methods),light,ground,Brazylia,81.82,100,True,light_drip (alternative brewing methods),False,True,True,False,Fermented,Latam
-40,Macerated Natural,drip (alternative brewing methods),light,ground,Brazylia,71.59,100,True,light_drip (alternative brewing methods),False,True,True,False,Fermented,Latam
-41,Washed,drip (alternative brewing methods),light,ground,Etiopia,90.91,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-42,Washed,drip (alternative brewing methods),light,ground,Etiopia,79.55,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-43,Semi-washed,drip (alternative brewing methods),light,ground,Honduras,81.82,100,True,light_drip (alternative brewing methods),True,False,True,False,Semi-washed,Latam
-44,Semi-washed,drip (alternative brewing methods),light,ground,Honduras,71.59,100,True,light_drip (alternative brewing methods),True,False,True,False,Semi-washed,Latam
-46,Washed,drip (alternative brewing methods),light,ground,Kenia,87.5,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-47,Semi-washed,drip (alternative brewing methods),light,ground,Kolumbia,79.55,100,True,light_drip (alternative brewing methods),True,False,True,False,Semi-washed,Latam
-48,Semi-washed,drip (alternative brewing methods),light,ground,"Honduras, Kolumbia, Peru",73.86,100,True,light_drip (alternative brewing methods),True,False,True,False,Semi-washed,Latam
-49,Natural,drip (alternative brewing methods),light,beans,Kolumbia,41.6,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Latam
-50,Washed,drip (alternative brewing methods),light,beans,Kolumbia,29.2,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Latam
-51,Macerated Natural,drip (alternative brewing methods),light,beans,Peru,44.0,100,True,light_drip (alternative brewing methods),False,True,True,False,Fermented,Latam
-52,Pulped natural,drip (alternative brewing methods),light,beans,Kolumbia,45.0,100,True,light_drip (alternative brewing methods),True,True,False,False,Hybrid,Latam
-53,Washed,drip (alternative brewing methods),light,beans,Kolumbia,48.0,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Latam
-54,Natural,drip (alternative brewing methods),light,beans,Indonezja,45.0,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Asia
-55,Washed,drip (alternative brewing methods),light,beans,Peru,42.0,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Latam
-56,Washed,drip (alternative brewing methods),light,beans,Rwanda,45.0,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-57,Washed,drip (alternative brewing methods),light,beans,Etiopia,46.4,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-58,Honey,drip (alternative brewing methods),light,beans,Etiopia,47.2,100,True,light_drip (alternative brewing methods),True,True,True,False,Honey,Africa
-59,Washed,drip (alternative brewing methods),light,beans,Etiopia,42.4,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-60,Natural,drip (alternative brewing methods),light,beans,Kolumbia,44.0,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Latam
-61,Washed,drip (alternative brewing methods),light,beans,Kolumbia,44.0,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Latam
-62,Natural,drip (alternative brewing methods),light,beans,Brazylia,21.6,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Latam
-63,Washed,drip (alternative brewing methods),light,beans,Chiny,43.2,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Asia
-64,Washed,drip (alternative brewing methods),light,beans,Etiopia,40.0,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-65,Natural,drip (alternative brewing methods),light,beans,Etiopia,40.0,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Africa
-66,Washed,drip (alternative brewing methods),light,beans,Gwatemala,40.0,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Latam
-67,Washed,drip (alternative brewing methods),light,beans,Indonezja,40.0,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Asia
-68,Washed,drip (alternative brewing methods),light,beans,Kenia,43.2,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-69,Washed,drip (alternative brewing methods),light,beans,Mjanma,43.2,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Asia
-70,Washed,drip (alternative brewing methods),light,beans,Gwatemala,28.0,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Latam
-71,Washed,drip (alternative brewing methods),light,beans,Kolumbia,32.0,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Latam
-72,Honey,drip (alternative brewing methods),light,beans,Kostaryka,44.0,100,True,light_drip (alternative brewing methods),True,True,True,False,Honey,Latam
-73,Washed,drip (alternative brewing methods),light,beans,Rwanda,40.8,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-74,Natural,drip (alternative brewing methods),light,beans,Rwanda,56.0,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Africa
-75,Honey,drip (alternative brewing methods),light,beans,Brazylia,24.0,100,True,light_drip (alternative brewing methods),True,True,True,False,Honey,Latam
-76,Pulped natural,drip (alternative brewing methods),light,beans,Brazylia,24.0,100,True,light_drip (alternative brewing methods),True,True,False,False,Hybrid,Latam
-77,Washed,drip (alternative brewing methods),light,beans,Burundi,33.6,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-78,Natural,drip (alternative brewing methods),light,beans,Kostaryka,35.2,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Latam
-79,Washed,drip (alternative brewing methods),light,beans,Gwatemala,24.0,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Latam
-80,Natural,drip (alternative brewing methods),light,beans,Gwatemala,57.6,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Latam
-81,Natural,drip (alternative brewing methods),light,beans,Gwatemala,31.2,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Latam
-82,Honey,drip (alternative brewing methods),light,beans,Honduras,33.6,100,True,light_drip (alternative brewing methods),True,True,True,False,Honey,Latam
-83,Washed,drip (alternative brewing methods),light,beans,Indonezja,34.4,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Asia
-84,Washed,drip (alternative brewing methods),light,beans,Peru,32.0,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Latam
-85,Washed,drip (alternative brewing methods),light,beans,Etiopia,43.33,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-86,Washed,drip (alternative brewing methods),light,beans,Peru,34.67,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Latam
-87,Macerated Natural,drip (alternative brewing methods),light,beans,Peru,46.67,100,True,light_drip (alternative brewing methods),False,True,True,False,Fermented,Latam
-88,Natural,drip (alternative brewing methods),light,beans,Peru,44.67,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Latam
-89,Washed,drip (alternative brewing methods),light,beans,Rwanda,39.33,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-90,Natural,drip (alternative brewing methods),light,beans,Brazylia,27.2,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Latam
-91,Washed,drip (alternative brewing methods),light,beans,Etiopia,40.8,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-92,Washed,drip (alternative brewing methods),light,beans,Gwatemala,42.4,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Latam
-93,Washed,drip (alternative brewing methods),light,beans,Kenia,53.6,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-94,Washed,drip (alternative brewing methods),light,beans,Kolumbia,40.0,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Latam
-95,Natural,drip (alternative brewing methods),light,beans,Rwanda,44.0,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Africa
-96,Washed,drip (alternative brewing methods),light,beans,Rwanda,44.0,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-97,Yellow Bourbon,drip (alternative brewing methods),light,beans,Brazylia,46.4,100,True,light_drip (alternative brewing methods),False,False,False,False,Fermented,Latam
-98,Natural,drip (alternative brewing methods),light,beans,Salwador,56.0,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Latam
-99,Natural,drip (alternative brewing methods),light,beans,"Brazylia, Kenia",31.8,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Mixed
-100,Washed,drip (alternative brewing methods),light,beans,Kenia,51.2,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-101,Natural,drip (alternative brewing methods),light,beans,Brazylia,39.2,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Latam
-102,Washed,drip (alternative brewing methods),light,beans,Kolumbia,46.4,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Latam
-103,Washed,drip (alternative brewing methods),light,beans,Brazylia,38.4,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Latam
-104,Natural,drip (alternative brewing methods),light,beans,Rwanda,40.0,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Africa
-105,Natural,drip (alternative brewing methods),light,beans,Rwanda,40.0,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Africa
-106,Aerobic Fermentation in Piles,drip (alternative brewing methods),light,beans,Brazylia,44.0,100,True,light_drip (alternative brewing methods),False,False,True,False,Fermented,Latam
-107,Yeast Process,drip (alternative brewing methods),light,beans,Salwador,47.2,100,True,light_drip (alternative brewing methods),False,False,False,True,Fermented,Latam
-108,Washed,drip (alternative brewing methods),light,beans,Etiopia,48.0,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-109,Natural,drip (alternative brewing methods),light,beans,Etiopia,51.2,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Africa
-110,Honey,drip (alternative brewing methods),light,beans,Etiopia,51.2,100,True,light_drip (alternative brewing methods),True,True,True,False,Honey,Africa
-111,Washed Anaerobic,drip (alternative brewing methods),light,beans,Honduras,51.2,100,True,light_drip (alternative brewing methods),True,False,False,True,Fermented,Latam
-112,Washed,drip (alternative brewing methods),light,beans,Honduras,54.4,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Latam
-113,Carbonic Maceration,drip (alternative brewing methods),light,beans,Kolumbia,54.4,100,True,light_drip (alternative brewing methods),False,False,False,True,Fermented,Latam
-114,Honey,drip (alternative brewing methods),light,beans,Kostaryka,54.4,100,True,light_drip (alternative brewing methods),True,True,True,False,Honey,Latam
-115,Honey,drip (alternative brewing methods),light,beans,Kostaryka,56.0,100,True,light_drip (alternative brewing methods),True,True,True,False,Honey,Latam
-116,Natural,drip (alternative brewing methods),light,beans,Meksyk,48.0,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Latam
-117,Washed,drip (alternative brewing methods),light,beans,Peru,48.0,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Latam
-118,Semi-Carbonic Maceration,drip (alternative brewing methods),light,beans,Peru,40.0,100,True,light_drip (alternative brewing methods),False,False,False,False,Fermented,Latam
-119,Semi-Carbonic Maceration,drip (alternative brewing methods),light,beans,"Brazylia, inne",21.0,100,True,light_drip (alternative brewing methods),False,False,False,False,Fermented,Mixed
-120,Semi-Carbonic Maceration,drip (alternative brewing methods),light,beans,"Brazylia, inne",23.2,100,True,light_drip (alternative brewing methods),False,False,False,False,Fermented,Mixed
-121,Washed,drip (alternative brewing methods),light,beans,Etiopia,29.0,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-122,Washed,drip (alternative brewing methods),light,beans,Etiopia,32.0,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-123,Washed,drip (alternative brewing methods),light,beans,Etiopia,30.8,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-124,Semi-washed,drip (alternative brewing methods),light,beans,Rwanda,30.0,100,True,light_drip (alternative brewing methods),True,False,True,False,Semi-washed,Africa
-125,Semi-washed,drip (alternative brewing methods),light,beans,Rwanda,32.8,100,True,light_drip (alternative brewing methods),True,False,True,False,Semi-washed,Africa
-126,Semi-washed,drip (alternative brewing methods),light,beans,Rwanda,31.6,100,True,light_drip (alternative brewing methods),True,False,True,False,Semi-washed,Africa
-127,Semi-washed,drip (alternative brewing methods),light,ground,"Honduras, Kolumbia, Peru",20.0,100,True,light_drip (alternative brewing methods),True,False,True,False,Semi-washed,Latam
-128,Honey,drip (alternative brewing methods),light,beans,Kostaryka,38.08,100,True,light_drip (alternative brewing methods),True,True,True,False,Honey,Latam
-129,Washed,drip (alternative brewing methods),light,beans,Gwatemala,41.6,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Latam
-130,Washed,drip (alternative brewing methods),light,beans,Honduras,33.6,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Latam
-131,Honey,drip (alternative brewing methods),light,beans,Meksyk,33.6,100,True,light_drip (alternative brewing methods),True,True,True,False,Honey,Latam
-132,Anaerobic,drip (alternative brewing methods),light,beans,Kolumbia,63.2,100,True,light_drip (alternative brewing methods),False,False,False,True,Fermented,Latam
-133,Washed,drip (alternative brewing methods),light,beans,Etiopia,62.4,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-134,Natural,drip (alternative brewing methods),light,beans,Etiopia,60.0,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Africa
-135,Washed,drip (alternative brewing methods),light,beans,Burundi,44.0,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-136,Washed,drip (alternative brewing methods),light,beans,Gwatemala,23.2,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Latam
-137,Washed,drip (alternative brewing methods),light,beans,Etiopia,39.2,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-138,Washed,drip (alternative brewing methods),light,beans,Kenia,44.0,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-139,Natural,drip (alternative brewing methods),light,beans,Kostaryka,44.0,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Latam
-140,Honey,drip (alternative brewing methods),light,beans,Kostaryka,79.0,100,True,light_drip (alternative brewing methods),True,True,True,False,Honey,Latam
-141,Natural,drip (alternative brewing methods),light,beans,Nikaragua,44.0,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Latam
-142,Anaerobic natural,drip (alternative brewing methods),light,beans,Salwador,55.2,100,True,light_drip (alternative brewing methods),False,True,False,True,Fermented,Latam
-143,Natural,drip (alternative brewing methods),light,beans,Uganda,44.0,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Africa
-144,Natural,drip (alternative brewing methods),light,beans,Uganda,32.12,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Africa
-145,Natural,drip (alternative brewing methods),light,beans,Brazylia,45.6,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Latam
-146,Washed,drip (alternative brewing methods),light,beans,Burundi,44.0,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-147,Natural,drip (alternative brewing methods),light,beans,Burundi,48.0,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Africa
-148,Washed,drip (alternative brewing methods),light,beans,Etiopia,44.8,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-149,Washed,drip (alternative brewing methods),light,beans,Kenia,40.0,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-150,Natural,drip (alternative brewing methods),light,beans,Kolumbia,60.0,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Latam
-151,Natural,drip (alternative brewing methods),light,beans,Salwador,40.0,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Latam
-152,Washed,drip (alternative brewing methods),light,beans,Gwatemala,40.0,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Latam
-153,Washed,drip (alternative brewing methods),light,beans,Honduras,42.4,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Latam
-154,Washed,drip (alternative brewing methods),light,beans,Kenia,53.6,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-155,Washed,drip (alternative brewing methods),light,beans,Kolumbia,34.4,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Latam
-156,Natural,drip (alternative brewing methods),light,beans,Brazylia,45.0,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Latam
-157,Washed,drip (alternative brewing methods),light,beans,Kolumbia,47.0,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Latam
-158,Washed,drip (alternative brewing methods),light,beans,Etiopia,38.0,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-159,Anaerobic,drip (alternative brewing methods),light,beans,Kolumbia,78.4,100,True,light_drip (alternative brewing methods),False,False,False,True,Fermented,Latam
-160,Rum Aged,drip (alternative brewing methods),light,beans,Kolumbia,69.3,100,True,light_drip (alternative brewing methods),False,False,False,False,Fermented,Latam
-161,Macerated Natural,drip (alternative brewing methods),light,beans,Honduras,52.8,100,True,light_drip (alternative brewing methods),False,True,True,False,Fermented,Latam
-162,Macerated Natural,drip (alternative brewing methods),light,beans,Honduras,52.8,100,True,light_drip (alternative brewing methods),False,True,True,False,Fermented,Latam
-163,Anaerobic,drip (alternative brewing methods),light,beans,Salwador,88.0,100,True,light_drip (alternative brewing methods),False,False,False,True,Fermented,Latam
-164,Washed,drip (alternative brewing methods),light,beans,Boliwia,58.4,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Latam
-165,Natural,drip (alternative brewing methods),light,beans,Panama,75.0,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Latam
-166,Washed,drip (alternative brewing methods),light,beans,Kolumbia,89.0,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Latam
-167,Washed,drip (alternative brewing methods),light,beans,Kolumbia,82.0,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Latam
-168,CRYO,drip (alternative brewing methods),light,beans,Brazylia,73.0,100,True,light_drip (alternative brewing methods),False,False,False,False,CRYO,Latam
-169,Natural,drip (alternative brewing methods),light,beans,Burundi,48.0,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Africa
-170,Washed,drip (alternative brewing methods),light,beans,Kolumbia,46.4,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Latam
-171,Yeast Process,drip (alternative brewing methods),light,beans,Salwador,52.0,100,True,light_drip (alternative brewing methods),False,False,False,True,Fermented,Latam
-172,Natural,drip (alternative brewing methods),light,beans,Rwanda,48.0,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Africa
-173,Pulped natural,drip (alternative brewing methods),medium,beans,Brazylia,26.4,100,True,medium_drip (alternative brewing methods),True,True,False,False,Hybrid,Latam
-174,Washed,drip (alternative brewing methods),light,beans,Kostaryka,47.2,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Latam
-175,Natural,drip (alternative brewing methods),light,beans,Etiopia,39.2,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Africa
-176,Washed,drip (alternative brewing methods),light,beans,Peru,40.0,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Latam
-177,Washed,drip (alternative brewing methods),light,beans,Etiopia,47.2,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-178,Washed,drip (alternative brewing methods),light,beans,Etiopia,33.04,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-179,Natural,drip (alternative brewing methods),light,beans,Indonezja,54.4,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Asia
-180,Washed,drip (alternative brewing methods),light,beans,Etiopia,47.2,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-181,Anaerobic,drip (alternative brewing methods),light,beans,Honduras,46.4,100,True,light_drip (alternative brewing methods),False,False,False,True,Fermented,Latam
-182,Washed and natural,drip (alternative brewing methods),light,beans,Kolumbia,48.0,100,True,light_drip (alternative brewing methods),True,True,False,False,Hybrid,Latam
-183,Natural,drip (alternative brewing methods),light,beans,Rwanda,46.4,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Africa
-184,Washed,drip (alternative brewing methods),light,beans,Etiopia,36.0,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-185,Washed,drip (alternative brewing methods),light,beans,Gwatemala,36.0,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Latam
-186,Washed,drip (alternative brewing methods),light,beans,Honduras,32.8,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Latam
-187,Washed,drip (alternative brewing methods),light,beans,Kenia,39.2,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-188,Honey,drip (alternative brewing methods),light,beans,Kostaryka,36.0,100,True,light_drip (alternative brewing methods),True,True,True,False,Honey,Latam
-189,Natural,drip (alternative brewing methods),light,beans,Nikaragua,36.0,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Latam
-190,Washed,drip (alternative brewing methods),light,beans,Kolumbia,54.4,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Latam
-191,Washed,drip (alternative brewing methods),light,beans,Etiopia,33.6,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-192,Washed,drip (alternative brewing methods),light,beans,Gwatemala,44.0,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Latam
-193,Natural,drip (alternative brewing methods),light,beans,Brazylia,26.4,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Latam
-194,"Washed, Barrel Aged",drip (alternative brewing methods),light,beans,Kolumbia,51.2,100,True,light_drip (alternative brewing methods),False,False,False,False,Fermented,Latam
-195,Washed,drip (alternative brewing methods),medium,beans,Salwador,33.6,100,True,medium_drip (alternative brewing methods),True,False,False,False,Washed,Latam
-196,Natural,drip (alternative brewing methods),medium,beans,Sumatra,31.6,100,True,medium_drip (alternative brewing methods),False,True,False,False,Natural,Asia
-197,Washed,drip (alternative brewing methods),light,beans,Gwatemala,33.6,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Latam
-198,Washed,drip (alternative brewing methods),light,beans,Kenia,39.0,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-199,Washed,drip (alternative brewing methods),light,beans,Rwanda,40.0,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-200,Natural,drip (alternative brewing methods),light,beans,Rwanda,47.2,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Africa
-207,Semi-washed,drip (alternative brewing methods),light,ground,Kolumbia,82.29,100,True,light_drip (alternative brewing methods),True,False,True,False,Semi-washed,Latam
-208,Natural,drip (alternative brewing methods),light,beans,Brazylia,52.38,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Latam
-209,Washed,drip (alternative brewing methods),light,beans,Burundi,52.0,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-210,Washed,drip (alternative brewing methods),light,beans,Gwatemala,49.6,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Latam
-211,Honey,drip (alternative brewing methods),light,beans,Nikaragua,52.8,100,True,light_drip (alternative brewing methods),True,True,True,False,Honey,Latam
-213,Washed,drip (alternative brewing methods),light,beans,Kenia,60.0,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-214,Natural,drip (alternative brewing methods),light,beans,Nikaragua,60.0,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Latam
-216,Natural,drip (alternative brewing methods),light,beans,Etiopia,87.2,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Africa
-218,Semi-Carbonic Maceration,drip (alternative brewing methods),light,beans,Brazylia,46.4,100,True,light_drip (alternative brewing methods),False,False,False,False,Fermented,Latam
-219,Natural,drip (alternative brewing methods),light,beans,Brazylia,37.6,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Latam
-220,Washed,drip (alternative brewing methods),light,beans,Etiopia,46.4,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-221,Monsooning,drip (alternative brewing methods),medium,beans,Indie,36.8,100,True,medium_drip (alternative brewing methods),False,False,False,False,Monsooning,Asia
-222,Washed,drip (alternative brewing methods),light,beans,Peru,43.2,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Latam
-223,Washed,drip (alternative brewing methods),light,beans,Rwanda,42.4,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-224,Monsooning,drip (alternative brewing methods),light,beans,Brazylia,57.5,100,True,light_drip (alternative brewing methods),False,False,False,False,Monsooning,Latam
-225,Washed,drip (alternative brewing methods),light,beans,Kenia,60.0,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-226,Washed,drip (alternative brewing methods),light,beans,Honduras,52.8,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Latam
-227,Washed,drip (alternative brewing methods),light,beans,Kenia,55.2,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-228,Washed,drip (alternative brewing methods),light,beans,Kenia,63.2,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-229,Washed,drip (alternative brewing methods),light,beans,Peru,40.8,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Latam
-230,Washed,drip (alternative brewing methods),light,beans,Kenia,50.4,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-231,Natural,drip (alternative brewing methods),light,beans,Kolumbia,50.4,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Latam
-232,Washed,drip (alternative brewing methods),light,beans,"Rwanda, inne",27.0,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Mixed
-233,Washed,drip (alternative brewing methods),light,beans,Kenia,46.4,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-234,Washed,drip (alternative brewing methods),light,beans,Rwanda,43.2,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-235,Washed,drip (alternative brewing methods),light,beans,Kolumbia,34.72,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Latam
-236,Washed,drip (alternative brewing methods),light,beans,Kolumbia,34.72,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Latam
-237,Honey,drip (alternative brewing methods),light,beans,Indie,35.84,100,True,light_drip (alternative brewing methods),True,True,True,False,Honey,Asia
-238,Washed,drip (alternative brewing methods),light,beans,Rwanda,31.36,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-239,Washed,drip (alternative brewing methods),light,beans,Gwatemala,44.0,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Latam
-240,Natural,drip (alternative brewing methods),light,beans,Nikaragua,43.2,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Latam
-241,Washed,drip (alternative brewing methods),light,beans,Rwanda,48.0,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-242,Washed,drip (alternative brewing methods),light,beans,Gwatemala,33.0,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Latam
-243,Washed,drip (alternative brewing methods),light,beans,Kolumbia,51.2,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Latam
-244,Natural,drip (alternative brewing methods),light,beans,Nikaragua,34.56,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Latam
-245,Semi-washed,drip (alternative brewing methods),light,ground,Honduras,57.27,100,True,light_drip (alternative brewing methods),True,False,True,False,Semi-washed,Latam
-246,Natural,drip (alternative brewing methods),light,beans,Rwanda,52.8,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Africa
-247,Washed,drip (alternative brewing methods),light,beans,Rwanda,45.6,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-248,Anaerobic,drip (alternative brewing methods),light,beans,Brazylia,48.0,100,True,light_drip (alternative brewing methods),False,False,False,True,Fermented,Latam
-249,Washed,drip (alternative brewing methods),light,beans,Honduras,38.4,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Latam
-250,Washed,drip (alternative brewing methods),light,beans,Kenia,40.0,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-251,Washed,drip (alternative brewing methods),light,beans,Kenia,41.6,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-252,Washed,drip (alternative brewing methods),light,beans,Kenia,45.6,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-253,Washed,drip (alternative brewing methods),light,beans,Kenia,40.0,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-254,Washed,drip (alternative brewing methods),light,beans,Peru,35.2,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Latam
-255,Natural,drip (alternative brewing methods),light,beans,Kolumbia,33.28,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Latam
-256,Washed,drip (alternative brewing methods),light,beans,"Papua Nowa Gwinea, Rwanda",28.8,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-257,Natural,drip (alternative brewing methods),light,beans,Kolumbia,45.0,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Latam
-258,Washed,drip (alternative brewing methods),light,beans,Kolumbia,42.0,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Latam
-259,Honey,drip (alternative brewing methods),light,beans,Salwador,45.0,100,True,light_drip (alternative brewing methods),True,True,True,False,Honey,Latam
-260,Washed,drip (alternative brewing methods),light,beans,Rwanda,43.0,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-261,Natural,drip (alternative brewing methods),light,beans,Indonezja,31.5,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Asia
-262,Natural,drip (alternative brewing methods),light,beans,Brazylia,39.2,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Latam
-263,Natural,drip (alternative brewing methods),light,beans,Chiny,47.2,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Asia
-264,Washed,drip (alternative brewing methods),light,beans,Etiopia,49.6,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-265,Honey,drip (alternative brewing methods),light,beans,Burundi,39.2,100,True,light_drip (alternative brewing methods),True,True,True,False,Honey,Africa
-266,Washed,drip (alternative brewing methods),light,beans,Etiopia,40.8,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-267,Washed,drip (alternative brewing methods),light,beans,Kenia,41.6,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-268,Anaerobic,drip (alternative brewing methods),light,beans,Rwanda,40.8,100,True,light_drip (alternative brewing methods),False,False,False,True,Fermented,Africa
-269,Natural,drip (alternative brewing methods),light,beans,Etiopia,40.0,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Africa
-270,Washed,drip (alternative brewing methods),light,beans,Indie,27.2,0,False,light_drip (alternative brewing methods),True,False,False,False,Washed,Asia
-271,Washed,drip (alternative brewing methods),light,beans,Kostaryka,27.6,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Latam
-272,Natural,drip (alternative brewing methods),light,beans,Meksyk,27.6,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Latam
-273,Washed,drip (alternative brewing methods),light,beans,Nikaragua,36.8,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Latam
-274,Natural,drip (alternative brewing methods),light,beans,Brazylia,28.8,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Latam
-275,Washed,drip (alternative brewing methods),light,beans,Etiopia,28.0,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-276,Washed,drip (alternative brewing methods),light,beans,Gwatemala,28.0,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Latam
-277,Natural,drip (alternative brewing methods),light,beans,Etiopia,47.2,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Africa
-278,Washed,drip (alternative brewing methods),light,beans,Kenia,46.4,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-279,Natural,drip (alternative brewing methods),light,beans,Peru,47.2,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Latam
-280,Washed,drip (alternative brewing methods),light,beans,Peru,45.6,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Latam
-281,Washed,drip (alternative brewing methods),light,beans,Rwanda,45.6,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-282,Natural,drip (alternative brewing methods),light,beans,Peru,35.4,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Latam
-283,Washed,drip (alternative brewing methods),light,beans,Peru,34.2,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Latam
-284,Washed,drip (alternative brewing methods),light,beans,Rwanda,34.2,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-285,Natural,drip (alternative brewing methods),light,beans,Salwador,32.0,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Latam
-286,Honey,drip (alternative brewing methods),light,beans,Salwador,31.2,100,True,light_drip (alternative brewing methods),True,True,True,False,Honey,Latam
-287,Honey,drip (alternative brewing methods),light,beans,Salwador,34.4,100,True,light_drip (alternative brewing methods),True,True,True,False,Honey,Latam
-288,Natural,drip (alternative brewing methods),light,beans,Etiopia,31.2,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Africa
-289,Washed,drip (alternative brewing methods),light,beans,Gwatemala,49.6,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Latam
-290,Washed,drip (alternative brewing methods),light,beans,Meksyk,25.6,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Latam
-291,Natural,drip (alternative brewing methods),light,beans,Mjanma,33.6,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Asia
-292,Natural,drip (alternative brewing methods),light,beans,Kostaryka,26.4,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Latam
-293,Honey,drip (alternative brewing methods),light,beans,Salwador,25.8,100,True,light_drip (alternative brewing methods),True,True,True,False,Honey,Latam
-294,Natural,drip (alternative brewing methods),light,beans,Gwatemala,23.4,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Latam
-295,Honey,drip (alternative brewing methods),light,beans,Honduras,25.2,100,True,light_drip (alternative brewing methods),True,True,True,False,Honey,Latam
-296,Natural,drip (alternative brewing methods),light,beans,Rwanda,39.33,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Africa
-297,Natural,drip (alternative brewing methods),light,beans,Kolumbia,60.0,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Latam
-298,Natural,drip (alternative brewing methods),light,beans,Kolumbia,39.0,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Latam
-299,Natural,drip (alternative brewing methods),light,beans,Kostaryka,36.0,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Latam
-300,Washed,drip (alternative brewing methods),light,beans,Rwanda,33.0,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-301,Natural,drip (alternative brewing methods),light,beans,Etiopia,56.0,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Africa
-302,Washed,drip (alternative brewing methods),light,beans,Kenia,65.6,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-303,Natural,drip (alternative brewing methods),light,beans,Salwador,53.6,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Latam
-304,Natural,drip (alternative brewing methods),light,beans,Etiopia,46.4,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Africa
-305,Washed,drip (alternative brewing methods),light,beans,Kolumbia,37.12,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Latam
-306,Natural,drip (alternative brewing methods),light,beans,Salwador,37.52,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Latam
-307,Honey,drip (alternative brewing methods),light,beans,Brazylia,33.6,100,True,light_drip (alternative brewing methods),True,True,True,False,Honey,Latam
-308,Washed,drip (alternative brewing methods),light,beans,Demokratyczna Republika Konga,37.6,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-309,Honey,drip (alternative brewing methods),light,beans,Etiopia,37.6,100,True,light_drip (alternative brewing methods),True,True,True,False,Honey,Africa
-310,Natural,drip (alternative brewing methods),light,beans,Etiopia,40.8,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Africa
-311,Semi-washed,drip (alternative brewing methods),light,beans,Kolumbia,40.0,100,True,light_drip (alternative brewing methods),True,False,True,False,Semi-washed,Latam
-312,Natural,drip (alternative brewing methods),light,beans,Papua Nowa Gwinea,36.0,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Africa
-313,Washed,drip (alternative brewing methods),light,beans,Tanzania,36.0,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-314,Natural,drip (alternative brewing methods),light,beans,Honduras,26.4,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Latam
-315,Pulped natural,drip (alternative brewing methods),light,beans,Brazylia,31.2,100,True,light_drip (alternative brewing methods),True,True,False,False,Hybrid,Latam
-316,Aerobic Fermentation in Piles,drip (alternative brewing methods),light,beans,Brazylia,44.0,100,True,light_drip (alternative brewing methods),False,False,True,False,Fermented,Latam
-317,Experimental Anaerobic,drip (alternative brewing methods),light,beans,Gwatemala,52.0,100,True,light_drip (alternative brewing methods),False,False,False,True,Fermented,Latam
-318,Honey,drip (alternative brewing methods),light,beans,Honduras,42.4,100,True,light_drip (alternative brewing methods),True,True,True,False,Honey,Latam
-319,Washed,drip (alternative brewing methods),light,beans,Peru,23.2,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Latam
-320,Washed,drip (alternative brewing methods),light,beans,Boliwia,37.96,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Latam
-321,Natural,drip (alternative brewing methods),light,beans,Boliwia,54.4,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Latam
-322,Washed,drip (alternative brewing methods),light,beans,Honduras,38.08,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Latam
-323,Natural,drip (alternative brewing methods),light,beans,Kolumbia,35.84,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Latam
-324,Washed,drip (alternative brewing methods),light,beans,Peru,33.6,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Latam
-325,Washed,drip (alternative brewing methods),light,beans,Kenia,48.0,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-326,Washed,drip (alternative brewing methods),light,beans,Kolumbia,33.6,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Latam
-327,Washed,drip (alternative brewing methods),light,beans,Gwatemala,34.56,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Latam
-328,Washed,drip (alternative brewing methods),light,beans,Gwatemala,48.0,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Latam
-329,Monsooning,drip (alternative brewing methods),light,beans,Laos,60.0,100,True,light_drip (alternative brewing methods),False,False,False,False,Monsooning,Asia
-330,Honey,drip (alternative brewing methods),light,beans,Kostaryka,59.25,100,True,light_drip (alternative brewing methods),True,True,True,False,Honey,Latam
-331,Washed,drip (alternative brewing methods),light,beans,Peru,27.0,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Latam
-332,Anaerobic natural,drip (alternative brewing methods),light,beans,Salwador,40.28,100,True,light_drip (alternative brewing methods),False,True,False,True,Fermented,Latam
-333,Natural,drip (alternative brewing methods),light,beans,Meksyk,68.0,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Latam
-334,Natural,drip (alternative brewing methods),medium,beans,"Brazylia, Etiopia",24.8,100,True,medium_drip (alternative brewing methods),False,True,False,False,Natural,Mixed
-335,Honey,drip (alternative brewing methods),light,beans,Brazylia,45.6,100,True,light_drip (alternative brewing methods),True,True,True,False,Honey,Latam
-336,Anaerobic,drip (alternative brewing methods),light,beans,Burundi,51.2,100,True,light_drip (alternative brewing methods),False,False,False,True,Fermented,Africa
-337,Washed,drip (alternative brewing methods),light,beans,Salwador,54.4,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Latam
-338,Washed,drip (alternative brewing methods),light,beans,Kostaryka,36.0,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Latam
-339,Natural,drip (alternative brewing methods),light,beans,Etiopia,55.2,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Africa
-340,Washed,drip (alternative brewing methods),light,beans,Gwatemala,38.0,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Latam
-341,Closed Tank Fermentation,drip (alternative brewing methods),light,beans,Indonezja,62.0,100,True,light_drip (alternative brewing methods),True,False,False,True,Fermented,Asia
-344,Washed,drip (alternative brewing methods),light,beans,Kolumbia,64.0,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Latam
-345,Washed,drip (alternative brewing methods),light,beans,Kolumbia,80.0,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Latam
-346,Natural,drip (alternative brewing methods),light,beans,Salwador,60.0,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Latam
-347,Natural,drip (alternative brewing methods),light,beans,Panama,80.0,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Latam
-348,Natural,drip (alternative brewing methods),light,beans,Kostaryka,65.6,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Latam
-349,Rum Aged,drip (alternative brewing methods),light,beans,Kolumbia,99.0,100,True,light_drip (alternative brewing methods),False,False,False,False,Fermented,Latam
-350,Washed Double Anaerobic,drip (alternative brewing methods),light,beans,Kolumbia,90.0,100,True,light_drip (alternative brewing methods),True,False,False,True,Fermented,Latam
-352,Anaerobic,drip (alternative brewing methods),light,beans,Salwador,49.6,100,True,light_drip (alternative brewing methods),False,False,False,True,Fermented,Latam
-353,Anaerobic,drip (alternative brewing methods),light,beans,Salwador,37.2,100,True,light_drip (alternative brewing methods),False,False,False,True,Fermented,Latam
-354,Washed,drip (alternative brewing methods),light,beans,Gwatemala,36.8,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Latam
-355,Washed,drip (alternative brewing methods),light,beans,Rwanda,36.8,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-356,Washed,drip (alternative brewing methods),light,beans,Tanzania,31.2,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-357,Washed,drip (alternative brewing methods),light,beans,Gwatemala,36.0,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Latam
-358,Washed,drip (alternative brewing methods),light,beans,Rwanda,40.8,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-359,Washed,drip (alternative brewing methods),light,beans,Gwatemala,25.2,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Latam
-360,Washed,drip (alternative brewing methods),light,beans,Rwanda,28.56,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-361,Washed,drip (alternative brewing methods),light,beans,Burundi,51.2,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-362,Washed,drip (alternative brewing methods),light,beans,Kenia,52.8,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-363,Natural,drip (alternative brewing methods),light,beans,Boliwia,55.2,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Latam
-364,Washed,drip (alternative brewing methods),light,beans,Etiopia,52.8,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-365,Washed,drip (alternative brewing methods),light,beans,Gwatemala,50.4,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Latam
-366,Washed,drip (alternative brewing methods),light,beans,Kolumbia,52.8,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Latam
-367,Washed,drip (alternative brewing methods),light,beans,Salwador,55.2,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Latam
-368,Washed,drip (alternative brewing methods),light,beans,Etiopia,60.0,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-369,Washed,drip (alternative brewing methods),light,beans,Gwatemala,36.0,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Latam
-370,Washed,drip (alternative brewing methods),light,beans,Gwatemala,36.0,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Latam
-371,Washed,drip (alternative brewing methods),light,beans,Kenia,36.0,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-372,Anaerobic,drip (alternative brewing methods),light,beans,Kolumbia,48.0,100,True,light_drip (alternative brewing methods),False,False,False,True,Fermented,Latam
-373,Natural,drip (alternative brewing methods),light,beans,Etiopia,38.4,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Africa
-374,Washed,drip (alternative brewing methods),light,beans,Kenia,40.0,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-375,Natural,drip (alternative brewing methods),light,beans,Kostaryka,36.0,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Latam
-376,Washed,drip (alternative brewing methods),light,beans,Etiopia,31.5,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Africa
-377,Natural,drip (alternative brewing methods),light,beans,Brazylia,35.2,100,True,light_drip (alternative brewing methods),False,True,False,False,Natural,Latam
-378,Natural,"drip, espresso",dark,beans,Panama,29.6,100,True,"dark_drip, espresso",False,True,False,False,Natural,Latam
-379,Rum Aged,"drip, espresso",medium,beans,Demokratyczna Republika Konga,31.6,100,True,"medium_drip, espresso",False,False,False,False,Fermented,Africa
-380,Natural,"drip, espresso",medium,ground,"Etiopia, Kolumbia",22.0,100,True,"medium_drip, espresso",False,True,False,False,Natural,Mixed
-381,Natural,"drip, espresso",medium,beans,Etiopia,45.6,100,True,"medium_drip, espresso",False,True,False,False,Natural,Africa
-382,Natural,"drip, espresso",medium,ground,"Etiopia, Kolumbia",28.8,100,True,"medium_drip, espresso",False,True,False,False,Natural,Mixed
-383,Natural,"drip, espresso",medium,ground,"Etiopia, Kolumbia",19.2,100,True,"medium_drip, espresso",False,True,False,False,Natural,Mixed
-384,Rum Aged,"drip, espresso",medium,beans,Demokratyczna Republika Konga,19.2,100,True,"medium_drip, espresso",False,False,False,False,Fermented,Africa
-385,Rum Aged,"drip, espresso",medium,beans,Demokratyczna Republika Konga,22.0,100,True,"medium_drip, espresso",False,False,False,False,Fermented,Africa
-386,Washed,"drip, espresso",medium,beans,Honduras,36.0,100,True,"medium_drip, espresso",True,False,False,False,Washed,Latam
-387,Natural,"drip, espresso",light,beans,Brazylia,44.8,100,True,"light_drip, espresso",False,True,False,False,Natural,Latam
-388,Natural,"drip, espresso",medium,beans,Brazylia,44.8,100,True,"medium_drip, espresso",False,True,False,False,Natural,Latam
-389,Natural,"drip, espresso",medium,beans,Brazylia,38.4,100,True,"medium_drip, espresso",False,True,False,False,Natural,Latam
-390,Washed,"drip, espresso",medium,beans,Kolumbia,47.2,100,True,"medium_drip, espresso",True,False,False,False,Washed,Latam
-391,Washed,"drip, espresso",light,beans,Malawi,54.4,100,True,"light_drip, espresso",True,False,False,False,Washed,Africa
-392,Washed,"drip, espresso",light,beans,Rwanda,48.0,100,True,"light_drip, espresso",True,False,False,False,Washed,Africa
-393,Natural,"drip, espresso",medium,beans,Brazylia,49.6,100,True,"medium_drip, espresso",False,True,False,False,Natural,Latam
-394,Washed,"drip, espresso",medium,beans,Gwatemala,39.2,100,True,"medium_drip, espresso",True,False,False,False,Washed,Latam
-395,Natural,"drip, espresso",medium,beans,Brazylia,22.4,100,True,"medium_drip, espresso",False,True,False,False,Natural,Latam
-396,Washed,"drip, espresso",medium,beans,Gwatemala,25.6,100,True,"medium_drip, espresso",True,False,False,False,Washed,Latam
-397,Semi-washed,"drip, espresso",medium,beans,Indonezja,28.0,100,True,"medium_drip, espresso",True,False,True,False,Semi-washed,Asia
-398,Semi-Carbonic Maceration,"drip, espresso",medium,beans,Meksyk,33.6,100,True,"medium_drip, espresso",False,False,False,False,Fermented,Latam
-399,Washed,"drip, espresso",medium,beans,Kolumbia,40.8,100,True,"medium_drip, espresso",True,False,False,False,Washed,Latam
-400,Natural,"drip, espresso",medium,beans,Kolumbia,45.6,100,True,"medium_drip, espresso",False,True,False,False,Natural,Latam
-401,Washed,"drip, espresso",medium,beans,Etiopia,47.2,100,True,"medium_drip, espresso",True,False,False,False,Washed,Africa
-402,Natural,"drip, espresso",medium,beans,Rwanda,51.2,100,True,"medium_drip, espresso",False,True,False,False,Natural,Africa
-403,Semi-Carbonic Maceration,"drip, espresso",medium,beans,Gwatemala,52.8,100,True,"medium_drip, espresso",False,False,False,False,Fermented,Latam
-404,Natural,"drip, espresso",medium,beans,Brazylia,52.0,100,True,"medium_drip, espresso",False,True,False,False,Natural,Latam
-405,Washed,"drip, espresso",light,beans,Burundi,66.4,100,True,"light_drip, espresso",True,False,False,False,Washed,Africa
-406,Washed,"drip, espresso",light,beans,Kolumbia,61.6,100,True,"light_drip, espresso",True,False,False,False,Washed,Latam
-408,Semi-Washed Kombucha Experiment,"drip, espresso",medium,beans,Salwador,68.0,100,True,"medium_drip, espresso",True,False,False,True,Fermented,Latam
-409,Pulped natural,"drip, espresso",medium,beans,Brazylia,37.6,100,True,"medium_drip, espresso",True,True,False,False,Hybrid,Latam
-410,Washed,"drip, espresso",medium,beans,Kenia,50.4,100,True,"medium_drip, espresso",True,False,False,False,Washed,Africa
-411,Natural,"drip, espresso",medium,beans,Rwanda,51.2,100,True,"medium_drip, espresso",False,True,False,False,Natural,Africa
-413,Natural,"drip, espresso",dark,beans,Panama,29.96,100,True,"dark_drip, espresso",False,True,False,False,Natural,Latam
-414,Rum Aged,"drip, espresso",medium,beans,Demokratyczna Republika Konga,29.6,100,True,"medium_drip, espresso",False,False,False,False,Fermented,Africa
-415,Rum Aged,"drip, espresso",medium,beans,Demokratyczna Republika Konga,17.8,100,True,"medium_drip, espresso",False,False,False,False,Fermented,Africa
-416,Washed,"drip, espresso",medium,beans,Honduras,47.2,100,True,"medium_drip, espresso",True,False,False,False,Washed,Latam
-417,Washed,"drip, espresso",medium,beans,Honduras,28.8,100,True,"medium_drip, espresso",True,False,False,False,Washed,Latam
-418,Washed,"drip, espresso",medium,beans,Etiopia,48.0,100,True,"medium_drip, espresso",True,False,False,False,Washed,Africa
-419,Washed,"drip, espresso",medium,beans,Kolumbia,45.6,100,True,"medium_drip, espresso",True,False,False,False,Washed,Latam
-420,Natural,"drip, espresso",medium,beans,Kostaryka,59.2,100,True,"medium_drip, espresso",False,True,False,False,Natural,Latam
-421,Honey,"drip, espresso",medium,beans,Kostaryka,59.2,100,True,"medium_drip, espresso",True,True,True,False,Honey,Latam
-422,Natural,"drip, espresso",light,beans,Etiopia,64.5,100,True,"light_drip, espresso",False,True,False,False,Natural,Africa
-423,Semi-Washed Kombucha Experiment,"drip, espresso",medium,beans,"Etiopia, Gwatemala",35.2,100,True,"medium_drip, espresso",True,False,False,True,Fermented,Mixed
-424,Honey,"drip, espresso",medium,beans,Gwatemala,43.2,100,True,"medium_drip, espresso",True,True,True,False,Honey,Latam
-425,Natural,"drip, espresso",medium,beans,Brazylia,25.6,100,True,"medium_drip, espresso",False,True,False,False,Natural,Latam
-426,Washed,"drip, espresso",medium,beans,Kolumbia,21.6,100,True,"medium_drip, espresso",True,False,False,False,Washed,Latam
-427,Washed,"drip, espresso",medium,beans,Gwatemala,19.2,100,True,"medium_drip, espresso",True,False,False,False,Washed,Latam
-428,Washed,"drip, espresso",light,beans,Kenia,48.0,100,True,"light_drip, espresso",True,False,False,False,Washed,Africa
-429,Anaerobic natural,"drip, espresso",medium,beans,Brazylia,41.6,100,True,"medium_drip, espresso",False,True,False,True,Fermented,Latam
-430,Washed,"drip, espresso",medium,beans,Kolumbia,49.6,100,True,"medium_drip, espresso",True,False,False,False,Washed,Latam
-431,Natural,"drip, espresso",medium,beans,Kolumbia,46.4,100,True,"medium_drip, espresso",False,True,False,False,Natural,Latam
-432,Washed,"drip, espresso",medium,beans,Nikaragua,42.12,100,True,"medium_drip, espresso",True,False,False,False,Washed,Latam
-433,Washed,"drip, espresso",medium,beans,Burundi,53.6,100,True,"medium_drip, espresso",True,False,False,False,Washed,Africa
-434,Natural,"drip, espresso",medium,beans,Brazylia,39.2,100,True,"medium_drip, espresso",False,True,False,False,Natural,Latam
-435,Honey,"drip, espresso",medium,beans,Gwatemala,49.6,100,True,"medium_drip, espresso",True,True,True,False,Honey,Latam
-436,Natural,"drip, espresso",medium,beans,Gwatemala,58.4,100,True,"medium_drip, espresso",False,True,False,False,Natural,Latam
-437,Washed,"drip, espresso",medium,beans,Kenia,56.0,100,True,"medium_drip, espresso",True,False,False,False,Washed,Africa
-438,Washed,"drip, espresso",medium,beans,Rwanda,49.6,100,True,"medium_drip, espresso",True,False,False,False,Washed,Africa
-439,Honey,"drip, espresso",medium,beans,Indonezja,45.6,100,True,"medium_drip, espresso",True,True,True,False,Honey,Asia
-440,Washed,"drip, espresso",medium,beans,Etiopia,65.6,100,True,"medium_drip, espresso",True,False,False,False,Washed,Africa
-441,Natural,"drip, espresso",medium,beans,Etiopia,78.4,100,True,"medium_drip, espresso",False,True,False,False,Natural,Africa
-443,Washed and natural,"drip, espresso",medium,beans,Kolumbia,64.0,100,True,"medium_drip, espresso",True,True,False,False,Hybrid,Latam
-444,Honey,"drip, espresso",medium,beans,Salwador,46.4,100,True,"medium_drip, espresso",True,True,True,False,Honey,Latam
-445,Natural,"drip, espresso",medium,beans,Salwador,59.0,100,True,"medium_drip, espresso",False,True,False,False,Natural,Latam
-446,Washed,"drip, espresso",medium,beans,Etiopia,36.8,100,True,"medium_drip, espresso",True,False,False,False,Washed,Africa
-447,Honey,"drip, espresso",medium,beans,Salwador,34.8,100,True,"medium_drip, espresso",True,True,True,False,Honey,Latam
-448,Fermentacja kontrolowana,"drip, espresso",medium,beans,Brazylia,40.0,100,True,"medium_drip, espresso",False,False,True,False,Fermented,Latam
-449,Natural,"drip, espresso",medium,beans,Rwanda,33.6,100,True,"medium_drip, espresso",False,True,False,False,Natural,Africa
-450,Natural,espresso,medium,beans,Uganda,27.8,100,True,medium_espresso,False,True,False,False,Natural,Africa
-451,Natural,espresso,medium,beans,Uganda,34.4,100,True,medium_espresso,False,True,False,False,Natural,Africa
-452,Pulped natural,espresso,medium,beans,"Brazylia, Indie",31.6,100,True,medium_espresso,True,True,False,False,Hybrid,Mixed
-453,Rum Aged,espresso,medium,beans,Italy,19.8,85,False,medium_espresso,False,False,False,False,Fermented,Europe
-454,Rum Aged,espresso,medium,beans,Italy,25.6,85,False,medium_espresso,False,False,False,False,Fermented,Europe
-455,Pulped natural,espresso,medium,beans,"Brazylia, Indie",26.0,100,True,medium_espresso,True,True,False,False,Hybrid,Mixed
-456,Natural,espresso,medium,beans,Kenia,15.8,50,False,medium_espresso,False,True,False,False,Natural,Africa
-457,Semi-Washed Kombucha Experiment,espresso,medium,beans,Italy,19.8,75,False,medium_espresso,True,False,False,True,Fermented,Europe
-458,Semi-Washed Kombucha Experiment,espresso,medium,beans,Italy,25.52,75,False,medium_espresso,True,False,False,True,Fermented,Europe
-459,Pulped natural,espresso,medium,beans,"Brazylia, Indie",25.0,100,True,medium_espresso,True,True,False,False,Hybrid,Mixed
-460,Pulped natural,espresso,medium,beans,"Brazylia, Indie",28.8,100,True,medium_espresso,True,True,False,False,Hybrid,Mixed
-461,Washed,espresso,medium,beans,Peru,30.0,100,True,medium_espresso,True,False,False,False,Washed,Latam
-462,Semi-Carbonic Maceration,espresso,medium,ground,"Brazylia, Kolumbia",28.0,100,True,medium_espresso,False,False,False,False,Fermented,Latam
-463,Pulped natural,espresso,medium,beans,"Brazylia, Indie",21.8,100,True,medium_espresso,True,True,False,False,Hybrid,Mixed
-464,Washed,espresso,medium,beans,Italy,23.2,100,True,medium_espresso,True,False,False,False,Washed,Europe
-465,Natural,espresso,medium,beans,Brazylia,24.0,100,True,medium_espresso,False,True,False,False,Natural,Latam
-466,Washed,espresso,medium,beans,Demokratyczna Republika Konga,24.0,100,True,medium_espresso,True,False,False,False,Washed,Africa
-467,Washed,espresso,medium,beans,Demokratyczna Republika Konga,24.8,100,True,medium_espresso,True,False,False,False,Washed,Africa
-468,Washed,espresso,medium,beans,Peru,31.6,100,True,medium_espresso,True,False,False,False,Washed,Latam
-469,Washed,espresso,medium,beans,Peru,40.0,100,True,medium_espresso,True,False,False,False,Washed,Latam
-470,Natural,espresso,medium,beans,Brazylia,20.8,100,True,medium_espresso,False,True,False,False,Natural,Latam
-471,Semi-Washed Kombucha Experiment,espresso,dark,beans,"Brazylia, Tanzania",18.4,100,True,dark_espresso,True,False,False,True,Fermented,Mixed
-472,Pulped natural,espresso,medium,beans,"Etiopia, Brazylia",19.68,50,False,medium_espresso,True,True,False,False,Hybrid,Mixed
-473,Semi-Washed Kombucha Experiment,espresso,dark,beans,"Brazylia, Tanzania",23.12,100,True,dark_espresso,True,False,False,True,Fermented,Mixed
-474,Semi-Washed Kombucha Experiment,espresso,dark,beans,"Brazylia, Tanzania",23.92,100,True,dark_espresso,True,False,False,True,Fermented,Mixed
-475,Semi-Washed Kombucha Experiment,espresso,dark,beans,"Brazylia, Tanzania",17.8,100,True,dark_espresso,True,False,False,True,Fermented,Mixed
-476,Natural,espresso,medium,beans,Kenia,27.6,60,False,medium_espresso,False,True,False,False,Natural,Africa
-477,Washed,espresso,medium,beans,"Brazylia, Burundi, Peru",32.0,100,True,medium_espresso,True,False,False,False,Washed,Latam
-478,Natural,espresso,dark,beans,"Etiopia, Brazylia",12.98,80,False,dark_espresso,False,True,False,False,Natural,Mixed
-479,Semi-Washed Kombucha Experiment,espresso,dark,beans,"Brazylia, Tanzania",15.98,100,True,dark_espresso,True,False,False,True,Fermented,Mixed
-480,Natural,espresso,medium,beans,Brazylia,21.8,100,True,medium_espresso,False,True,False,False,Natural,Latam
-481,Natural,espresso,medium,beans,Brazylia,22.4,100,True,medium_espresso,False,True,False,False,Natural,Latam
-482,Natural,espresso,medium,beans,Brazylia,25.8,100,True,medium_espresso,False,True,False,False,Natural,Latam
-483,Natural,espresso,medium,beans,Brazylia,28.0,100,True,medium_espresso,False,True,False,False,Natural,Latam
-484,Natural,espresso,medium,beans,"Etiopia, Brazylia",29.6,100,True,medium_espresso,False,True,False,False,Natural,Mixed
-485,Semi-washed,espresso,dark,beans,Italy,19.98,100,True,dark_espresso,True,False,True,False,Semi-washed,Europe
-486,Semi-Washed Kombucha Experiment,espresso,dark,beans,"Brazylia, Tanzania",17.98,100,True,dark_espresso,True,False,False,True,Fermented,Mixed
-487,Washed,espresso,medium,beans,"Salwador, Nikaragua",37.6,100,True,medium_espresso,True,False,False,False,Washed,Latam
-488,Natural,espresso,dark,beans,Panama,18.4,60,False,dark_espresso,False,True,False,False,Natural,Latam
-489,Natural,espresso,medium,beans,Brazylia,25.6,100,True,medium_espresso,False,True,False,False,Natural,Latam
-490,Washed,espresso,medium,beans,Gwatemala,26.0,100,True,medium_espresso,True,False,False,False,Washed,Latam
-491,Washed,espresso,medium,beans,Gwatemala,28.0,100,True,medium_espresso,True,False,False,False,Washed,Latam
-492,Washed,espresso,medium,beans,Gwatemala,20.8,100,True,medium_espresso,True,False,False,False,Washed,Latam
-493,Semi-Washed Kombucha Experiment,espresso,dark,ground,Brazylia,15.96,100,True,dark_espresso,True,False,False,True,Fermented,Latam
-494,Rum Aged,espresso,dark,ground,"Brazylia, Indie",28.0,80,False,dark_espresso,False,False,False,False,Fermented,Mixed
-495,Semi-Washed Kombucha Experiment,espresso,dark,beans,"Brazylia, Tanzania",23.8,100,True,dark_espresso,True,False,False,True,Fermented,Mixed
-496,Rum Aged,espresso,dark,beans,"Peru, Gwatemala",13.8,75,False,dark_espresso,False,False,False,False,Fermented,Latam
-497,Rum Aged,espresso,dark,beans,"Peru, Gwatemala",11.8,75,False,dark_espresso,False,False,False,False,Fermented,Latam
-498,Rum Aged,espresso,dark,beans,"Peru, Gwatemala",14.0,75,False,dark_espresso,False,False,False,False,Fermented,Latam
-499,Natural,espresso,dark,beans,Panama,22.0,90,False,dark_espresso,False,True,False,False,Natural,Latam
-500,Washed,espresso,dark,ground,"Brazylia, Peru, Wietnam",15.2,100,True,dark_espresso,True,False,False,False,Washed,Mixed
-501,Semi-Washed Kombucha Experiment,espresso,dark,beans,"Brazylia, Tanzania",25.0,100,True,dark_espresso,True,False,False,True,Fermented,Mixed
-502,Semi-Washed Kombucha Experiment,espresso,dark,beans,"Brazylia, Tanzania",22.8,100,True,dark_espresso,True,False,False,True,Fermented,Mixed
-503,Semi-Washed Kombucha Experiment,espresso,dark,beans,"Brazylia, Tanzania",23.6,100,True,dark_espresso,True,False,False,True,Fermented,Mixed
-504,Washed,espresso,medium,beans,"Etiopia, Kolumbia",17.8,100,True,medium_espresso,True,False,False,False,Washed,Mixed
-505,Washed,espresso,medium,beans,"Etiopia, Kolumbia",20.0,100,True,medium_espresso,True,False,False,False,Washed,Mixed
-506,Pulped natural,espresso,medium,beans,Brazylia,21.8,100,True,medium_espresso,True,True,False,False,Hybrid,Latam
-507,Pulped natural,espresso,medium,beans,Brazylia,25.6,100,True,medium_espresso,True,True,False,False,Hybrid,Latam
-508,Washed,espresso,medium,beans,Kolumbia,19.0,100,True,medium_espresso,True,False,False,False,Washed,Latam
-509,Washed,espresso,medium,beans,Kolumbia,21.6,100,True,medium_espresso,True,False,False,False,Washed,Latam
-510,Natural,espresso,medium,beans,Etiopia,17.8,100,True,medium_espresso,False,True,False,False,Natural,Africa
-511,Natural,espresso,medium,beans,Etiopia,20.0,100,True,medium_espresso,False,True,False,False,Natural,Africa
-512,Washed,espresso,medium,beans,Etiopia,24.0,100,True,medium_espresso,True,False,False,False,Washed,Africa
-513,Washed,espresso,medium,beans,Etiopia,28.0,100,True,medium_espresso,True,False,False,False,Washed,Africa
-514,Natural,espresso,medium,beans,"Etiopia, Brazylia",24.0,100,True,medium_espresso,False,True,False,False,Natural,Mixed
-515,Natural,espresso,medium,beans,"Etiopia, Brazylia",28.0,100,True,medium_espresso,False,True,False,False,Natural,Mixed
-516,Natural,espresso,medium,beans,"Etiopia, Brazylia, Kolumbia",19.0,100,True,medium_espresso,False,True,False,False,Natural,Mixed
-517,Natural,espresso,medium,beans,"Etiopia, Brazylia",21.6,100,True,medium_espresso,False,True,False,False,Natural,Mixed
-518,Natural,espresso,dark,beans,"Etiopia, Brazylia, Kolumbia",19.0,100,True,dark_espresso,False,True,False,False,Natural,Mixed
-519,Natural,espresso,dark,beans,"Etiopia, Brazylia, Kolumbia",21.6,100,True,dark_espresso,False,True,False,False,Natural,Mixed
-520,Natural,espresso,medium,beans,"Etiopia, Brazylia",17.28,100,True,medium_espresso,False,True,False,False,Natural,Mixed
-521,Pulped natural,espresso,medium,beans,"Brazylia, Indie",31.8,100,True,medium_espresso,True,True,False,False,Hybrid,Mixed
-522,Semi-Carbonic Maceration,espresso,dark,beans,"Brazylia, Etiopia",29.8,100,True,dark_espresso,False,False,False,False,Fermented,Mixed
-523,Semi-Carbonic Maceration,espresso,dark,beans,"Brazylia, Etiopia",31.2,100,True,dark_espresso,False,False,False,False,Fermented,Mixed
-524,Pulped natural,espresso,medium,beans,Brazylia,25.0,100,True,medium_espresso,True,True,False,False,Hybrid,Latam
-525,Pulped natural,espresso,medium,beans,Brazylia,31.2,100,True,medium_espresso,True,True,False,False,Hybrid,Latam
-526,Natural,espresso,medium,ground,Brazylia,31.2,100,True,medium_espresso,False,True,False,False,Natural,Latam
-527,Natural,espresso,medium,beans,Brazylia,19.8,100,True,medium_espresso,False,True,False,False,Natural,Latam
-528,Natural,espresso,medium,beans,Brazylia,22.4,100,True,medium_espresso,False,True,False,False,Natural,Latam
-529,Semi-Washed Kombucha Experiment,espresso,dark,beans,"Brazylia, Indie",17.6,80,False,dark_espresso,True,False,False,True,Fermented,Mixed
-530,Semi-Washed Kombucha Experiment,espresso,dark,beans,"Brazylia, Indie",19.2,80,False,dark_espresso,True,False,False,True,Fermented,Mixed
-531,Semi-Washed Kombucha Experiment,espresso,dark,beans,"Brazylia, Indie",18.4,80,False,dark_espresso,True,False,False,True,Fermented,Mixed
-532,Washed,espresso,medium,beans,"Brazylia, Gwatemala, Etiopia",23.8,100,True,medium_espresso,True,False,False,False,Washed,Mixed
-533,Washed,espresso,medium,beans,"Brazylia, Gwatemala, Etiopia",25.6,100,True,medium_espresso,True,False,False,False,Washed,Mixed
-534,Washed,espresso,medium,beans,"Brazylia, Gwatemala, Etiopia",24.8,100,True,medium_espresso,True,False,False,False,Washed,Mixed
-535,Natural,espresso,medium,beans,Brazylia,19.0,100,True,medium_espresso,False,True,False,False,Natural,Latam
-536,Natural,espresso,medium,beans,Brazylia,20.4,100,True,medium_espresso,False,True,False,False,Natural,Latam
-537,Natural,espresso,medium,beans,Brazylia,25.8,100,True,medium_espresso,False,True,False,False,Natural,Latam
-538,Natural,espresso,medium,beans,Brazylia,28.8,100,True,medium_espresso,False,True,False,False,Natural,Latam
-539,Washed,espresso,medium,beans,Gwatemala,25.2,100,True,medium_espresso,True,False,False,False,Washed,Latam
-540,Washed and natural,espresso,medium,beans,Etiopia,31.0,100,True,medium_espresso,True,True,False,False,Hybrid,Africa
-541,Washed and natural,espresso,medium,beans,Etiopia,33.6,100,True,medium_espresso,True,True,False,False,Hybrid,Africa
-542,Washed,espresso,medium,beans,"Brazylia, Gwatemala",23.6,100,True,medium_espresso,True,False,False,False,Washed,Latam
-543,Washed,espresso,medium,beans,"Brazylia, Gwatemala",25.6,100,True,medium_espresso,True,False,False,False,Washed,Latam
-544,Washed,espresso,medium,beans,"Brazylia, Gwatemala",24.0,100,True,medium_espresso,True,False,False,False,Washed,Latam
-545,Washed,espresso,medium,beans,Gwatemala,45.24,100,True,medium_espresso,True,False,False,False,Washed,Latam
-546,Semi-Carbonic Maceration,espresso,dark,beans,Brazylia,23.2,100,True,dark_espresso,False,False,False,False,Fermented,Latam
-547,Washed,espresso,dark,beans,Kolumbia,28.0,100,True,dark_espresso,True,False,False,False,Washed,Latam
-548,Semi-Carbonic Maceration,espresso,dark,beans,Etiopia,23.92,100,True,dark_espresso,False,False,False,False,Fermented,Africa
-549,Washed,espresso,dark,beans,Gwatemala,23.92,100,True,dark_espresso,True,False,False,False,Washed,Latam
-550,Washed,espresso,dark,ground,"Brazylia, Peru, Wietnam",23.12,100,True,dark_espresso,True,False,False,False,Washed,Mixed
-551,Washed,espresso,dark,ground,"Brazylia, Peru, Wietnam",23.12,100,True,dark_espresso,True,False,False,False,Washed,Mixed
-552,Washed,espresso,dark,ground,"Brazylia, Peru, Wietnam",23.92,100,True,dark_espresso,True,False,False,False,Washed,Mixed
-553,Semi-Washed Kombucha Experiment,espresso,dark,beans,"Brazylia, Tanzania",23.92,100,True,dark_espresso,True,False,False,True,Fermented,Mixed
-554,Washed,espresso,dark,ground,"Brazylia, Peru, Wietnam",23.92,100,True,dark_espresso,True,False,False,False,Washed,Mixed
-555,Semi-Washed Kombucha Experiment,espresso,dark,beans,"Brazylia, Tanzania",23.12,100,True,dark_espresso,True,False,False,True,Fermented,Mixed
-556,Natural,espresso,dark,beans,Panama,22.32,92,False,dark_espresso,False,True,False,False,Natural,Latam
-557,Natural,espresso,dark,beans,Panama,17.8,92,False,dark_espresso,False,True,False,False,Natural,Latam
-558,Natural,espresso,dark,beans,Panama,19.18,90,False,dark_espresso,False,True,False,False,Natural,Latam
-559,Washed,espresso,dark,ground,"Brazylia, Peru, Wietnam",15.92,100,True,dark_espresso,True,False,False,False,Washed,Mixed
-560,Washed,espresso,dark,ground,"Brazylia, Peru, Wietnam",14.32,100,True,dark_espresso,True,False,False,False,Washed,Mixed
-561,Semi-Washed Kombucha Experiment,espresso,dark,beans,"Brazylia, Tanzania",12.98,100,True,dark_espresso,True,False,False,True,Fermented,Mixed
-562,Semi-Washed Kombucha Experiment,espresso,dark,beans,"Brazylia, Tanzania",14.32,100,True,dark_espresso,True,False,False,True,Fermented,Mixed
-563,Pulped natural,espresso,dark,ground,Indonezja,11.92,50,False,dark_espresso,True,True,False,False,Hybrid,Asia
-564,Natural,espresso,dark,beans,Panama,10.98,50,False,dark_espresso,False,True,False,False,Natural,Latam
-565,Natural,espresso,dark,beans,Panama,11.92,50,False,dark_espresso,False,True,False,False,Natural,Latam
-566,Rum Aged,espresso,dark,ground,"Brazylia, Indie",12.72,80,False,dark_espresso,False,False,False,False,Fermented,Mixed
-567,Natural,espresso,dark,beans,"Etiopia, Brazylia",12.98,80,False,dark_espresso,False,True,False,False,Natural,Mixed
-568,Natural,espresso,dark,beans,"Etiopia, Brazylia",13.52,80,False,dark_espresso,False,True,False,False,Natural,Mixed
-569,Natural,espresso,dark,beans,Panama,7.8,50,False,dark_espresso,False,True,False,False,Natural,Latam
-570,Semi-Washed Kombucha Experiment,espresso,dark,beans,"Brazylia, Tanzania",13.98,100,True,dark_espresso,True,False,False,True,Fermented,Mixed
-571,Natural,espresso,dark,beans,"Honduras, Kolumbia, Peru",13.98,70,False,dark_espresso,False,True,False,False,Natural,Latam
-572,Natural,espresso,dark,beans,Panama,15.4,90,False,dark_espresso,False,True,False,False,Natural,Latam
-573,Natural,espresso,medium,beans,Etiopia,31.8,100,True,medium_espresso,False,True,False,False,Natural,Africa
-574,Natural,espresso,medium,beans,Etiopia,39.2,100,True,medium_espresso,False,True,False,False,Natural,Africa
-575,Pulped natural,espresso,medium,beans,"Brazylia, Indie",13.8,100,True,medium_espresso,True,True,False,False,Hybrid,Mixed
-576,Pulped natural,espresso,medium,beans,"Etiopia, Brazylia",12.38,50,False,medium_espresso,True,True,False,False,Hybrid,Mixed
-577,Pulped natural,espresso,medium,beans,"Brazylia, Indie",12.38,100,True,medium_espresso,True,True,False,False,Hybrid,Mixed
-578,Pulped natural,espresso,medium,beans,"Etiopia, Brazylia",12.38,50,False,medium_espresso,True,True,False,False,Hybrid,Mixed
-579,Pulped natural,espresso,medium,beans,"Etiopia, Brazylia",12.38,50,False,medium_espresso,True,True,False,False,Hybrid,Mixed
-580,Pulped natural,espresso,medium,beans,"Brazylia, Indie",12.98,100,True,medium_espresso,True,True,False,False,Hybrid,Mixed
-581,Pulped natural,espresso,medium,beans,"Brazylia, Indie",12.76,100,True,medium_espresso,True,True,False,False,Hybrid,Mixed
-582,Natural,espresso,dark,beans,Panama,9.58,50,False,dark_espresso,False,True,False,False,Natural,Latam
-583,Natural,espresso,dark,beans,Panama,10.4,40,False,dark_espresso,False,True,False,False,Natural,Latam
-584,Washed,espresso,dark,ground,"Brazylia, Peru, Wietnam",11.12,30,False,dark_espresso,True,False,False,False,Washed,Mixed
-585,Natural,espresso,dark,beans,Panama,10.98,60,False,dark_espresso,False,True,False,False,Natural,Latam
-586,Semi-Washed Kombucha Experiment,espresso,dark,beans,"Brazylia, Tanzania",10.98,100,True,dark_espresso,True,False,False,True,Fermented,Mixed
-587,Washed,espresso,dark,ground,"Brazylia, Peru, Wietnam",15.92,100,True,dark_espresso,True,False,False,False,Washed,Mixed
-588,Washed,espresso,dark,ground,"Brazylia, Peru, Wietnam",15.92,100,True,dark_espresso,True,False,False,False,Washed,Mixed
-589,Semi-Washed Kombucha Experiment,espresso,dark,beans,"Brazylia, Tanzania",13.58,100,True,dark_espresso,True,False,False,True,Fermented,Mixed
-590,Pulped natural,espresso,dark,ground,"Kenia, Indie",11.92,40,False,dark_espresso,True,True,False,False,Hybrid,Mixed
-591,Natural,espresso,dark,beans,Panama,11.92,40,False,dark_espresso,False,True,False,False,Natural,Latam
-592,Natural,espresso,dark,beans,Panama,11.96,40,False,dark_espresso,False,True,False,False,Natural,Latam
-593,Natural,espresso,dark,beans,Panama,9.98,40,False,dark_espresso,False,True,False,False,Natural,Latam
-594,Natural,espresso,dark,beans,Panama,12.98,90,False,dark_espresso,False,True,False,False,Natural,Latam
-595,Semi-Washed Kombucha Experiment,espresso,dark,beans,"Brazylia, Indie",19.98,78,False,dark_espresso,True,False,False,True,Fermented,Mixed
-596,Natural,espresso,dark,beans,Panama,18.4,85,False,dark_espresso,False,True,False,False,Natural,Latam
-597,Natural,espresso,dark,beans,Panama,23.92,85,False,dark_espresso,False,True,False,False,Natural,Latam
-598,Washed,espresso,dark,beans,Peru,23.92,100,True,dark_espresso,True,False,False,False,Washed,Latam
-599,Natural,espresso,dark,beans,Salwador,35.8,100,True,dark_espresso,False,True,False,False,Natural,Latam
-600,Natural,espresso,dark,beans,Salwador,41.6,100,True,dark_espresso,False,True,False,False,Natural,Latam
-601,Washed,espresso,dark,beans,Etiopia,28.72,100,True,dark_espresso,True,False,False,False,Washed,Africa
-602,Washed,espresso,dark,ground,Etiopia,28.72,100,True,dark_espresso,True,False,False,False,Washed,Africa
-603,Washed,espresso,dark,beans,Etiopia,26.36,100,True,dark_espresso,True,False,False,False,Washed,Africa
-604,Washed,espresso,dark,beans,"Etiopia, Gwatemala",23.98,100,True,dark_espresso,True,False,False,False,Washed,Mixed
-605,Washed,espresso,dark,beans,"Etiopia, Gwatemala",26.36,100,True,dark_espresso,True,False,False,False,Washed,Mixed
-606,Washed,espresso,dark,beans,"Salwador, Indie",19.98,75,False,dark_espresso,True,False,False,False,Washed,Mixed
-607,Semi-Carbonic Maceration,espresso,dark,beans,Brazylia,20.2,100,True,dark_espresso,False,False,False,False,Fermented,Latam
-608,Natural,espresso,dark,beans,Salwador,37.36,100,True,dark_espresso,False,True,False,False,Natural,Latam
-609,Washed,espresso,dark,ground,"Brazylia, Peru, Wietnam",23.92,100,True,dark_espresso,True,False,False,False,Washed,Mixed
-610,Semi-Washed Kombucha Experiment,espresso,dark,beans,"Brazylia, Tanzania",23.92,100,True,dark_espresso,True,False,False,True,Fermented,Mixed
-611,Rum Aged,espresso,dark,ground,"Brazylia, Indie",23.92,80,False,dark_espresso,False,False,False,False,Fermented,Mixed
-612,Natural,espresso,dark,beans,"Etiopia, Brazylia",23.92,80,False,dark_espresso,False,True,False,False,Natural,Mixed
-613,Natural,espresso,dark,beans,Panama,13.98,60,False,dark_espresso,False,True,False,False,Natural,Latam
-614,Natural,espresso,dark,beans,Panama,21.8,90,False,dark_espresso,False,True,False,False,Natural,Latam
-615,Natural,espresso,dark,beans,Panama,11.0,60,False,dark_espresso,False,True,False,False,Natural,Latam
-616,Natural,espresso,dark,beans,Panama,16.4,55,False,dark_espresso,False,True,False,False,Natural,Latam
-617,Washed,espresso,dark,ground,"Brazylia, Peru, Wietnam",24.8,100,True,dark_espresso,True,False,False,False,Washed,Mixed
-618,Natural,espresso,dark,beans,Panama,19.8,60,False,dark_espresso,False,True,False,False,Natural,Latam
-619,Natural,espresso,medium,beans,Kenia,13.98,70,False,medium_espresso,False,True,False,False,Natural,Africa
-620,Natural,espresso,medium,beans,Kenia,11.58,80,False,medium_espresso,False,True,False,False,Natural,Africa
-621,Natural,espresso,medium,beans,Kenia,12.8,80,False,medium_espresso,False,True,False,False,Natural,Africa
-622,Rum Aged,espresso,medium,ground,Indonezja,15.12,70,False,medium_espresso,False,False,False,False,Fermented,Asia
-623,Pulped natural,espresso,medium,ground,"Etiopia, Kolumbia",11.36,60,False,medium_espresso,True,True,False,False,Hybrid,Mixed
-624,Semi-Carbonic Maceration,espresso,medium,ground,"Brazylia, Kolumbia",23.92,100,True,medium_espresso,False,False,False,False,Fermented,Latam
-625,Washed,espresso,dark,ground,"Brazylia, Peru, Wietnam",19.92,100,True,dark_espresso,True,False,False,False,Washed,Mixed
-626,Washed,espresso,medium,beans,"Brazylia, Peru",27.2,100,True,medium_espresso,True,False,False,False,Washed,Latam
-627,Semi-Washed Kombucha Experiment,espresso,dark,beans,"Brazylia, Tanzania",39.2,100,True,dark_espresso,True,False,False,True,Fermented,Mixed
-628,Natural,espresso,medium,beans,Rwanda,22.9,100,True,medium_espresso,False,True,False,False,Natural,Africa
-630,Natural,espresso,dark,beans,Panama,59.88,40,False,dark_espresso,False,True,False,False,Natural,Latam
-632,Natural,espresso,dark,beans,Panama,59.88,40,False,dark_espresso,False,True,False,False,Natural,Latam
-633,Natural,espresso,dark,beans,Panama,87.6,90,False,dark_espresso,False,True,False,False,Natural,Latam
-634,Natural,espresso,medium,beans,"Brazylia, Kostaryka, Nikaragua",27.0,100,True,medium_espresso,False,True,False,False,Natural,Latam
-635,Pulped natural,espresso,medium,beans,"Brazylia, Indie",26.0,100,True,medium_espresso,True,True,False,False,Hybrid,Mixed
-636,Pulped natural,espresso,medium,beans,"Brazylia, Indie",23.8,100,True,medium_espresso,True,True,False,False,Hybrid,Mixed
-637,Pulped natural,espresso,medium,beans,"Brazylia, Indie",22.8,100,True,medium_espresso,True,True,False,False,Hybrid,Mixed
-638,Washed,espresso,medium,beans,"Kenia, Indie",29.8,100,True,medium_espresso,True,False,False,False,Washed,Mixed
-639,Natural,espresso,medium,beans,Brazylia,22.4,100,True,medium_espresso,False,True,False,False,Natural,Latam
-640,Natural,espresso,medium,beans,Brazylia,19.8,100,True,medium_espresso,False,True,False,False,Natural,Latam
-641,Washed,espresso,dark,ground,"Brazylia, Peru, Wietnam",16.8,30,False,dark_espresso,True,False,False,False,Washed,Mixed
-642,Natural,espresso,dark,beans,Panama,18.0,50,False,dark_espresso,False,True,False,False,Natural,Latam
-643,Washed,espresso,dark,ground,"Brazylia, Peru, Wietnam",15.2,100,True,dark_espresso,True,False,False,False,Washed,Mixed
-644,Semi-Carbonic Maceration,espresso,medium,ground,"Brazylia, Kolumbia",13.6,100,True,medium_espresso,False,False,False,False,Fermented,Latam
-645,Washed,espresso,dark,ground,"Brazylia, Peru, Wietnam",13.6,30,False,dark_espresso,True,False,False,False,Washed,Mixed
-646,Pulped natural,espresso,dark,ground,Indonezja,16.8,50,False,dark_espresso,True,True,False,False,Hybrid,Asia
-647,Natural,espresso,dark,beans,Panama,18.0,50,False,dark_espresso,False,True,False,False,Natural,Latam
-648,Natural,espresso,dark,beans,Panama,13.18,30,False,dark_espresso,False,True,False,False,Natural,Latam
-649,Semi-Washed Kombucha Experiment,espresso,dark,beans,"Brazylia, Tanzania",17.98,100,True,dark_espresso,True,False,False,True,Fermented,Mixed
-650,Natural,espresso,dark,beans,Panama,15.98,60,False,dark_espresso,False,True,False,False,Natural,Latam
-651,Rum Aged,espresso,dark,beans,"Peru, Gwatemala",17.18,75,False,dark_espresso,False,False,False,False,Fermented,Latam
-652,Natural,espresso,dark,beans,Panama,11.98,10,False,dark_espresso,False,True,False,False,Natural,Latam
-653,Natural,espresso,medium,beans,Brazylia,32.0,100,True,medium_espresso,False,True,False,False,Natural,Latam
-654,Pulped natural,espresso,medium,beans,"Brazylia, Indie",27.2,100,True,medium_espresso,True,True,False,False,Hybrid,Mixed
-655,Washed,espresso,medium,beans,Chiny,28.0,100,True,medium_espresso,True,False,False,False,Washed,Asia
-656,Washed,espresso,medium,beans,Kolumbia,25.6,100,True,medium_espresso,True,False,False,False,Washed,Latam
-657,Natural,espresso,medium,beans,Brazylia,20.4,100,True,medium_espresso,False,True,False,False,Natural,Latam
-658,Natural,espresso,medium,beans,Brazylia,18.4,100,True,medium_espresso,False,True,False,False,Natural,Latam
-659,Natural,espresso,medium,beans,Brazylia,21.6,100,True,medium_espresso,False,True,False,False,Natural,Latam
-660,Natural,espresso,medium,beans,Brazylia,21.8,100,True,medium_espresso,False,True,False,False,Natural,Latam
-661,Natural,espresso,medium,beans,Brazylia,20.0,100,True,medium_espresso,False,True,False,False,Natural,Latam
-662,Natural,espresso,medium,beans,Brazylia,18.6,100,True,medium_espresso,False,True,False,False,Natural,Latam
-663,Pulped natural,espresso,medium,beans,Brazylia,21.6,100,True,medium_espresso,True,True,False,False,Hybrid,Latam
-664,Pulped natural,espresso,medium,beans,Brazylia,20.4,100,True,medium_espresso,True,True,False,False,Hybrid,Latam
-665,Honey,espresso,medium,beans,Kostaryka,36.0,100,True,medium_espresso,True,True,True,False,Honey,Latam
-666,Rum Aged,espresso,dark,beans,"Peru, Gwatemala",25.0,75,False,dark_espresso,False,False,False,False,Fermented,Latam
-667,Washed,espresso,medium,beans,"Brazylia, Gwatemala",25.6,100,True,medium_espresso,True,False,False,False,Washed,Latam
-668,Washed,espresso,medium,beans,"Brazylia, Honduras",21.8,100,True,medium_espresso,True,False,False,False,Washed,Latam
-669,Washed,espresso,medium,beans,"Brazylia, Honduras",24.0,100,True,medium_espresso,True,False,False,False,Washed,Latam
-670,Washed,espresso,dark,beans,Gwatemala,27.2,100,True,dark_espresso,True,False,False,False,Washed,Latam
-671,Natural,espresso,medium,beans,Uganda,28.0,100,True,medium_espresso,False,True,False,False,Natural,Africa
-672,Semi-Washed Kombucha Experiment,espresso,medium,beans,"Brazylia, Uganda",22.0,100,True,medium_espresso,True,False,False,True,Fermented,Mixed
-673,Natural,espresso,medium,beans,"Brazylia, Uganda",24.0,100,True,medium_espresso,False,True,False,False,Natural,Mixed
-674,Natural,espresso,medium,beans,Brazylia,26.0,100,True,medium_espresso,False,True,False,False,Natural,Latam
-675,Natural,espresso,medium,beans,Brazylia,26.4,100,True,medium_espresso,False,True,False,False,Natural,Latam
-676,Washed and natural,espresso,medium,beans,"Brazylia, Tanzania",32.0,100,True,medium_espresso,True,True,False,False,Hybrid,Mixed
-677,Washed,espresso,medium,beans,"Peru, Gwatemala",20.8,100,True,medium_espresso,True,False,False,False,Washed,Latam
-678,Washed,espresso,medium,beans,"Peru, Gwatemala",28.8,100,True,medium_espresso,True,False,False,False,Washed,Latam
-679,Washed,espresso,medium,beans,Gwatemala,25.2,100,True,medium_espresso,True,False,False,False,Washed,Latam
-680,Washed,espresso,medium,beans,Gwatemala,28.8,100,True,medium_espresso,True,False,False,False,Washed,Latam
-681,Natural,espresso,medium,beans,Brazylia,20.8,100,True,medium_espresso,False,True,False,False,Natural,Latam
-682,Natural,espresso,dark,beans,Brazylia,19.0,100,True,dark_espresso,False,True,False,False,Natural,Latam
-683,Natural,espresso,dark,beans,Brazylia,20.8,100,True,dark_espresso,False,True,False,False,Natural,Latam
-684,Washed,espresso,medium,beans,Gwatemala,24.0,100,True,medium_espresso,True,False,False,False,Washed,Latam
-685,Washed,espresso,medium,beans,Gwatemala,26.4,100,True,medium_espresso,True,False,False,False,Washed,Latam
-686,Washed,espresso,medium,ground,Gwatemala,26.4,100,True,medium_espresso,True,False,False,False,Washed,Latam
-687,Semi-washed,espresso,dark,beans,"Brazylia, Gwatemala",20.0,100,True,dark_espresso,True,False,True,False,Semi-washed,Latam
-688,Semi-washed,espresso,dark,beans,"Brazylia, Gwatemala",22.4,100,True,dark_espresso,True,False,True,False,Semi-washed,Latam
-689,Semi-Washed Kombucha Experiment,espresso,dark,beans,"Brazylia, Tanzania",19.78,100,True,dark_espresso,True,False,False,True,Fermented,Mixed
-690,Natural,espresso,dark,beans,Panama,11.8,92,False,dark_espresso,False,True,False,False,Natural,Latam
-691,Natural,espresso,dark,beans,"Etiopia, Brazylia",9.98,80,False,dark_espresso,False,True,False,False,Natural,Mixed
-692,Washed,espresso,medium,beans,Gwatemala,40.0,100,True,medium_espresso,True,False,False,False,Washed,Latam
-693,Natural,espresso,medium,beans,Burundi,33.6,100,True,medium_espresso,False,True,False,False,Natural,Africa
-694,Natural,espresso,dark,beans,Panama,15.98,65,False,dark_espresso,False,True,False,False,Natural,Latam
-695,Natural,espresso,dark,beans,Panama,12.9,35,False,dark_espresso,False,True,False,False,Natural,Latam
-696,Natural,espresso,medium,beans,Brazylia,23.8,100,True,medium_espresso,False,True,False,False,Natural,Latam
-697,Natural,espresso,medium,beans,Brazylia,24.0,100,True,medium_espresso,False,True,False,False,Natural,Latam
-698,Natural,espresso,medium,beans,Brazylia,27.2,100,True,medium_espresso,False,True,False,False,Natural,Latam
-699,Washed,espresso,medium,beans,Brazylia,23.8,100,True,medium_espresso,True,False,False,False,Washed,Latam
-700,Washed,espresso,medium,beans,Brazylia,27.2,100,True,medium_espresso,True,False,False,False,Washed,Latam
-701,Washed,espresso,medium,beans,Peru,39.2,100,True,medium_espresso,True,False,False,False,Washed,Latam
-702,Washed,espresso,dark,ground,"Brazylia, Peru, Wietnam",14.32,100,True,dark_espresso,True,False,False,False,Washed,Mixed
-703,Semi-Washed Kombucha Experiment,espresso,dark,beans,"Brazylia, Tanzania",13.56,100,True,dark_espresso,True,False,False,True,Fermented,Mixed
-704,Washed,espresso,dark,ground,"Brazylia, Peru, Wietnam",12.72,100,True,dark_espresso,True,False,False,False,Washed,Mixed
-705,Semi-Washed Kombucha Experiment,espresso,dark,beans,"Brazylia, Tanzania",16.0,100,True,dark_espresso,True,False,False,True,Fermented,Mixed
-706,Semi-Washed Kombucha Experiment,espresso,dark,beans,"Brazylia, Tanzania",13.6,100,True,dark_espresso,True,False,False,True,Fermented,Mixed
-707,Semi-Carbonic Maceration,espresso,dark,beans,Brazylia,15.0,100,True,dark_espresso,False,False,False,False,Fermented,Latam
-708,Semi-Washed Kombucha Experiment,espresso,dark,beans,Brazylia,13.98,70,False,dark_espresso,True,False,False,True,Fermented,Latam
-709,Washed,espresso,dark,beans,Kolumbia,15.0,100,True,dark_espresso,True,False,False,False,Washed,Latam
-710,Natural,espresso,dark,beans,Nikaragua,14.6,100,True,dark_espresso,False,True,False,False,Natural,Latam
-711,Natural,espresso,dark,beans,Salwador,40.4,100,True,dark_espresso,False,True,False,False,Natural,Latam
-712,Natural,espresso,dark,beans,Etiopia,38.0,100,True,dark_espresso,False,True,False,False,Natural,Africa
-713,Semi-Carbonic Maceration,espresso,dark,beans,Etiopia,31.8,100,True,dark_espresso,False,False,False,False,Fermented,Africa
-714,Semi-Carbonic Maceration,espresso,dark,beans,Etiopia,39.2,100,True,dark_espresso,False,False,False,False,Fermented,Africa
-715,Washed,espresso,dark,beans,Kolumbia,37.6,100,True,dark_espresso,True,False,False,False,Washed,Latam
-716,Washed,espresso,dark,beans,Kolumbia,36.0,100,True,dark_espresso,True,False,False,False,Washed,Latam
-717,Washed,espresso,dark,beans,Peru,28.8,100,True,dark_espresso,True,False,False,False,Washed,Latam
-718,Washed,espresso,dark,ground,"Brazylia, Peru, Wietnam",19.92,100,True,dark_espresso,True,False,False,False,Washed,Mixed
-719,Pulped natural,espresso,medium,beans,"Brazylia, Indie",21.8,100,True,medium_espresso,True,True,False,False,Hybrid,Mixed
-720,Natural,espresso,medium,beans,Brazylia,24.0,100,True,medium_espresso,False,True,False,False,Natural,Latam
-721,Washed,espresso,medium,beans,Kolumbia,24.0,100,True,medium_espresso,True,False,False,False,Washed,Latam
-722,Semi-Washed Kombucha Experiment,espresso,dark,beans,"Brazylia, Tanzania",21.0,100,True,dark_espresso,True,False,False,True,Fermented,Mixed
-723,Semi-Washed Kombucha Experiment,espresso,dark,beans,"Brazylia, Tanzania",27.0,100,True,dark_espresso,True,False,False,True,Fermented,Mixed
-724,Natural,espresso,medium,beans,Kenia,14.98,80,False,medium_espresso,False,True,False,False,Natural,Africa
-725,Washed,espresso,medium,beans,"Etiopia, Kolumbia",38.4,100,True,medium_espresso,True,False,False,False,Washed,Mixed
-726,Natural,espresso,medium,beans,Etiopia,56.0,100,True,medium_espresso,False,True,False,False,Natural,Africa
-727,Natural,espresso,medium,beans,Etiopia,47.6,100,True,medium_espresso,False,True,False,False,Natural,Africa
-728,Washed,espresso,medium,beans,"Brazylia, Kolumbia",30.0,100,True,medium_espresso,True,False,False,False,Washed,Latam
-729,Washed,espresso,medium,beans,Kolumbia,35.2,100,True,medium_espresso,True,False,False,False,Washed,Latam
-730,Washed,espresso,medium,beans,"Brazylia, Peru, Wietnam",24.8,100,True,medium_espresso,True,False,False,False,Washed,Mixed
-731,Pulped natural,espresso,dark,beans,Brazylia,37.6,100,True,dark_espresso,True,True,False,False,Hybrid,Latam
-732,Washed,espresso,medium,beans,Gwatemala,25.2,100,True,medium_espresso,True,False,False,False,Washed,Latam
-733,Washed,espresso,medium,beans,Kolumbia,51.2,100,True,medium_espresso,True,False,False,False,Washed,Latam
-734,Natural,espresso,medium,beans,Brazylia,23.2,100,True,medium_espresso,False,True,False,False,Natural,Latam
-735,Washed,espresso,medium,beans,Kolumbia,23.2,100,True,medium_espresso,True,False,False,False,Washed,Latam
-737,Natural,espresso,dark,beans,"Honduras, Kolumbia, Peru",11.98,70,False,dark_espresso,False,True,False,False,Natural,Latam
-738,Natural,espresso,dark,beans,Panama,14.4,60,False,dark_espresso,False,True,False,False,Natural,Latam
-739,Semi-Washed Kombucha Experiment,espresso,dark,ground,Etiopia,13.6,30,False,dark_espresso,True,False,False,True,Fermented,Africa
-740,Rum Aged,espresso,dark,ground,Laos,23.2,70,False,dark_espresso,False,False,False,False,Fermented,Asia
-741,Natural,espresso,dark,beans,"Honduras, Kolumbia, Peru",19.0,70,False,dark_espresso,False,True,False,False,Natural,Latam
-742,Washed,espresso,dark,ground,"Brazylia, Peru, Wietnam",25.6,100,True,dark_espresso,True,False,False,False,Washed,Mixed
-743,Semi-Washed Kombucha Experiment,espresso,dark,beans,"Brazylia, Tanzania",21.8,100,True,dark_espresso,True,False,False,True,Fermented,Mixed
-744,Natural,espresso,medium,beans,Kenia,15.98,90,False,medium_espresso,False,True,False,False,Natural,Africa
-745,Washed,espresso,medium,beans,"Peru, Etiopia",31.6,100,True,medium_espresso,True,False,False,False,Washed,Mixed
-746,Natural,espresso,medium,beans,Kenia,29.6,85,False,medium_espresso,False,True,False,False,Natural,Africa
-747,Washed,espresso,dark,beans,Brazylia,23.92,100,True,dark_espresso,True,False,False,False,Washed,Latam
-748,Washed,espresso,medium,beans,Gwatemala,44.0,100,True,medium_espresso,True,False,False,False,Washed,Latam
-749,Pulped natural,espresso,medium,beans,"Brazylia, Indie",19.5,100,True,medium_espresso,True,True,False,False,Hybrid,Mixed
-750,Washed,espresso,medium,beans,Peru,30.0,100,True,medium_espresso,True,False,False,False,Washed,Latam
-751,Natural,espresso,medium,beans,Kenia,15.96,60,False,medium_espresso,False,True,False,False,Natural,Africa
-752,Natural,espresso,medium,beans,Kenia,19.96,80,False,medium_espresso,False,True,False,False,Natural,Africa
-753,Natural,espresso,medium,beans,"Etiopia, Brazylia",29.8,100,True,medium_espresso,False,True,False,False,Natural,Mixed
-754,Semi-Carbonic Maceration,espresso,medium,ground,"Brazylia, Kolumbia",15.92,100,True,medium_espresso,False,False,False,False,Fermented,Latam
-755,Pulped natural,espresso,medium,beans,"Brazylia, Indie",37.6,100,True,medium_espresso,True,True,False,False,Hybrid,Mixed
-756,Washed,espresso,medium,beans,"Brazylia, Gwatemala, Kostaryka",37.6,100,True,medium_espresso,True,False,False,False,Washed,Latam
-757,Semi-Washed Kombucha Experiment,espresso,dark,beans,"Brazylia, Tanzania",25.2,100,True,dark_espresso,True,False,False,True,Fermented,Mixed
-758,Semi-Washed Kombucha Experiment,espresso,dark,beans,"Brazylia, Tanzania",25.6,100,True,dark_espresso,True,False,False,True,Fermented,Mixed
-759,Washed,espresso,medium,beans,"Etiopia, Kolumbia",16.0,100,True,medium_espresso,True,False,False,False,Washed,Mixed
-760,Pulped natural,espresso,medium,beans,Brazylia,19.62,100,True,medium_espresso,True,True,False,False,Hybrid,Latam
-761,Pulped natural,espresso,medium,beans,Brazylia,19.2,100,True,medium_espresso,True,True,False,False,Hybrid,Latam
-762,Washed,espresso,medium,beans,Kolumbia,14.25,100,True,medium_espresso,True,False,False,False,Washed,Latam
-763,Natural,espresso,medium,beans,Etiopia,12.46,100,True,medium_espresso,False,True,False,False,Natural,Africa
-764,Natural,espresso,medium,beans,Etiopia,17.0,100,True,medium_espresso,False,True,False,False,Natural,Africa
-765,Washed,espresso,medium,beans,Etiopia,19.6,100,True,medium_espresso,True,False,False,False,Washed,Africa
-766,Natural,espresso,medium,beans,"Etiopia, Brazylia",16.8,100,True,medium_espresso,False,True,False,False,Natural,Mixed
-767,Natural,espresso,medium,beans,"Etiopia, Brazylia",21.0,100,True,medium_espresso,False,True,False,False,Natural,Mixed
-768,Natural,espresso,medium,beans,"Etiopia, Brazylia, Kolumbia",15.2,100,True,medium_espresso,False,True,False,False,Natural,Mixed
-769,Natural,espresso,medium,beans,Brazylia,19.8,100,True,medium_espresso,False,True,False,False,Natural,Latam
-770,Natural,espresso,medium,beans,Brazylia,23.2,100,True,medium_espresso,False,True,False,False,Natural,Latam
-771,Washed,espresso,medium,beans,"Brazylia, Gwatemala, Etiopia",16.66,100,True,medium_espresso,True,False,False,False,Washed,Mixed
-772,Natural,espresso,medium,beans,Brazylia,20.64,100,True,medium_espresso,False,True,False,False,Natural,Latam
-773,Natural,espresso,dark,beans,Panama,27.6,84,False,dark_espresso,False,True,False,False,Natural,Latam
-774,Pulped natural,espresso,dark,ground,"Kenia, Indie",17.6,95,False,dark_espresso,True,True,False,False,Hybrid,Mixed
-775,Pulped natural,espresso,dark,ground,"Kenia, Indie",15.2,95,False,dark_espresso,True,True,False,False,Hybrid,Mixed
-776,Rum Aged,espresso,dark,ground,Laos,17.6,70,False,dark_espresso,False,False,False,False,Fermented,Asia
-777,Rum Aged,espresso,dark,ground,"Brazylia, Indie",15.12,80,False,dark_espresso,False,False,False,False,Fermented,Mixed
-778,Pulped natural,espresso,medium,beans,Brazylia,15.0,100,True,medium_espresso,True,True,False,False,Hybrid,Latam
-779,Pulped natural,espresso,medium,beans,"Brazylia, Indie",14.32,100,True,medium_espresso,True,True,False,False,Hybrid,Mixed
-780,Natural,espresso,dark,beans,Panama,11.0,40,False,dark_espresso,False,True,False,False,Natural,Latam
-781,Natural,espresso,medium,beans,Kenia,11.0,30,False,medium_espresso,False,True,False,False,Natural,Africa
-782,Pulped natural,espresso,medium,beans,"Etiopia, Brazylia",15.0,50,False,medium_espresso,True,True,False,False,Hybrid,Mixed
-783,Natural,espresso,dark,beans,"Honduras, Kolumbia, Peru",12.98,70,False,dark_espresso,False,True,False,False,Natural,Latam
-784,Semi-Washed Kombucha Experiment,espresso,dark,ground,"Etiopia, Gwatemala",9.8,0,False,dark_espresso,True,False,False,True,Fermented,Mixed
-785,Semi-washed,espresso,dark,beans,"Honduras, Kolumbia, Peru",9.8,100,True,dark_espresso,True,False,True,False,Semi-washed,Latam
-786,Washed,espresso,dark,beans,Brazylia,23.92,100,True,dark_espresso,True,False,False,False,Washed,Latam
-787,Natural,espresso,dark,beans,Etiopia,39.2,100,True,dark_espresso,False,True,False,False,Natural,Africa
-788,Washed,espresso,dark,beans,"Etiopia, Gwatemala",23.92,100,True,dark_espresso,True,False,False,False,Washed,Mixed
-789,Washed,espresso,dark,beans,"Salwador, Indie",23.92,75,False,dark_espresso,True,False,False,False,Washed,Mixed
-790,Natural,espresso,dark,beans,"Etiopia, Brazylia",17.98,80,False,dark_espresso,False,True,False,False,Natural,Mixed
-791,Natural,espresso,dark,beans,Panama,13.98,40,False,dark_espresso,False,True,False,False,Natural,Latam
-792,Semi-Washed Kombucha Experiment,espresso,dark,beans,"Brazylia, Tanzania",21.0,100,True,dark_espresso,True,False,False,True,Fermented,Mixed
-793,Semi-Washed Kombucha Experiment,espresso,dark,beans,"Brazylia, Tanzania",24.32,100,True,dark_espresso,True,False,False,True,Fermented,Mixed
-794,Natural,espresso,medium,beans,Kenia,21.8,80,False,medium_espresso,False,True,False,False,Natural,Africa
-795,Pulped natural,espresso,dark,ground,"Kenia, Indie",14.32,90,False,dark_espresso,True,True,False,False,Hybrid,Mixed
-796,Semi-Washed Kombucha Experiment,espresso,dark,beans,"Brazylia, Tanzania",33.8,100,True,dark_espresso,True,False,False,True,Fermented,Mixed
-797,Semi-Washed Kombucha Experiment,espresso,dark,beans,"Brazylia, Tanzania",23.66,100,True,dark_espresso,True,False,False,True,Fermented,Mixed
-798,Washed,espresso,medium,beans,"Brazylia, Honduras",20.8,100,True,medium_espresso,True,False,False,False,Washed,Latam
-799,Natural,espresso,medium,beans,Brazylia,20.8,100,True,medium_espresso,False,True,False,False,Natural,Latam
-801,Natural,espresso,dark,beans,Panama,74.29,60,False,dark_espresso,False,True,False,False,Natural,Latam
-802,Experimental,espresso,medium,beans,Uganda,29.6,100,True,medium_espresso,False,False,False,False,Experimental,Africa
-803,Washed,espresso,dark,ground,"Brazylia, Peru, Wietnam",16.8,30,False,dark_espresso,True,False,False,False,Washed,Mixed
-804,Washed,espresso,dark,ground,"Brazylia, Peru, Wietnam",16.8,30,False,dark_espresso,True,False,False,False,Washed,Mixed
-805,Natural,espresso,medium,beans,Brazylia,20.0,100,True,medium_espresso,False,True,False,False,Natural,Latam
-806,Rum Aged,espresso,dark,ground,"Brazylia, Indie",24.0,80,False,dark_espresso,False,False,False,False,Fermented,Mixed
-807,Natural,espresso,medium,beans,Brazylia,32.8,100,True,medium_espresso,False,True,False,False,Natural,Latam
-808,Natural,espresso,medium,beans,Brazylia,24.6,100,True,medium_espresso,False,True,False,False,Natural,Latam
-809,Semi-Washed Kombucha Experiment,espresso,dark,beans,"Brazylia, Tanzania",28.0,100,True,dark_espresso,True,False,False,True,Fermented,Mixed
-810,Washed,espresso,medium,beans,"Brazylia, Gwatemala",22.2,100,True,medium_espresso,True,False,False,False,Washed,Latam
-811,Washed,espresso,medium,beans,"Peru, Gwatemala",20.16,100,True,medium_espresso,True,False,False,False,Washed,Latam
-812,Natural,espresso,medium,beans,Burundi,35.2,100,True,medium_espresso,False,True,False,False,Natural,Africa
-813,Washed,espresso,medium,beans,"Brazylia, Kostaryka, Nikaragua",42.4,100,True,medium_espresso,True,False,False,False,Washed,Latam
-814,Natural,espresso,dark,beans,"Etiopia, Brazylia",14.76,80,False,dark_espresso,False,True,False,False,Natural,Mixed
-815,Natural,espresso,dark,beans,Panama,11.58,60,False,dark_espresso,False,True,False,False,Natural,Latam
-816,Washed,espresso,dark,beans,"Honduras, Kolumbia, Peru",13.98,100,True,dark_espresso,True,False,False,False,Washed,Latam
-817,Semi-Washed Kombucha Experiment,espresso,dark,beans,"Brazylia, Tanzania",28.0,100,True,dark_espresso,True,False,False,True,Fermented,Mixed
-818,Washed,espresso,dark,ground,Brazylia,28.8,100,True,dark_espresso,True,False,False,False,Washed,Latam
-819,Semi-Washed Kombucha Experiment,espresso,dark,beans,"Brazylia, Indie",24.8,78,False,dark_espresso,True,False,False,True,Fermented,Mixed
-820,Pulped natural,espresso,dark,ground,Honduras,27.2,85,False,dark_espresso,True,True,False,False,Hybrid,Latam
-821,Washed,espresso,dark,ground,Brazylia,28.8,100,True,dark_espresso,True,False,False,False,Washed,Latam
-822,Washed,espresso,dark,beans,Brazylia,26.8,100,True,dark_espresso,True,False,False,False,Washed,Latam
-823,Semi-Washed Kombucha Experiment,espresso,dark,beans,"Brazylia, Indie",23.8,100,True,dark_espresso,True,False,False,True,Fermented,Mixed
-824,Semi-Washed Kombucha Experiment,espresso,dark,beans,"Brazylia, Indie",28.0,100,True,dark_espresso,True,False,False,True,Fermented,Mixed
-825,Washed,espresso,dark,ground,Peru,30.4,100,True,dark_espresso,True,False,False,False,Washed,Latam
-826,Washed,espresso,dark,beans,"Salwador, Indie",24.8,75,False,dark_espresso,True,False,False,False,Washed,Mixed
-827,Semi-Carbonic Maceration,espresso,dark,beans,Brazylia,28.0,100,True,dark_espresso,False,False,False,False,Fermented,Latam
-828,Washed,espresso,medium,beans,Burundi,46.4,100,True,medium_espresso,True,False,False,False,Washed,Africa
-829,Washed,espresso,medium,beans,Kolumbia,45.6,100,True,medium_espresso,True,False,False,False,Washed,Latam
-830,Anaerobic,espresso,medium,beans,Kolumbia,49.6,100,True,medium_espresso,False,False,False,True,Fermented,Latam
-831,Natural,espresso,medium,beans,Brazylia,18.0,100,True,medium_espresso,False,True,False,False,Natural,Latam
-832,Pulped natural,espresso,dark,ground,Indonezja,15.2,55,False,dark_espresso,True,True,False,False,Hybrid,Asia
-833,Honey,espresso,medium,beans,Laos,34.4,0,False,medium_espresso,True,True,True,False,Honey,Asia
-834,Washed,espresso,medium,beans,"Brazylia, Kolumbia",32.0,100,True,medium_espresso,True,False,False,False,Washed,Latam
-835,Washed,espresso,medium,beans,Kolumbia,36.0,100,True,medium_espresso,True,False,False,False,Washed,Latam
-836,Washed,espresso,medium,beans,Kolumbia,25.2,100,True,medium_espresso,True,False,False,False,Washed,Latam
-837,Natural,espresso,medium,beans,Etiopia,39.2,100,True,medium_espresso,False,True,False,False,Natural,Africa
-838,Natural,espresso,medium,beans,Brazylia,29.6,100,True,medium_espresso,False,True,False,False,Natural,Latam
-839,Washed,espresso,medium,beans,Papua Nowa Gwinea,41.6,100,True,medium_espresso,True,False,False,False,Washed,Africa
-840,Washed,espresso,medium,beans,Gwatemala,33.6,100,True,medium_espresso,True,False,False,False,Washed,Latam
-841,Washed,espresso,medium,beans,"Brazylia, Honduras",18.0,100,True,medium_espresso,True,False,False,False,Washed,Latam
-842,Natural,espresso,medium,beans,Brazylia,18.0,100,True,medium_espresso,False,True,False,False,Natural,Latam
-843,Washed,espresso,medium,beans,Kolumbia,46.4,100,True,medium_espresso,True,False,False,False,Washed,Latam
-844,Washed,espresso,medium,beans,Meksyk,50.4,100,True,medium_espresso,True,False,False,False,Washed,Latam
-845,Natural,espresso,dark,beans,Panama,22.4,90,False,dark_espresso,False,True,False,False,Natural,Latam
-846,Pulped natural,espresso,medium,beans,"Brazylia, Indie",23.92,100,True,medium_espresso,True,True,False,False,Hybrid,Mixed
-847,Natural,espresso,medium,beans,Kenia,20.72,80,False,medium_espresso,False,True,False,False,Natural,Africa
-848,Natural,espresso,medium,beans,Kenia,19.98,80,False,medium_espresso,False,True,False,False,Natural,Africa
-849,Washed,espresso,dark,ground,"Brazylia, Peru, Wietnam",20.72,100,True,dark_espresso,True,False,False,False,Washed,Mixed
-850,Washed,espresso,dark,ground,"Brazylia, Peru, Wietnam",15.92,100,True,dark_espresso,True,False,False,False,Washed,Mixed
-851,Rum Aged,"drip, espresso",light,beans,Gwatemala,18.17,0,False,"light_drip, espresso",False,False,False,False,Fermented,Latam
-852,Rum Aged,"drip, espresso",light,beans,Gwatemala,16.5,0,False,"light_drip, espresso",False,False,False,False,Fermented,Latam
-853,Rum Aged,"drip, espresso",light,beans,Gwatemala,18.17,0,False,"light_drip, espresso",False,False,False,False,Fermented,Latam
-854,Honey + Anaerobic,drip (alternative brewing methods),light,beans,Brazylia,45.6,100,True,light_drip (alternative brewing methods),True,True,False,True,Honey,Latam
-855,Washed,espresso,dark,ground,"Brazylia, Peru, Wietnam",23.92,100,True,dark_espresso,True,False,False,False,Washed,Mixed
-856,Natural,espresso,light,beans,Panama,39.0,30,False,light_espresso,False,True,False,False,Natural,Latam
-857,Rum Aged,drip (alternative brewing methods),light,beans,Gwatemala,73.33,100,True,light_drip (alternative brewing methods),False,False,False,False,Fermented,Latam
-858,Natural,espresso,light,beans,Panama,50.0,30,False,light_espresso,False,True,False,False,Natural,Latam
-859,Pulped natural,drip (alternative brewing methods),light,beans,Nikaragua,36.0,100,True,light_drip (alternative brewing methods),True,True,False,False,Hybrid,Latam
-860,Washed,drip (alternative brewing methods),light,beans,Gwatemala,25.0,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Latam
-861,Washed,drip (alternative brewing methods),light,beans,Gwatemala,29.6,100,True,light_drip (alternative brewing methods),True,False,False,False,Washed,Latam
+,brewing_method,roast,pure_arabica,grind,Fermented_closedtank,price_per_kg
+0,drip (alternative brewing methods),light,True,beans,False,52.22
+1,drip (alternative brewing methods),medium,True,beans,False,31.92
+2,drip (alternative brewing methods),light,True,beans,False,39.2
+3,drip (alternative brewing methods),light,True,beans,False,39.2
+4,drip (alternative brewing methods),dark,True,beans,False,35.2
+5,drip (alternative brewing methods),medium,True,beans,False,20.76
+6,drip (alternative brewing methods),light,True,beans,False,45.0
+8,drip (alternative brewing methods),light,True,beans,False,45.6
+9,drip (alternative brewing methods),light,True,beans,False,62.7
+10,drip (alternative brewing methods),light,True,beans,False,52.38
+12,drip (alternative brewing methods),light,True,beans,False,60.0
+13,drip (alternative brewing methods),light,True,beans,False,50.4
+16,drip (alternative brewing methods),light,True,beans,False,52.0
+17,drip (alternative brewing methods),light,True,beans,False,89.0
+18,drip (alternative brewing methods),light,True,beans,False,88.0
+19,drip (alternative brewing methods),medium,True,beans,False,33.6
+20,drip (alternative brewing methods),light,True,beans,False,37.6
+21,drip (alternative brewing methods),light,True,beans,False,52.5
+22,drip (alternative brewing methods),light,True,beans,False,48.8
+23,drip (alternative brewing methods),light,True,beans,False,50.4
+24,drip (alternative brewing methods),light,True,beans,False,23.8
+25,drip (alternative brewing methods),light,True,beans,False,46.4
+26,drip (alternative brewing methods),light,True,beans,True,50.4
+27,drip (alternative brewing methods),light,True,beans,False,44.8
+28,drip (alternative brewing methods),light,True,beans,False,44.8
+29,drip (alternative brewing methods),light,True,beans,False,44.8
+30,drip (alternative brewing methods),light,True,beans,False,44.8
+31,drip (alternative brewing methods),light,True,beans,False,50.4
+32,drip (alternative brewing methods),light,True,beans,False,44.0
+33,drip (alternative brewing methods),light,True,beans,True,47.2
+34,drip (alternative brewing methods),light,True,beans,False,39.2
+35,drip (alternative brewing methods),light,True,beans,True,96.0
+37,drip (alternative brewing methods),light,True,beans,False,26.4
+38,drip (alternative brewing methods),light,True,beans,False,38.4
+39,drip (alternative brewing methods),light,True,ground,False,81.82
+40,drip (alternative brewing methods),light,True,ground,False,71.59
+41,drip (alternative brewing methods),light,True,ground,False,90.91
+42,drip (alternative brewing methods),light,True,ground,False,79.55
+43,drip (alternative brewing methods),light,True,ground,False,81.82
+44,drip (alternative brewing methods),light,True,ground,False,71.59
+46,drip (alternative brewing methods),light,True,ground,False,87.5
+47,drip (alternative brewing methods),light,True,ground,False,79.55
+48,drip (alternative brewing methods),light,True,ground,False,73.86
+49,drip (alternative brewing methods),light,True,beans,False,41.6
+50,drip (alternative brewing methods),light,True,beans,False,29.2
+51,drip (alternative brewing methods),light,True,beans,False,44.0
+52,drip (alternative brewing methods),light,True,beans,False,45.0
+53,drip (alternative brewing methods),light,True,beans,False,48.0
+54,drip (alternative brewing methods),light,True,beans,False,45.0
+55,drip (alternative brewing methods),light,True,beans,False,42.0
+56,drip (alternative brewing methods),light,True,beans,False,45.0
+57,drip (alternative brewing methods),light,True,beans,False,46.4
+58,drip (alternative brewing methods),light,True,beans,False,47.2
+59,drip (alternative brewing methods),light,True,beans,False,42.4
+60,drip (alternative brewing methods),light,True,beans,False,44.0
+61,drip (alternative brewing methods),light,True,beans,False,44.0
+62,drip (alternative brewing methods),light,True,beans,False,21.6
+63,drip (alternative brewing methods),light,True,beans,False,43.2
+64,drip (alternative brewing methods),light,True,beans,False,40.0
+65,drip (alternative brewing methods),light,True,beans,False,40.0
+66,drip (alternative brewing methods),light,True,beans,False,40.0
+67,drip (alternative brewing methods),light,True,beans,False,40.0
+68,drip (alternative brewing methods),light,True,beans,False,43.2
+69,drip (alternative brewing methods),light,True,beans,False,43.2
+70,drip (alternative brewing methods),light,True,beans,False,28.0
+71,drip (alternative brewing methods),light,True,beans,False,32.0
+72,drip (alternative brewing methods),light,True,beans,False,44.0
+73,drip (alternative brewing methods),light,True,beans,False,40.8
+74,drip (alternative brewing methods),light,True,beans,False,56.0
+75,drip (alternative brewing methods),light,True,beans,False,24.0
+76,drip (alternative brewing methods),light,True,beans,False,24.0
+77,drip (alternative brewing methods),light,True,beans,False,33.6
+78,drip (alternative brewing methods),light,True,beans,False,35.2
+79,drip (alternative brewing methods),light,True,beans,False,24.0
+80,drip (alternative brewing methods),light,True,beans,False,57.6
+81,drip (alternative brewing methods),light,True,beans,False,31.2
+82,drip (alternative brewing methods),light,True,beans,False,33.6
+83,drip (alternative brewing methods),light,True,beans,False,34.4
+84,drip (alternative brewing methods),light,True,beans,False,32.0
+85,drip (alternative brewing methods),light,True,beans,False,43.33
+86,drip (alternative brewing methods),light,True,beans,False,34.67
+87,drip (alternative brewing methods),light,True,beans,False,46.67
+88,drip (alternative brewing methods),light,True,beans,False,44.67
+89,drip (alternative brewing methods),light,True,beans,False,39.33
+90,drip (alternative brewing methods),light,True,beans,False,27.2
+91,drip (alternative brewing methods),light,True,beans,False,40.8
+92,drip (alternative brewing methods),light,True,beans,False,42.4
+93,drip (alternative brewing methods),light,True,beans,False,53.6
+94,drip (alternative brewing methods),light,True,beans,False,40.0
+95,drip (alternative brewing methods),light,True,beans,False,44.0
+96,drip (alternative brewing methods),light,True,beans,False,44.0
+97,drip (alternative brewing methods),light,True,beans,False,46.4
+98,drip (alternative brewing methods),light,True,beans,False,56.0
+99,drip (alternative brewing methods),light,True,beans,False,31.8
+100,drip (alternative brewing methods),light,True,beans,False,51.2
+101,drip (alternative brewing methods),light,True,beans,False,39.2
+102,drip (alternative brewing methods),light,True,beans,False,46.4
+103,drip (alternative brewing methods),light,True,beans,False,38.4
+104,drip (alternative brewing methods),light,True,beans,False,40.0
+105,drip (alternative brewing methods),light,True,beans,False,40.0
+106,drip (alternative brewing methods),light,True,beans,False,44.0
+107,drip (alternative brewing methods),light,True,beans,True,47.2
+108,drip (alternative brewing methods),light,True,beans,False,48.0
+109,drip (alternative brewing methods),light,True,beans,False,51.2
+110,drip (alternative brewing methods),light,True,beans,False,51.2
+111,drip (alternative brewing methods),light,True,beans,True,51.2
+112,drip (alternative brewing methods),light,True,beans,False,54.4
+113,drip (alternative brewing methods),light,True,beans,True,54.4
+114,drip (alternative brewing methods),light,True,beans,False,54.4
+115,drip (alternative brewing methods),light,True,beans,False,56.0
+116,drip (alternative brewing methods),light,True,beans,False,48.0
+117,drip (alternative brewing methods),light,True,beans,False,48.0
+118,drip (alternative brewing methods),light,True,beans,False,40.0
+119,drip (alternative brewing methods),light,True,beans,False,21.0
+120,drip (alternative brewing methods),light,True,beans,False,23.2
+121,drip (alternative brewing methods),light,True,beans,False,29.0
+122,drip (alternative brewing methods),light,True,beans,False,32.0
+123,drip (alternative brewing methods),light,True,beans,False,30.8
+124,drip (alternative brewing methods),light,True,beans,False,30.0
+125,drip (alternative brewing methods),light,True,beans,False,32.8
+126,drip (alternative brewing methods),light,True,beans,False,31.6
+127,drip (alternative brewing methods),light,True,ground,False,20.0
+128,drip (alternative brewing methods),light,True,beans,False,38.08
+129,drip (alternative brewing methods),light,True,beans,False,41.6
+130,drip (alternative brewing methods),light,True,beans,False,33.6
+131,drip (alternative brewing methods),light,True,beans,False,33.6
+132,drip (alternative brewing methods),light,True,beans,True,63.2
+133,drip (alternative brewing methods),light,True,beans,False,62.4
+134,drip (alternative brewing methods),light,True,beans,False,60.0
+135,drip (alternative brewing methods),light,True,beans,False,44.0
+136,drip (alternative brewing methods),light,True,beans,False,23.2
+137,drip (alternative brewing methods),light,True,beans,False,39.2
+138,drip (alternative brewing methods),light,True,beans,False,44.0
+139,drip (alternative brewing methods),light,True,beans,False,44.0
+140,drip (alternative brewing methods),light,True,beans,False,79.0
+141,drip (alternative brewing methods),light,True,beans,False,44.0
+142,drip (alternative brewing methods),light,True,beans,True,55.2
+143,drip (alternative brewing methods),light,True,beans,False,44.0
+144,drip (alternative brewing methods),light,True,beans,False,32.12
+145,drip (alternative brewing methods),light,True,beans,False,45.6
+146,drip (alternative brewing methods),light,True,beans,False,44.0
+147,drip (alternative brewing methods),light,True,beans,False,48.0
+148,drip (alternative brewing methods),light,True,beans,False,44.8
+149,drip (alternative brewing methods),light,True,beans,False,40.0
+150,drip (alternative brewing methods),light,True,beans,False,60.0
+151,drip (alternative brewing methods),light,True,beans,False,40.0
+152,drip (alternative brewing methods),light,True,beans,False,40.0
+153,drip (alternative brewing methods),light,True,beans,False,42.4
+154,drip (alternative brewing methods),light,True,beans,False,53.6
+155,drip (alternative brewing methods),light,True,beans,False,34.4
+156,drip (alternative brewing methods),light,True,beans,False,45.0
+157,drip (alternative brewing methods),light,True,beans,False,47.0
+158,drip (alternative brewing methods),light,True,beans,False,38.0
+159,drip (alternative brewing methods),light,True,beans,True,78.4
+160,drip (alternative brewing methods),light,True,beans,False,69.3
+161,drip (alternative brewing methods),light,True,beans,False,52.8
+162,drip (alternative brewing methods),light,True,beans,False,52.8
+163,drip (alternative brewing methods),light,True,beans,True,88.0
+164,drip (alternative brewing methods),light,True,beans,False,58.4
+165,drip (alternative brewing methods),light,True,beans,False,75.0
+166,drip (alternative brewing methods),light,True,beans,False,89.0
+167,drip (alternative brewing methods),light,True,beans,False,82.0
+168,drip (alternative brewing methods),light,True,beans,False,73.0
+169,drip (alternative brewing methods),light,True,beans,False,48.0
+170,drip (alternative brewing methods),light,True,beans,False,46.4
+171,drip (alternative brewing methods),light,True,beans,True,52.0
+172,drip (alternative brewing methods),light,True,beans,False,48.0
+173,drip (alternative brewing methods),medium,True,beans,False,26.4
+174,drip (alternative brewing methods),light,True,beans,False,47.2
+175,drip (alternative brewing methods),light,True,beans,False,39.2
+176,drip (alternative brewing methods),light,True,beans,False,40.0
+177,drip (alternative brewing methods),light,True,beans,False,47.2
+178,drip (alternative brewing methods),light,True,beans,False,33.04
+179,drip (alternative brewing methods),light,True,beans,False,54.4
+180,drip (alternative brewing methods),light,True,beans,False,47.2
+181,drip (alternative brewing methods),light,True,beans,True,46.4
+182,drip (alternative brewing methods),light,True,beans,False,48.0
+183,drip (alternative brewing methods),light,True,beans,False,46.4
+184,drip (alternative brewing methods),light,True,beans,False,36.0
+185,drip (alternative brewing methods),light,True,beans,False,36.0
+186,drip (alternative brewing methods),light,True,beans,False,32.8
+187,drip (alternative brewing methods),light,True,beans,False,39.2
+188,drip (alternative brewing methods),light,True,beans,False,36.0
+189,drip (alternative brewing methods),light,True,beans,False,36.0
+190,drip (alternative brewing methods),light,True,beans,False,54.4
+191,drip (alternative brewing methods),light,True,beans,False,33.6
+192,drip (alternative brewing methods),light,True,beans,False,44.0
+193,drip (alternative brewing methods),light,True,beans,False,26.4
+194,drip (alternative brewing methods),light,True,beans,False,51.2
+195,drip (alternative brewing methods),medium,True,beans,False,33.6
+196,drip (alternative brewing methods),medium,True,beans,False,31.6
+197,drip (alternative brewing methods),light,True,beans,False,33.6
+198,drip (alternative brewing methods),light,True,beans,False,39.0
+199,drip (alternative brewing methods),light,True,beans,False,40.0
+200,drip (alternative brewing methods),light,True,beans,False,47.2
+207,drip (alternative brewing methods),light,True,ground,False,82.29
+208,drip (alternative brewing methods),light,True,beans,False,52.38
+209,drip (alternative brewing methods),light,True,beans,False,52.0
+210,drip (alternative brewing methods),light,True,beans,False,49.6
+211,drip (alternative brewing methods),light,True,beans,False,52.8
+213,drip (alternative brewing methods),light,True,beans,False,60.0
+214,drip (alternative brewing methods),light,True,beans,False,60.0
+216,drip (alternative brewing methods),light,True,beans,False,87.2
+218,drip (alternative brewing methods),light,True,beans,False,46.4
+219,drip (alternative brewing methods),light,True,beans,False,37.6
+220,drip (alternative brewing methods),light,True,beans,False,46.4
+221,drip (alternative brewing methods),medium,True,beans,False,36.8
+222,drip (alternative brewing methods),light,True,beans,False,43.2
+223,drip (alternative brewing methods),light,True,beans,False,42.4
+224,drip (alternative brewing methods),light,True,beans,False,57.5
+225,drip (alternative brewing methods),light,True,beans,False,60.0
+226,drip (alternative brewing methods),light,True,beans,False,52.8
+227,drip (alternative brewing methods),light,True,beans,False,55.2
+228,drip (alternative brewing methods),light,True,beans,False,63.2
+229,drip (alternative brewing methods),light,True,beans,False,40.8
+230,drip (alternative brewing methods),light,True,beans,False,50.4
+231,drip (alternative brewing methods),light,True,beans,False,50.4
+232,drip (alternative brewing methods),light,True,beans,False,27.0
+233,drip (alternative brewing methods),light,True,beans,False,46.4
+234,drip (alternative brewing methods),light,True,beans,False,43.2
+235,drip (alternative brewing methods),light,True,beans,False,34.72
+236,drip (alternative brewing methods),light,True,beans,False,34.72
+237,drip (alternative brewing methods),light,True,beans,False,35.84
+238,drip (alternative brewing methods),light,True,beans,False,31.36
+239,drip (alternative brewing methods),light,True,beans,False,44.0
+240,drip (alternative brewing methods),light,True,beans,False,43.2
+241,drip (alternative brewing methods),light,True,beans,False,48.0
+242,drip (alternative brewing methods),light,True,beans,False,33.0
+243,drip (alternative brewing methods),light,True,beans,False,51.2
+244,drip (alternative brewing methods),light,True,beans,False,34.56
+245,drip (alternative brewing methods),light,True,ground,False,57.27
+246,drip (alternative brewing methods),light,True,beans,False,52.8
+247,drip (alternative brewing methods),light,True,beans,False,45.6
+248,drip (alternative brewing methods),light,True,beans,True,48.0
+249,drip (alternative brewing methods),light,True,beans,False,38.4
+250,drip (alternative brewing methods),light,True,beans,False,40.0
+251,drip (alternative brewing methods),light,True,beans,False,41.6
+252,drip (alternative brewing methods),light,True,beans,False,45.6
+253,drip (alternative brewing methods),light,True,beans,False,40.0
+254,drip (alternative brewing methods),light,True,beans,False,35.2
+255,drip (alternative brewing methods),light,True,beans,False,33.28
+256,drip (alternative brewing methods),light,True,beans,False,28.8
+257,drip (alternative brewing methods),light,True,beans,False,45.0
+258,drip (alternative brewing methods),light,True,beans,False,42.0
+259,drip (alternative brewing methods),light,True,beans,False,45.0
+260,drip (alternative brewing methods),light,True,beans,False,43.0
+261,drip (alternative brewing methods),light,True,beans,False,31.5
+262,drip (alternative brewing methods),light,True,beans,False,39.2
+263,drip (alternative brewing methods),light,True,beans,False,47.2
+264,drip (alternative brewing methods),light,True,beans,False,49.6
+265,drip (alternative brewing methods),light,True,beans,False,39.2
+266,drip (alternative brewing methods),light,True,beans,False,40.8
+267,drip (alternative brewing methods),light,True,beans,False,41.6
+268,drip (alternative brewing methods),light,True,beans,True,40.8
+269,drip (alternative brewing methods),light,True,beans,False,40.0
+270,drip (alternative brewing methods),light,False,beans,False,27.2
+271,drip (alternative brewing methods),light,True,beans,False,27.6
+272,drip (alternative brewing methods),light,True,beans,False,27.6
+273,drip (alternative brewing methods),light,True,beans,False,36.8
+274,drip (alternative brewing methods),light,True,beans,False,28.8
+275,drip (alternative brewing methods),light,True,beans,False,28.0
+276,drip (alternative brewing methods),light,True,beans,False,28.0
+277,drip (alternative brewing methods),light,True,beans,False,47.2
+278,drip (alternative brewing methods),light,True,beans,False,46.4
+279,drip (alternative brewing methods),light,True,beans,False,47.2
+280,drip (alternative brewing methods),light,True,beans,False,45.6
+281,drip (alternative brewing methods),light,True,beans,False,45.6
+282,drip (alternative brewing methods),light,True,beans,False,35.4
+283,drip (alternative brewing methods),light,True,beans,False,34.2
+284,drip (alternative brewing methods),light,True,beans,False,34.2
+285,drip (alternative brewing methods),light,True,beans,False,32.0
+286,drip (alternative brewing methods),light,True,beans,False,31.2
+287,drip (alternative brewing methods),light,True,beans,False,34.4
+288,drip (alternative brewing methods),light,True,beans,False,31.2
+289,drip (alternative brewing methods),light,True,beans,False,49.6
+290,drip (alternative brewing methods),light,True,beans,False,25.6
+291,drip (alternative brewing methods),light,True,beans,False,33.6
+292,drip (alternative brewing methods),light,True,beans,False,26.4
+293,drip (alternative brewing methods),light,True,beans,False,25.8
+294,drip (alternative brewing methods),light,True,beans,False,23.4
+295,drip (alternative brewing methods),light,True,beans,False,25.2
+296,drip (alternative brewing methods),light,True,beans,False,39.33
+297,drip (alternative brewing methods),light,True,beans,False,60.0
+298,drip (alternative brewing methods),light,True,beans,False,39.0
+299,drip (alternative brewing methods),light,True,beans,False,36.0
+300,drip (alternative brewing methods),light,True,beans,False,33.0
+301,drip (alternative brewing methods),light,True,beans,False,56.0
+302,drip (alternative brewing methods),light,True,beans,False,65.6
+303,drip (alternative brewing methods),light,True,beans,False,53.6
+304,drip (alternative brewing methods),light,True,beans,False,46.4
+305,drip (alternative brewing methods),light,True,beans,False,37.12
+306,drip (alternative brewing methods),light,True,beans,False,37.52
+307,drip (alternative brewing methods),light,True,beans,False,33.6
+308,drip (alternative brewing methods),light,True,beans,False,37.6
+309,drip (alternative brewing methods),light,True,beans,False,37.6
+310,drip (alternative brewing methods),light,True,beans,False,40.8
+311,drip (alternative brewing methods),light,True,beans,False,40.0
+312,drip (alternative brewing methods),light,True,beans,False,36.0
+313,drip (alternative brewing methods),light,True,beans,False,36.0
+314,drip (alternative brewing methods),light,True,beans,False,26.4
+315,drip (alternative brewing methods),light,True,beans,False,31.2
+316,drip (alternative brewing methods),light,True,beans,False,44.0
+317,drip (alternative brewing methods),light,True,beans,True,52.0
+318,drip (alternative brewing methods),light,True,beans,False,42.4
+319,drip (alternative brewing methods),light,True,beans,False,23.2
+320,drip (alternative brewing methods),light,True,beans,False,37.96
+321,drip (alternative brewing methods),light,True,beans,False,54.4
+322,drip (alternative brewing methods),light,True,beans,False,38.08
+323,drip (alternative brewing methods),light,True,beans,False,35.84
+324,drip (alternative brewing methods),light,True,beans,False,33.6
+325,drip (alternative brewing methods),light,True,beans,False,48.0
+326,drip (alternative brewing methods),light,True,beans,False,33.6
+327,drip (alternative brewing methods),light,True,beans,False,34.56
+328,drip (alternative brewing methods),light,True,beans,False,48.0
+329,drip (alternative brewing methods),light,True,beans,False,60.0
+330,drip (alternative brewing methods),light,True,beans,False,59.25
+331,drip (alternative brewing methods),light,True,beans,False,27.0
+332,drip (alternative brewing methods),light,True,beans,True,40.28
+333,drip (alternative brewing methods),light,True,beans,False,68.0
+334,drip (alternative brewing methods),medium,True,beans,False,24.8
+335,drip (alternative brewing methods),light,True,beans,False,45.6
+336,drip (alternative brewing methods),light,True,beans,True,51.2
+337,drip (alternative brewing methods),light,True,beans,False,54.4
+338,drip (alternative brewing methods),light,True,beans,False,36.0
+339,drip (alternative brewing methods),light,True,beans,False,55.2
+340,drip (alternative brewing methods),light,True,beans,False,38.0
+341,drip (alternative brewing methods),light,True,beans,True,62.0
+344,drip (alternative brewing methods),light,True,beans,False,64.0
+345,drip (alternative brewing methods),light,True,beans,False,80.0
+346,drip (alternative brewing methods),light,True,beans,False,60.0
+347,drip (alternative brewing methods),light,True,beans,False,80.0
+348,drip (alternative brewing methods),light,True,beans,False,65.6
+349,drip (alternative brewing methods),light,True,beans,False,99.0
+350,drip (alternative brewing methods),light,True,beans,True,90.0
+352,drip (alternative brewing methods),light,True,beans,True,49.6
+353,drip (alternative brewing methods),light,True,beans,True,37.2
+354,drip (alternative brewing methods),light,True,beans,False,36.8
+355,drip (alternative brewing methods),light,True,beans,False,36.8
+356,drip (alternative brewing methods),light,True,beans,False,31.2
+357,drip (alternative brewing methods),light,True,beans,False,36.0
+358,drip (alternative brewing methods),light,True,beans,False,40.8
+359,drip (alternative brewing methods),light,True,beans,False,25.2
+360,drip (alternative brewing methods),light,True,beans,False,28.56
+361,drip (alternative brewing methods),light,True,beans,False,51.2
+362,drip (alternative brewing methods),light,True,beans,False,52.8
+363,drip (alternative brewing methods),light,True,beans,False,55.2
+364,drip (alternative brewing methods),light,True,beans,False,52.8
+365,drip (alternative brewing methods),light,True,beans,False,50.4
+366,drip (alternative brewing methods),light,True,beans,False,52.8
+367,drip (alternative brewing methods),light,True,beans,False,55.2
+368,drip (alternative brewing methods),light,True,beans,False,60.0
+369,drip (alternative brewing methods),light,True,beans,False,36.0
+370,drip (alternative brewing methods),light,True,beans,False,36.0
+371,drip (alternative brewing methods),light,True,beans,False,36.0
+372,drip (alternative brewing methods),light,True,beans,True,48.0
+373,drip (alternative brewing methods),light,True,beans,False,38.4
+374,drip (alternative brewing methods),light,True,beans,False,40.0
+375,drip (alternative brewing methods),light,True,beans,False,36.0
+376,drip (alternative brewing methods),light,True,beans,False,31.5
+377,drip (alternative brewing methods),light,True,beans,False,35.2
+378,"drip, espresso",dark,True,beans,False,29.6
+379,"drip, espresso",medium,True,beans,False,31.6
+380,"drip, espresso",medium,True,ground,False,22.0
+381,"drip, espresso",medium,True,beans,False,45.6
+382,"drip, espresso",medium,True,ground,False,28.8
+383,"drip, espresso",medium,True,ground,False,19.2
+384,"drip, espresso",medium,True,beans,False,19.2
+385,"drip, espresso",medium,True,beans,False,22.0
+386,"drip, espresso",medium,True,beans,False,36.0
+387,"drip, espresso",light,True,beans,False,44.8
+388,"drip, espresso",medium,True,beans,False,44.8
+389,"drip, espresso",medium,True,beans,False,38.4
+390,"drip, espresso",medium,True,beans,False,47.2
+391,"drip, espresso",light,True,beans,False,54.4
+392,"drip, espresso",light,True,beans,False,48.0
+393,"drip, espresso",medium,True,beans,False,49.6
+394,"drip, espresso",medium,True,beans,False,39.2
+395,"drip, espresso",medium,True,beans,False,22.4
+396,"drip, espresso",medium,True,beans,False,25.6
+397,"drip, espresso",medium,True,beans,False,28.0
+398,"drip, espresso",medium,True,beans,False,33.6
+399,"drip, espresso",medium,True,beans,False,40.8
+400,"drip, espresso",medium,True,beans,False,45.6
+401,"drip, espresso",medium,True,beans,False,47.2
+402,"drip, espresso",medium,True,beans,False,51.2
+403,"drip, espresso",medium,True,beans,False,52.8
+404,"drip, espresso",medium,True,beans,False,52.0
+405,"drip, espresso",light,True,beans,False,66.4
+406,"drip, espresso",light,True,beans,False,61.6
+408,"drip, espresso",medium,True,beans,True,68.0
+409,"drip, espresso",medium,True,beans,False,37.6
+410,"drip, espresso",medium,True,beans,False,50.4
+411,"drip, espresso",medium,True,beans,False,51.2
+413,"drip, espresso",dark,True,beans,False,29.96
+414,"drip, espresso",medium,True,beans,False,29.6
+415,"drip, espresso",medium,True,beans,False,17.8
+416,"drip, espresso",medium,True,beans,False,47.2
+417,"drip, espresso",medium,True,beans,False,28.8
+418,"drip, espresso",medium,True,beans,False,48.0
+419,"drip, espresso",medium,True,beans,False,45.6
+420,"drip, espresso",medium,True,beans,False,59.2
+421,"drip, espresso",medium,True,beans,False,59.2
+422,"drip, espresso",light,True,beans,False,64.5
+423,"drip, espresso",medium,True,beans,True,35.2
+424,"drip, espresso",medium,True,beans,False,43.2
+425,"drip, espresso",medium,True,beans,False,25.6
+426,"drip, espresso",medium,True,beans,False,21.6
+427,"drip, espresso",medium,True,beans,False,19.2
+428,"drip, espresso",light,True,beans,False,48.0
+429,"drip, espresso",medium,True,beans,True,41.6
+430,"drip, espresso",medium,True,beans,False,49.6
+431,"drip, espresso",medium,True,beans,False,46.4
+432,"drip, espresso",medium,True,beans,False,42.12
+433,"drip, espresso",medium,True,beans,False,53.6
+434,"drip, espresso",medium,True,beans,False,39.2
+435,"drip, espresso",medium,True,beans,False,49.6
+436,"drip, espresso",medium,True,beans,False,58.4
+437,"drip, espresso",medium,True,beans,False,56.0
+438,"drip, espresso",medium,True,beans,False,49.6
+439,"drip, espresso",medium,True,beans,False,45.6
+440,"drip, espresso",medium,True,beans,False,65.6
+441,"drip, espresso",medium,True,beans,False,78.4
+443,"drip, espresso",medium,True,beans,False,64.0
+444,"drip, espresso",medium,True,beans,False,46.4
+445,"drip, espresso",medium,True,beans,False,59.0
+446,"drip, espresso",medium,True,beans,False,36.8
+447,"drip, espresso",medium,True,beans,False,34.8
+448,"drip, espresso",medium,True,beans,False,40.0
+449,"drip, espresso",medium,True,beans,False,33.6
+450,espresso,medium,True,beans,False,27.8
+451,espresso,medium,True,beans,False,34.4
+452,espresso,medium,True,beans,False,31.6
+453,espresso,medium,False,beans,False,19.8
+454,espresso,medium,False,beans,False,25.6
+455,espresso,medium,True,beans,False,26.0
+456,espresso,medium,False,beans,False,15.8
+457,espresso,medium,False,beans,True,19.8
+458,espresso,medium,False,beans,True,25.52
+459,espresso,medium,True,beans,False,25.0
+460,espresso,medium,True,beans,False,28.8
+461,espresso,medium,True,beans,False,30.0
+462,espresso,medium,True,ground,False,28.0
+463,espresso,medium,True,beans,False,21.8
+464,espresso,medium,True,beans,False,23.2
+465,espresso,medium,True,beans,False,24.0
+466,espresso,medium,True,beans,False,24.0
+467,espresso,medium,True,beans,False,24.8
+468,espresso,medium,True,beans,False,31.6
+469,espresso,medium,True,beans,False,40.0
+470,espresso,medium,True,beans,False,20.8
+471,espresso,dark,True,beans,True,18.4
+472,espresso,medium,False,beans,False,19.68
+473,espresso,dark,True,beans,True,23.12
+474,espresso,dark,True,beans,True,23.92
+475,espresso,dark,True,beans,True,17.8
+476,espresso,medium,False,beans,False,27.6
+477,espresso,medium,True,beans,False,32.0
+478,espresso,dark,False,beans,False,12.98
+479,espresso,dark,True,beans,True,15.98
+480,espresso,medium,True,beans,False,21.8
+481,espresso,medium,True,beans,False,22.4
+482,espresso,medium,True,beans,False,25.8
+483,espresso,medium,True,beans,False,28.0
+484,espresso,medium,True,beans,False,29.6
+485,espresso,dark,True,beans,False,19.98
+486,espresso,dark,True,beans,True,17.98
+487,espresso,medium,True,beans,False,37.6
+488,espresso,dark,False,beans,False,18.4
+489,espresso,medium,True,beans,False,25.6
+490,espresso,medium,True,beans,False,26.0
+491,espresso,medium,True,beans,False,28.0
+492,espresso,medium,True,beans,False,20.8
+493,espresso,dark,True,ground,True,15.96
+494,espresso,dark,False,ground,False,28.0
+495,espresso,dark,True,beans,True,23.8
+496,espresso,dark,False,beans,False,13.8
+497,espresso,dark,False,beans,False,11.8
+498,espresso,dark,False,beans,False,14.0
+499,espresso,dark,False,beans,False,22.0
+500,espresso,dark,True,ground,False,15.2
+501,espresso,dark,True,beans,True,25.0
+502,espresso,dark,True,beans,True,22.8
+503,espresso,dark,True,beans,True,23.6
+504,espresso,medium,True,beans,False,17.8
+505,espresso,medium,True,beans,False,20.0
+506,espresso,medium,True,beans,False,21.8
+507,espresso,medium,True,beans,False,25.6
+508,espresso,medium,True,beans,False,19.0
+509,espresso,medium,True,beans,False,21.6
+510,espresso,medium,True,beans,False,17.8
+511,espresso,medium,True,beans,False,20.0
+512,espresso,medium,True,beans,False,24.0
+513,espresso,medium,True,beans,False,28.0
+514,espresso,medium,True,beans,False,24.0
+515,espresso,medium,True,beans,False,28.0
+516,espresso,medium,True,beans,False,19.0
+517,espresso,medium,True,beans,False,21.6
+518,espresso,dark,True,beans,False,19.0
+519,espresso,dark,True,beans,False,21.6
+520,espresso,medium,True,beans,False,17.28
+521,espresso,medium,True,beans,False,31.8
+522,espresso,dark,True,beans,False,29.8
+523,espresso,dark,True,beans,False,31.2
+524,espresso,medium,True,beans,False,25.0
+525,espresso,medium,True,beans,False,31.2
+526,espresso,medium,True,ground,False,31.2
+527,espresso,medium,True,beans,False,19.8
+528,espresso,medium,True,beans,False,22.4
+529,espresso,dark,False,beans,True,17.6
+530,espresso,dark,False,beans,True,19.2
+531,espresso,dark,False,beans,True,18.4
+532,espresso,medium,True,beans,False,23.8
+533,espresso,medium,True,beans,False,25.6
+534,espresso,medium,True,beans,False,24.8
+535,espresso,medium,True,beans,False,19.0
+536,espresso,medium,True,beans,False,20.4
+537,espresso,medium,True,beans,False,25.8
+538,espresso,medium,True,beans,False,28.8
+539,espresso,medium,True,beans,False,25.2
+540,espresso,medium,True,beans,False,31.0
+541,espresso,medium,True,beans,False,33.6
+542,espresso,medium,True,beans,False,23.6
+543,espresso,medium,True,beans,False,25.6
+544,espresso,medium,True,beans,False,24.0
+545,espresso,medium,True,beans,False,45.24
+546,espresso,dark,True,beans,False,23.2
+547,espresso,dark,True,beans,False,28.0
+548,espresso,dark,True,beans,False,23.92
+549,espresso,dark,True,beans,False,23.92
+550,espresso,dark,True,ground,False,23.12
+551,espresso,dark,True,ground,False,23.12
+552,espresso,dark,True,ground,False,23.92
+553,espresso,dark,True,beans,True,23.92
+554,espresso,dark,True,ground,False,23.92
+555,espresso,dark,True,beans,True,23.12
+556,espresso,dark,False,beans,False,22.32
+557,espresso,dark,False,beans,False,17.8
+558,espresso,dark,False,beans,False,19.18
+559,espresso,dark,True,ground,False,15.92
+560,espresso,dark,True,ground,False,14.32
+561,espresso,dark,True,beans,True,12.98
+562,espresso,dark,True,beans,True,14.32
+563,espresso,dark,False,ground,False,11.92
+564,espresso,dark,False,beans,False,10.98
+565,espresso,dark,False,beans,False,11.92
+566,espresso,dark,False,ground,False,12.72
+567,espresso,dark,False,beans,False,12.98
+568,espresso,dark,False,beans,False,13.52
+569,espresso,dark,False,beans,False,7.8
+570,espresso,dark,True,beans,True,13.98
+571,espresso,dark,False,beans,False,13.98
+572,espresso,dark,False,beans,False,15.4
+573,espresso,medium,True,beans,False,31.8
+574,espresso,medium,True,beans,False,39.2
+575,espresso,medium,True,beans,False,13.8
+576,espresso,medium,False,beans,False,12.38
+577,espresso,medium,True,beans,False,12.38
+578,espresso,medium,False,beans,False,12.38
+579,espresso,medium,False,beans,False,12.38
+580,espresso,medium,True,beans,False,12.98
+581,espresso,medium,True,beans,False,12.76
+582,espresso,dark,False,beans,False,9.58
+583,espresso,dark,False,beans,False,10.4
+584,espresso,dark,False,ground,False,11.12
+585,espresso,dark,False,beans,False,10.98
+586,espresso,dark,True,beans,True,10.98
+587,espresso,dark,True,ground,False,15.92
+588,espresso,dark,True,ground,False,15.92
+589,espresso,dark,True,beans,True,13.58
+590,espresso,dark,False,ground,False,11.92
+591,espresso,dark,False,beans,False,11.92
+592,espresso,dark,False,beans,False,11.96
+593,espresso,dark,False,beans,False,9.98
+594,espresso,dark,False,beans,False,12.98
+595,espresso,dark,False,beans,True,19.98
+596,espresso,dark,False,beans,False,18.4
+597,espresso,dark,False,beans,False,23.92
+598,espresso,dark,True,beans,False,23.92
+599,espresso,dark,True,beans,False,35.8
+600,espresso,dark,True,beans,False,41.6
+601,espresso,dark,True,beans,False,28.72
+602,espresso,dark,True,ground,False,28.72
+603,espresso,dark,True,beans,False,26.36
+604,espresso,dark,True,beans,False,23.98
+605,espresso,dark,True,beans,False,26.36
+606,espresso,dark,False,beans,False,19.98
+607,espresso,dark,True,beans,False,20.2
+608,espresso,dark,True,beans,False,37.36
+609,espresso,dark,True,ground,False,23.92
+610,espresso,dark,True,beans,True,23.92
+611,espresso,dark,False,ground,False,23.92
+612,espresso,dark,False,beans,False,23.92
+613,espresso,dark,False,beans,False,13.98
+614,espresso,dark,False,beans,False,21.8
+615,espresso,dark,False,beans,False,11.0
+616,espresso,dark,False,beans,False,16.4
+617,espresso,dark,True,ground,False,24.8
+618,espresso,dark,False,beans,False,19.8
+619,espresso,medium,False,beans,False,13.98
+620,espresso,medium,False,beans,False,11.58
+621,espresso,medium,False,beans,False,12.8
+622,espresso,medium,False,ground,False,15.12
+623,espresso,medium,False,ground,False,11.36
+624,espresso,medium,True,ground,False,23.92
+625,espresso,dark,True,ground,False,19.92
+626,espresso,medium,True,beans,False,27.2
+627,espresso,dark,True,beans,True,39.2
+628,espresso,medium,True,beans,False,22.9
+630,espresso,dark,False,beans,False,59.88
+632,espresso,dark,False,beans,False,59.88
+633,espresso,dark,False,beans,False,87.6
+634,espresso,medium,True,beans,False,27.0
+635,espresso,medium,True,beans,False,26.0
+636,espresso,medium,True,beans,False,23.8
+637,espresso,medium,True,beans,False,22.8
+638,espresso,medium,True,beans,False,29.8
+639,espresso,medium,True,beans,False,22.4
+640,espresso,medium,True,beans,False,19.8
+641,espresso,dark,False,ground,False,16.8
+642,espresso,dark,False,beans,False,18.0
+643,espresso,dark,True,ground,False,15.2
+644,espresso,medium,True,ground,False,13.6
+645,espresso,dark,False,ground,False,13.6
+646,espresso,dark,False,ground,False,16.8
+647,espresso,dark,False,beans,False,18.0
+648,espresso,dark,False,beans,False,13.18
+649,espresso,dark,True,beans,True,17.98
+650,espresso,dark,False,beans,False,15.98
+651,espresso,dark,False,beans,False,17.18
+652,espresso,dark,False,beans,False,11.98
+653,espresso,medium,True,beans,False,32.0
+654,espresso,medium,True,beans,False,27.2
+655,espresso,medium,True,beans,False,28.0
+656,espresso,medium,True,beans,False,25.6
+657,espresso,medium,True,beans,False,20.4
+658,espresso,medium,True,beans,False,18.4
+659,espresso,medium,True,beans,False,21.6
+660,espresso,medium,True,beans,False,21.8
+661,espresso,medium,True,beans,False,20.0
+662,espresso,medium,True,beans,False,18.6
+663,espresso,medium,True,beans,False,21.6
+664,espresso,medium,True,beans,False,20.4
+665,espresso,medium,True,beans,False,36.0
+666,espresso,dark,False,beans,False,25.0
+667,espresso,medium,True,beans,False,25.6
+668,espresso,medium,True,beans,False,21.8
+669,espresso,medium,True,beans,False,24.0
+670,espresso,dark,True,beans,False,27.2
+671,espresso,medium,True,beans,False,28.0
+672,espresso,medium,True,beans,True,22.0
+673,espresso,medium,True,beans,False,24.0
+674,espresso,medium,True,beans,False,26.0
+675,espresso,medium,True,beans,False,26.4
+676,espresso,medium,True,beans,False,32.0
+677,espresso,medium,True,beans,False,20.8
+678,espresso,medium,True,beans,False,28.8
+679,espresso,medium,True,beans,False,25.2
+680,espresso,medium,True,beans,False,28.8
+681,espresso,medium,True,beans,False,20.8
+682,espresso,dark,True,beans,False,19.0
+683,espresso,dark,True,beans,False,20.8
+684,espresso,medium,True,beans,False,24.0
+685,espresso,medium,True,beans,False,26.4
+686,espresso,medium,True,ground,False,26.4
+687,espresso,dark,True,beans,False,20.0
+688,espresso,dark,True,beans,False,22.4
+689,espresso,dark,True,beans,True,19.78
+690,espresso,dark,False,beans,False,11.8
+691,espresso,dark,False,beans,False,9.98
+692,espresso,medium,True,beans,False,40.0
+693,espresso,medium,True,beans,False,33.6
+694,espresso,dark,False,beans,False,15.98
+695,espresso,dark,False,beans,False,12.9
+696,espresso,medium,True,beans,False,23.8
+697,espresso,medium,True,beans,False,24.0
+698,espresso,medium,True,beans,False,27.2
+699,espresso,medium,True,beans,False,23.8
+700,espresso,medium,True,beans,False,27.2
+701,espresso,medium,True,beans,False,39.2
+702,espresso,dark,True,ground,False,14.32
+703,espresso,dark,True,beans,True,13.56
+704,espresso,dark,True,ground,False,12.72
+705,espresso,dark,True,beans,True,16.0
+706,espresso,dark,True,beans,True,13.6
+707,espresso,dark,True,beans,False,15.0
+708,espresso,dark,False,beans,True,13.98
+709,espresso,dark,True,beans,False,15.0
+710,espresso,dark,True,beans,False,14.6
+711,espresso,dark,True,beans,False,40.4
+712,espresso,dark,True,beans,False,38.0
+713,espresso,dark,True,beans,False,31.8
+714,espresso,dark,True,beans,False,39.2
+715,espresso,dark,True,beans,False,37.6
+716,espresso,dark,True,beans,False,36.0
+717,espresso,dark,True,beans,False,28.8
+718,espresso,dark,True,ground,False,19.92
+719,espresso,medium,True,beans,False,21.8
+720,espresso,medium,True,beans,False,24.0
+721,espresso,medium,True,beans,False,24.0
+722,espresso,dark,True,beans,True,21.0
+723,espresso,dark,True,beans,True,27.0
+724,espresso,medium,False,beans,False,14.98
+725,espresso,medium,True,beans,False,38.4
+726,espresso,medium,True,beans,False,56.0
+727,espresso,medium,True,beans,False,47.6
+728,espresso,medium,True,beans,False,30.0
+729,espresso,medium,True,beans,False,35.2
+730,espresso,medium,True,beans,False,24.8
+731,espresso,dark,True,beans,False,37.6
+732,espresso,medium,True,beans,False,25.2
+733,espresso,medium,True,beans,False,51.2
+734,espresso,medium,True,beans,False,23.2
+735,espresso,medium,True,beans,False,23.2
+737,espresso,dark,False,beans,False,11.98
+738,espresso,dark,False,beans,False,14.4
+739,espresso,dark,False,ground,True,13.6
+740,espresso,dark,False,ground,False,23.2
+741,espresso,dark,False,beans,False,19.0
+742,espresso,dark,True,ground,False,25.6
+743,espresso,dark,True,beans,True,21.8
+744,espresso,medium,False,beans,False,15.98
+745,espresso,medium,True,beans,False,31.6
+746,espresso,medium,False,beans,False,29.6
+747,espresso,dark,True,beans,False,23.92
+748,espresso,medium,True,beans,False,44.0
+749,espresso,medium,True,beans,False,19.5
+750,espresso,medium,True,beans,False,30.0
+751,espresso,medium,False,beans,False,15.96
+752,espresso,medium,False,beans,False,19.96
+753,espresso,medium,True,beans,False,29.8
+754,espresso,medium,True,ground,False,15.92
+755,espresso,medium,True,beans,False,37.6
+756,espresso,medium,True,beans,False,37.6
+757,espresso,dark,True,beans,True,25.2
+758,espresso,dark,True,beans,True,25.6
+759,espresso,medium,True,beans,False,16.0
+760,espresso,medium,True,beans,False,19.62
+761,espresso,medium,True,beans,False,19.2
+762,espresso,medium,True,beans,False,14.25
+763,espresso,medium,True,beans,False,12.46
+764,espresso,medium,True,beans,False,17.0
+765,espresso,medium,True,beans,False,19.6
+766,espresso,medium,True,beans,False,16.8
+767,espresso,medium,True,beans,False,21.0
+768,espresso,medium,True,beans,False,15.2
+769,espresso,medium,True,beans,False,19.8
+770,espresso,medium,True,beans,False,23.2
+771,espresso,medium,True,beans,False,16.66
+772,espresso,medium,True,beans,False,20.64
+773,espresso,dark,False,beans,False,27.6
+774,espresso,dark,False,ground,False,17.6
+775,espresso,dark,False,ground,False,15.2
+776,espresso,dark,False,ground,False,17.6
+777,espresso,dark,False,ground,False,15.12
+778,espresso,medium,True,beans,False,15.0
+779,espresso,medium,True,beans,False,14.32
+780,espresso,dark,False,beans,False,11.0
+781,espresso,medium,False,beans,False,11.0
+782,espresso,medium,False,beans,False,15.0
+783,espresso,dark,False,beans,False,12.98
+784,espresso,dark,False,ground,True,9.8
+785,espresso,dark,True,beans,False,9.8
+786,espresso,dark,True,beans,False,23.92
+787,espresso,dark,True,beans,False,39.2
+788,espresso,dark,True,beans,False,23.92
+789,espresso,dark,False,beans,False,23.92
+790,espresso,dark,False,beans,False,17.98
+791,espresso,dark,False,beans,False,13.98
+792,espresso,dark,True,beans,True,21.0
+793,espresso,dark,True,beans,True,24.32
+794,espresso,medium,False,beans,False,21.8
+795,espresso,dark,False,ground,False,14.32
+796,espresso,dark,True,beans,True,33.8
+797,espresso,dark,True,beans,True,23.66
+798,espresso,medium,True,beans,False,20.8
+799,espresso,medium,True,beans,False,20.8
+801,espresso,dark,False,beans,False,74.29
+802,espresso,medium,True,beans,False,29.6
+803,espresso,dark,False,ground,False,16.8
+804,espresso,dark,False,ground,False,16.8
+805,espresso,medium,True,beans,False,20.0
+806,espresso,dark,False,ground,False,24.0
+807,espresso,medium,True,beans,False,32.8
+808,espresso,medium,True,beans,False,24.6
+809,espresso,dark,True,beans,True,28.0
+810,espresso,medium,True,beans,False,22.2
+811,espresso,medium,True,beans,False,20.16
+812,espresso,medium,True,beans,False,35.2
+813,espresso,medium,True,beans,False,42.4
+814,espresso,dark,False,beans,False,14.76
+815,espresso,dark,False,beans,False,11.58
+816,espresso,dark,True,beans,False,13.98
+817,espresso,dark,True,beans,True,28.0
+818,espresso,dark,True,ground,False,28.8
+819,espresso,dark,False,beans,True,24.8
+820,espresso,dark,False,ground,False,27.2
+821,espresso,dark,True,ground,False,28.8
+822,espresso,dark,True,beans,False,26.8
+823,espresso,dark,True,beans,True,23.8
+824,espresso,dark,True,beans,True,28.0
+825,espresso,dark,True,ground,False,30.4
+826,espresso,dark,False,beans,False,24.8
+827,espresso,dark,True,beans,False,28.0
+828,espresso,medium,True,beans,False,46.4
+829,espresso,medium,True,beans,False,45.6
+830,espresso,medium,True,beans,True,49.6
+831,espresso,medium,True,beans,False,18.0
+832,espresso,dark,False,ground,False,15.2
+833,espresso,medium,False,beans,False,34.4
+834,espresso,medium,True,beans,False,32.0
+835,espresso,medium,True,beans,False,36.0
+836,espresso,medium,True,beans,False,25.2
+837,espresso,medium,True,beans,False,39.2
+838,espresso,medium,True,beans,False,29.6
+839,espresso,medium,True,beans,False,41.6
+840,espresso,medium,True,beans,False,33.6
+841,espresso,medium,True,beans,False,18.0
+842,espresso,medium,True,beans,False,18.0
+843,espresso,medium,True,beans,False,46.4
+844,espresso,medium,True,beans,False,50.4
+845,espresso,dark,False,beans,False,22.4
+846,espresso,medium,True,beans,False,23.92
+847,espresso,medium,False,beans,False,20.72
+848,espresso,medium,False,beans,False,19.98
+849,espresso,dark,True,ground,False,20.72
+850,espresso,dark,True,ground,False,15.92
+851,"drip, espresso",light,False,beans,False,18.17
+852,"drip, espresso",light,False,beans,False,16.5
+853,"drip, espresso",light,False,beans,False,18.17
+854,drip (alternative brewing methods),light,True,beans,True,45.6
+855,espresso,dark,True,ground,False,23.92
+856,espresso,light,False,beans,False,39.0
+857,drip (alternative brewing methods),light,True,beans,False,73.33
+858,espresso,light,False,beans,False,50.0
+859,drip (alternative brewing methods),light,True,beans,False,36.0
+860,drip (alternative brewing methods),light,True,beans,False,25.0
+861,drip (alternative brewing methods),light,True,beans,False,29.6
